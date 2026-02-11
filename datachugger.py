@@ -4,8 +4,8 @@ import pandas as pd
 import numpy as np
 import os
 
-def select_file():
-    filepath = filedialog.askopenfilename(filetypes=[("CSV files", "*.csv"), ("Excel files", "*.xlsx;*.xls")])
+def select_file(prompt):
+    filepath = filedialog.askopenfilename(filetypes=[("CSV files", "*.csv"), ("Excel files", "*.xlsx;*.xls")], title = prompt )
     if filepath.split('.')[-1] in ['xlsx', 'xls']:
         df = pd.read_excel(filepath)
         # You can display the DataFrame here, or do something else with it
@@ -16,5 +16,5 @@ def select_file():
         print(df.head()) # Print the first few rows of the DataFrame
 
 
-inflow_05_09 = select_file()
-outflow_05_09 = select_file()
+inflow_05_09 = select_file("Select the inflow data file for 05-09")
+outflow_05_09 = select_file("Select the outflow data file for 05-09")

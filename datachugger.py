@@ -1,9 +1,20 @@
+import tkinter as tk
+from tkinter import filedialog
 import pandas as pd
 import numpy as np
 import os
 
-inflow_05_09 = pd.read_excel("C:/Users/alexo/Documents/GitHub/migration-data/migration.data/county-to-county-current-residence-sort(inflow 05-09).xls")
-outflow_05_09 = pd.read_excel("C:/Users/alexo/Documents/GitHub/migration-data/migration.data/county-to-county-previous-residence-sort(outflow 05-09).xls")
+def select_file():
+    filepath = filedialog.askopenfilename(filetypes=[("CSV files", "*.csv"), ("Excel files", "*.xlsx;*.xls")])
+    if filepath.split('.')[-1] in ['xlsx', 'xls']:
+        df = pd.read_excel(filepath)
+        # You can display the DataFrame here, or do something else with it
+        print(df.head()) # Print the first few rows of the DataFrame
+    else:
+        df = pd.read_csv(filepath)
+        # You can display the DataFrame here, or do something else with it
+        print(df.head()) # Print the first few rows of the DataFrame
 
-print(inflow_05_09.head(10))
-print(outflow_05_09.head(10))
+
+inflow_05_09 = select_file()
+outflow_05_09 = select_file()

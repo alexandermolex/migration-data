@@ -7,7 +7,7 @@ import re
 class MigrationFlowProcessor:
     """
     Custom processor for Census Bureau migration flow CSV files
-    Properly pairs estimate and MOE columns with descriptive names
+    Preserves FIPS codes as strings with leading zeros
     """
     
     def __init__(self, input_folder, output_folder=None):
@@ -119,6 +119,19 @@ class MigrationFlowProcessor:
         
         return column_names
     
+    def format_fips_code(self, value, length=3):
+        """
+        Format FIPS codes to ensure they have leading zeros and are strings
+        """
+        if pd.isna(value) or value == '' or value == '-':
+            return None
+        try:
+            # Convert to string and pad with leading zeros
+            return str(int(float(value))).zfill(length)
+        except (ValueError, TypeError):
+            # If it's already a string with special codes (ASI, EUR, etc.), return as is
+            return str(value)
+    
     def process_file(self, file_path, output_path=None):
         """
         Process a single migration flow file
@@ -136,6 +149,7 @@ class MigrationFlowProcessor:
                 print(f"    {name}")
             
             # Read the data starting from row 5 (index 4)
+            # Keep everything as string initially to preserve formatting
             df = pd.read_csv(file_path, header=None, skiprows=4, dtype=str)
             
             # Ensure we have the right number of columns
@@ -148,13 +162,27 @@ class MigrationFlowProcessor:
             # Assign column names
             df.columns = column_names
             
-            # Convert numeric columns
+            # Format FIPS codes to preserve leading zeros
+            fips_columns = ['origin_fips_state', 'origin_fips_county', 
+                           'dest_fips_state', 'dest_fips_county']
+            
+            for col in fips_columns:
+                if col in df.columns:
+                    if 'state' in col:
+                        # State FIPS are 2 digits
+                        df[col] = df[col].apply(lambda x: self.format_fips_code(x, 2))
+                    else:
+                        # County FIPS are 3 digits
+                        df[col] = df[col].apply(lambda x: self.format_fips_code(x, 3))
+            
+            # Convert estimate and MOE columns to numeric
             for col in df.columns:
                 if col.endswith('_estimate') or col.endswith('_moe') or 'population' in col:
-                    try:
-                        df[col] = pd.to_numeric(df[col], errors='coerce')
-                    except:
-                        pass
+                    if col not in fips_columns:  # Don't convert FIPS codes
+                        try:
+                            df[col] = pd.to_numeric(df[col], errors='coerce')
+                        except:
+                            pass
             
             # Clean up county names
             if 'origin_county_name' in df.columns:
@@ -166,6 +194,19 @@ class MigrationFlowProcessor:
                 df['dest_county_name_clean'] = df['dest_county_name'].apply(
                     lambda x: None if pd.isna(x) or x == '-' else str(x).replace(' County', '')
                 )
+            
+            # Create location keys for easier joining
+            df['origin_location_key'] = df.apply(
+                lambda row: f"{row['origin_fips_state']}_{row['origin_fips_county']}" 
+                if pd.notna(row.get('origin_fips_county')) and row.get('origin_fips_county') not in ['000', None]
+                else row.get('origin_state_name'), axis=1
+            )
+            
+            df['dest_location_key'] = df.apply(
+                lambda row: f"{row['dest_fips_state']}_{row['dest_fips_county']}"
+                if pd.notna(row.get('dest_fips_county')) and row.get('dest_fips_county') not in ['000', None]
+                else row.get('dest_state_name'), axis=1
+            )
             
             # Add metadata
             df['source_file'] = os.path.basename(file_path)
@@ -184,6 +225,13 @@ class MigrationFlowProcessor:
             df.to_csv(output_path, index=False)
             
             print(f"  ✓ Saved {len(df):,} records with {len(df.columns)} columns")
+            
+            # Show sample of FIPS codes to verify formatting
+            print("\n  Sample FIPS codes (should have leading zeros):")
+            for col in fips_columns:
+                if col in df.columns:
+                    sample = df[col].dropna().iloc[:3].tolist() if len(df) > 0 else []
+                    print(f"    {col}: {sample}")
             
             return df
             
@@ -225,16 +273,24 @@ class MigrationFlowProcessor:
         return results
 
 
-# Even simpler approach - just let pandas handle it
-def simple_process(input_folder, output_folder):
+# Simpler approach with proper FIPS handling
+def simple_process_with_fips(input_folder, output_folder):
     """
-    Simple processor that reads files with pandas default behavior
-    and adds consistent metadata
+    Simple processor that properly handles FIPS codes as strings
     """
     Path(output_folder).mkdir(parents=True, exist_ok=True)
     
     csv_files = glob.glob(os.path.join(input_folder, "*.csv"))
     print(f"Found {len(csv_files)} files")
+    
+    def format_fips(val, digits):
+        """Format FIPS code with leading zeros"""
+        if pd.isna(val) or val == '' or val == '-':
+            return None
+        try:
+            return str(int(float(val))).zfill(digits)
+        except:
+            return str(val)
     
     for i, file_path in enumerate(csv_files, 1):
         filename = os.path.basename(file_path)
@@ -242,10 +298,20 @@ def simple_process(input_folder, output_folder):
         
         try:
             # Read with pandas default header detection
-            df = pd.read_csv(file_path, skiprows=4)
+            df = pd.read_csv(file_path, skiprows=4, dtype=str)
             
-            # Clean up column names (remove extra spaces, lowercase)
+            # Clean up column names
             df.columns = [col.strip().lower().replace(' ', '_') for col in df.columns]
+            
+            # Identify FIPS columns (usually the first 4 columns)
+            if len(df.columns) >= 4:
+                # Format state FIPS (2 digits)
+                df.iloc[:, 0] = df.iloc[:, 0].apply(lambda x: format_fips(x, 2))
+                df.iloc[:, 2] = df.iloc[:, 2].apply(lambda x: format_fips(x, 2))
+                
+                # Format county FIPS (3 digits)
+                df.iloc[:, 1] = df.iloc[:, 1].apply(lambda x: format_fips(x, 3))
+                df.iloc[:, 3] = df.iloc[:, 3].apply(lambda x: format_fips(x, 3))
             
             # Add metadata
             df['source_file'] = filename
@@ -267,7 +333,7 @@ def simple_process(input_folder, output_folder):
 # Test function
 def test_with_sample():
     """Test the processor with a sample file"""
-    test_file = "migration.data/pre.processed.census.files/inflow_05_09/inflow_05_09_Alabama.csv"  # CHANGE THIS
+    test_file = "path/to/your/inflow_05_09_Alabama.csv"  # CHANGE THIS
     output_folder = "test_output"
     
     Path(output_folder).mkdir(exist_ok=True)
@@ -277,22 +343,26 @@ def test_with_sample():
     
     if df is not None:
         print("\n" + "="*60)
-        print("COLUMN NAMES (first 20):")
+        print("FIPS CODE VERIFICATION:")
         print("="*60)
-        for i, col in enumerate(df.columns[:20]):
-            print(f"{i:2d}. {col}")
         
-        # Show estimate/MOE pairs
+        # Show FIPS columns
+        fips_cols = ['origin_fips_state', 'origin_fips_county', 
+                    'dest_fips_state', 'dest_fips_county']
+        
+        for col in fips_cols:
+            if col in df.columns:
+                print(f"\n{col}:")
+                print(f"  Type: {df[col].dtype}")
+                print(f"  Sample values: {df[col].dropna().iloc[:5].tolist()}")
+        
+        # Show first few rows
         print("\n" + "="*60)
-        print("ESTIMATE/MOE PAIRS:")
+        print("FIRST 5 ROWS:")
         print("="*60)
-        estimate_cols = [col for col in df.columns if col.endswith('_estimate')]
-        for est in estimate_cols[:10]:  # Show first 10 pairs
-            moe = est.replace('_estimate', '_moe')
-            if moe in df.columns:
-                print(f"  {est}")
-                print(f"  {moe}")
-                print()
+        print(df[['origin_fips_state', 'origin_fips_county', 
+                  'dest_fips_state', 'dest_fips_county',
+                  'origin_state_name', 'dest_state_name']].head())
     
     return df
 
@@ -303,8 +373,11 @@ if __name__ == "__main__":
     output_folder = "migration.data/post.processed.census.files/outflow"  # <-- CHANGE THIS
     
     # Option 1: Test with one file first
-    #df = test_with_sample()
+    # df = test_with_sample()
     
-    # Option 2: Process all files
+    # Option 2: Process all files with the simple approach
+    #simple_process_with_fips(input_folder, output_folder)
+    
+    # Option 3: Process all files with the full processor
     processor = MigrationFlowProcessor(input_folder, output_folder)
     results = processor.process_all_files()

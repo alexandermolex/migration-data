@@ -6,17 +6,19 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import altair as alt 
 import os
+import pathlib
+from pathlib import Path
+import time as tm
 
-def select_file(prompt = "Select a file"):
-    filepath = filedialog.askopenfilename(filetypes=[("CSV files", "*.csv"), ("Excel files", "*.xlsx;*.xls")], title = prompt )
-    if filepath.split('.')[-1] in ['xlsx', 'xls']:
-        df = pd.read_excel(filepath)
-        # You can display the DataFrame here, or do something else with it
-        print(df.head()) # Print the first few rows of the DataFrame
+def load_file_path():
+    dir_path = Path(input("Please input file path: "))
+    if dir_path.exists() and dir_path.is_dir():
+        files = dir_path.glob('*.csv')
+        for file in files:
+            print(file)
+            tm.sleep(.2)
     else:
-        df = pd.read_csv(filepath)
-        # You can display the DataFrame here, or do something else with it
-        print(df.head()) # Print the first few rows of the DataFrame
+        print(f"Directory {dir_path} does not exist")
 
-inflow_05_09 = select_file("Select the inflow data file for 05-09")
-outflow_05_09 = select_file("Select the outflow data file for 05-09")
+inflow = pd.read_csv("migration.data/post.processed.census.files/inflow/inflow_05_09_Alabama_processed.csv")
+print(inflow.head())

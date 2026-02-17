@@ -23,11 +23,10 @@ def load_file_path():
 inflow = pd.read_csv("migration.data/post.processed.census.files/inflow/inflow_05_09_Alabama_processed.csv")
 inflow_count_pop = inflow[['origin_fips_state', 'origin_fips_county', 'origin_state_name', 'origin_county_name', 'county_of_current_residence_estimate']]
 uniq_inflow_county_pop = inflow_count_pop.drop_duplicates().reset_index(drop=True)
-chart = alt.Chart(uniq_inflow_county_pop).mark_bar().encode(
-    x='origin_county_name',
-    y='county_of_current_residence_estimate'
-
+uniq_inflow_county_pop_chart = alt.Chart(uniq_inflow_county_pop, title = 'Population by County Name').mark_bar().encode(
+    alt.X('origin_county_name').title("County Name").sort(field='county_of_current_residence_estimate'),
+    alt.Y('county_of_current_residence_estimate').title('County Resident Population Estimate')
 )
-chart.save('chart.html')
+uniq_inflow_county_pop_chart.save('uniq_inflow_county_pop_chart.html')
 
 

@@ -21,4 +21,13 @@ def load_file_path():
         print(f"Directory {dir_path} does not exist")
 
 inflow = pd.read_csv("migration.data/post.processed.census.files/inflow/inflow_05_09_Alabama_processed.csv")
-print(inflow.head())
+inflow_count_pop = inflow[['origin_fips_state', 'origin_fips_county', 'origin_state_name', 'origin_county_name', 'county_of_current_residence_estimate']]
+uniq_inflow_county_pop = inflow_count_pop.drop_duplicates().reset_index(drop=True)
+chart = alt.Chart(uniq_inflow_county_pop).mark_bar().encode(
+    x='origin_county_name',
+    y='county_of_current_residence_estimate'
+
+)
+chart.save('chart.html')
+
+

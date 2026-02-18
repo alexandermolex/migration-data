@@ -25,6 +25,7 @@ def batch_visuals():
         files = dir_path.glob('*.csv')
         for file in files:
             state_name = str(file).split('_')[-2]
+            flow = str(file).split("_")[-5]
             year = str(file).split('_')[-4] + '_' + str(file).split('_')[-3]
             df = pd.read_csv(file)
             inflow_count_pop = df[['origin_fips_state', 'origin_fips_county', 'origin_state_name', 'origin_county_name', 'county_of_current_residence_estimate',"origin_col_7_moe","year_start","year_end"]]
@@ -36,8 +37,24 @@ def batch_visuals():
                 alt.Y('county_of_current_residence_estimate').title('County Resident Population Estimate')
             )
             chart_file_name = f'{state_name}_{year}_county_population_chart.html'
-            uniq_inflow_county_pop_chart.save(chart_file_name)
-
+            if (year == '05_09' & flow == 'inflow'):
+                uniq_inflow_county_pop_chart.save("visuals/inflow/05_09" + chart_file_name)
+            elif (year == '09_13' & flow == 'inflow'):
+                uniq_inflow_county_pop_chart.save("visuals/inflow/09_13" + chart_file_name)
+            elif (year == '13_17' & flow == 'inflow'):
+                uniq_inflow_county_pop_chart.save("visuals/inflow/13_17" + chart_file_name)
+            elif (year == '16_20' & flow == 'inflow'):
+                uniq_inflow_county_pop_chart.save("visuals/inflow/16_20" + chart_file_name)
+            elif (year == '05_09' & flow == 'outflow'):
+                uniq_inflow_county_pop_chart.save("visuals/outflow/05_09" + chart_file_name)
+            elif (year == '09_13' & flow == 'outflow'):
+                uniq_inflow_county_pop_chart.save("visuals/outflow/09_13" + chart_file_name)
+            elif (year == '13_17' & flow == 'outflow'):
+                uniq_inflow_county_pop_chart.save("visuals/outflow/13_17" + chart_file_name)
+            elif (year == '16_20' & flow == 'outflow'):
+                uniq_inflow_county_pop_chart.save("visuals/outflow/16_20" + chart_file_name)
+            else:
+                uniq_inflow_county_pop_chart.save("visuals/" + chart_file_name)            
     else:
         print(f"Directory {dir_path} does not exist")
 

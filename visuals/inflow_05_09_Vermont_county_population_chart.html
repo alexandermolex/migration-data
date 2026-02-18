@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <style>
+    #vis.vega-embed {
+      width: 100%;
+      display: flex;
+    }
+
+    #vis.vega-embed details,
+    #vis.vega-embed details summary {
+      position: relative;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-lite@5.20.1"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"usermeta": {"embedOptions": {"theme": "dark"}}, "config": {"view": {"continuousWidth": 300, "continuousHeight": 300}}, "data": {"name": "data-8e2ed8e60cb6f64a7987445b25cbee6d"}, "mark": {"type": "bar"}, "encoding": {"x": {"axis": {"labelAngle": 45}, "field": "origin_county_name", "sort": {"field": "county_of_current_residence_estimate", "order": "descending"}, "title": "County Name", "type": "nominal"}, "y": {"field": "county_of_current_residence_estimate", "title": "County Resident Population Estimate", "type": "quantitative"}}, "title": "Population by County Name in Vermont from 2005 to 2009", "$schema": "https://vega.github.io/schema/vega-lite/v5.20.1.json", "datasets": {"data-8e2ed8e60cb6f64a7987445b25cbee6d": [{"origin_fips_state": "50", "origin_fips_county": 1.0, "origin_state_name": "Vermont", "origin_county_name": "Addison County", "county_of_current_residence_estimate": 36376.0, "origin_col_7_moe": 62.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "50", "origin_fips_county": 3.0, "origin_state_name": "Vermont", "origin_county_name": "Bennington County", "county_of_current_residence_estimate": 36100.0, "origin_col_7_moe": 112.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "50", "origin_fips_county": 5.0, "origin_state_name": "Vermont", "origin_county_name": "Caledonia County", "county_of_current_residence_estimate": 30073.0, "origin_col_7_moe": 92.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "50", "origin_fips_county": 7.0, "origin_state_name": "Vermont", "origin_county_name": "Chittenden County", "county_of_current_residence_estimate": 149438.0, "origin_col_7_moe": 192.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "50", "origin_fips_county": 9.0, "origin_state_name": "Vermont", "origin_county_name": "Essex County", "county_of_current_residence_estimate": 6376.0, "origin_col_7_moe": 20.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "50", "origin_fips_county": 11.0, "origin_state_name": "Vermont", "origin_county_name": "Franklin County", "county_of_current_residence_estimate": 47275.0, "origin_col_7_moe": 137.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "50", "origin_fips_county": 13.0, "origin_state_name": "Vermont", "origin_county_name": "Grand Isle County", "county_of_current_residence_estimate": 7486.0, "origin_col_7_moe": 38.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "50", "origin_fips_county": 15.0, "origin_state_name": "Vermont", "origin_county_name": "Lamoille County", "county_of_current_residence_estimate": 24822.0, "origin_col_7_moe": 122.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "50", "origin_fips_county": 17.0, "origin_state_name": "Vermont", "origin_county_name": "Orange County", "county_of_current_residence_estimate": 28666.0, "origin_col_7_moe": 80.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "50", "origin_fips_county": 19.0, "origin_state_name": "Vermont", "origin_county_name": "Orleans County", "county_of_current_residence_estimate": 27005.0, "origin_col_7_moe": 59.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "50", "origin_fips_county": 21.0, "origin_state_name": "Vermont", "origin_county_name": "Rutland County", "county_of_current_residence_estimate": 62740.0, "origin_col_7_moe": 125.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "50", "origin_fips_county": 23.0, "origin_state_name": "Vermont", "origin_county_name": "Washington County", "county_of_current_residence_estimate": 58314.0, "origin_col_7_moe": 113.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "50", "origin_fips_county": 25.0, "origin_state_name": "Vermont", "origin_county_name": "Windham County", "county_of_current_residence_estimate": 43309.0, "origin_col_7_moe": 90.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "50", "origin_fips_county": 27.0, "origin_state_name": "Vermont", "origin_county_name": "Windsor County", "county_of_current_residence_estimate": 56465.0, "origin_col_7_moe": 107.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "Footnotes:", "origin_fips_county": null, "origin_state_name": null, "origin_county_name": null, "county_of_current_residence_estimate": null, "origin_col_7_moe": null, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "1Incudes Puerto Rico, U.S. Island Areas, and Foreign Countries", "origin_fips_county": null, "origin_state_name": null, "origin_county_name": null, "county_of_current_residence_estimate": null, "origin_col_7_moe": null, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "MOE - Margin of error based on 90% confidence interval", "origin_fips_county": null, "origin_state_name": null, "origin_county_name": null, "county_of_current_residence_estimate": null, "origin_col_7_moe": null, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "Source: U.S. Census Bureau, 2005-2009 American Community Survey", "origin_fips_county": null, "origin_state_name": null, "origin_county_name": null, "county_of_current_residence_estimate": null, "origin_col_7_moe": null, "year_start": 2005, "year_end": 2009}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

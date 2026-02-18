@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <style>
+    #vis.vega-embed {
+      width: 100%;
+      display: flex;
+    }
+
+    #vis.vega-embed details,
+    #vis.vega-embed details summary {
+      position: relative;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-lite@5.20.1"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"usermeta": {"embedOptions": {"theme": "dark"}}, "config": {"view": {"continuousWidth": 300, "continuousHeight": 300}}, "data": {"name": "data-7784ebcebfc5ab0a9efc091546526441"}, "mark": {"type": "bar"}, "encoding": {"x": {"axis": {"labelAngle": 45}, "field": "origin_county_name", "sort": {"field": "county_of_current_residence_estimate", "order": "descending"}, "title": "County Name", "type": "nominal"}, "y": {"field": "county_of_current_residence_estimate", "title": "County Resident Population Estimate", "type": "quantitative"}}, "title": "Population by County Name in Arizona from 2016 to 2020", "$schema": "https://vega.github.io/schema/vega-lite/v5.20.1.json", "datasets": {"data-7784ebcebfc5ab0a9efc091546526441": [{"origin_fips_state": "04", "origin_fips_county": 1.0, "origin_state_name": "Arizona", "origin_county_name": "Apache County", "county_of_current_residence_estimate": 70978.0, "origin_col_7_moe": 117.0, "year_start": 2016, "year_end": 2020}, {"origin_fips_state": "04", "origin_fips_county": 3.0, "origin_state_name": "Arizona", "origin_county_name": "Cochise County", "county_of_current_residence_estimate": 124982.0, "origin_col_7_moe": 277.0, "year_start": 2016, "year_end": 2020}, {"origin_fips_state": "04", "origin_fips_county": 5.0, "origin_state_name": "Arizona", "origin_county_name": "Coconino County", "county_of_current_residence_estimate": 140837.0, "origin_col_7_moe": 272.0, "year_start": 2016, "year_end": 2020}, {"origin_fips_state": "04", "origin_fips_county": 7.0, "origin_state_name": "Arizona", "origin_county_name": "Gila County", "county_of_current_residence_estimate": 53383.0, "origin_col_7_moe": 138.0, "year_start": 2016, "year_end": 2020}, {"origin_fips_state": "04", "origin_fips_county": 9.0, "origin_state_name": "Arizona", "origin_county_name": "Graham County", "county_of_current_residence_estimate": 37915.0, "origin_col_7_moe": 118.0, "year_start": 2016, "year_end": 2020}, {"origin_fips_state": "04", "origin_fips_county": 11.0, "origin_state_name": "Arizona", "origin_county_name": "Greenlee County", "county_of_current_residence_estimate": 9289.0, "origin_col_7_moe": 77.0, "year_start": 2016, "year_end": 2020}, {"origin_fips_state": "04", "origin_fips_county": 12.0, "origin_state_name": "Arizona", "origin_county_name": "La Paz County", "county_of_current_residence_estimate": 20799.0, "origin_col_7_moe": 59.0, "year_start": 2016, "year_end": 2020}, {"origin_fips_state": "04", "origin_fips_county": 13.0, "origin_state_name": "Arizona", "origin_county_name": "Maricopa County", "county_of_current_residence_estimate": 4361511.0, "origin_col_7_moe": 2090.0, "year_start": 2016, "year_end": 2020}, {"origin_fips_state": "04", "origin_fips_county": 15.0, "origin_state_name": "Arizona", "origin_county_name": "Mohave County", "county_of_current_residence_estimate": 208907.0, "origin_col_7_moe": 401.0, "year_start": 2016, "year_end": 2020}, {"origin_fips_state": "04", "origin_fips_county": 17.0, "origin_state_name": "Arizona", "origin_county_name": "Navajo County", "county_of_current_residence_estimate": 109042.0, "origin_col_7_moe": 212.0, "year_start": 2016, "year_end": 2020}, {"origin_fips_state": "04", "origin_fips_county": 19.0, "origin_state_name": "Arizona", "origin_county_name": "Pima County", "county_of_current_residence_estimate": 1028084.0, "origin_col_7_moe": 769.0, "year_start": 2016, "year_end": 2020}, {"origin_fips_state": "04", "origin_fips_county": 21.0, "origin_state_name": "Arizona", "origin_county_name": "Pinal County", "county_of_current_residence_estimate": 442252.0, "origin_col_7_moe": 647.0, "year_start": 2016, "year_end": 2020}, {"origin_fips_state": "04", "origin_fips_county": 23.0, "origin_state_name": "Arizona", "origin_county_name": "Santa Cruz County", "county_of_current_residence_estimate": 46024.0, "origin_col_7_moe": 203.0, "year_start": 2016, "year_end": 2020}, {"origin_fips_state": "04", "origin_fips_county": 25.0, "origin_state_name": "Arizona", "origin_county_name": "Yavapai County", "county_of_current_residence_estimate": 230788.0, "origin_col_7_moe": 316.0, "year_start": 2016, "year_end": 2020}, {"origin_fips_state": "04", "origin_fips_county": 27.0, "origin_state_name": "Arizona", "origin_county_name": "Yuma County", "county_of_current_residence_estimate": 209051.0, "origin_col_7_moe": 469.0, "year_start": 2016, "year_end": 2020}, {"origin_fips_state": "Footnotes:", "origin_fips_county": null, "origin_state_name": null, "origin_county_name": null, "county_of_current_residence_estimate": null, "origin_col_7_moe": null, "year_start": 2016, "year_end": 2020}, {"origin_fips_state": "1Includes Puerto Rico, U.S. Island Areas, and Foreign Countries.", "origin_fips_county": null, "origin_state_name": null, "origin_county_name": null, "county_of_current_residence_estimate": null, "origin_col_7_moe": null, "year_start": 2016, "year_end": 2020}, {"origin_fips_state": "2Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.", "origin_fips_county": null, "origin_state_name": null, "origin_county_name": null, "county_of_current_residence_estimate": null, "origin_col_7_moe": null, "year_start": 2016, "year_end": 2020}, {"origin_fips_state": "Blank cells represent estimates that are not available.", "origin_fips_county": null, "origin_state_name": null, "origin_county_name": null, "county_of_current_residence_estimate": null, "origin_col_7_moe": null, "year_start": 2016, "year_end": 2020}, {"origin_fips_state": "MOE - Margin of error based on 90% confidence interval.", "origin_fips_county": null, "origin_state_name": null, "origin_county_name": null, "county_of_current_residence_estimate": null, "origin_col_7_moe": null, "year_start": 2016, "year_end": 2020}, {"origin_fips_state": "The Census Bureau reviewed this data product for unauthorized disclosure of confidential information and approved the disclosure avoidance practices applied to this release. CBDRB-FY23-027.", "origin_fips_county": null, "origin_state_name": null, "origin_county_name": null, "county_of_current_residence_estimate": null, "origin_col_7_moe": null, "year_start": 2016, "year_end": 2020}, {"origin_fips_state": "Source: U.S. Census Bureau, 2016-2020 American Community Survey, 5-year estimates. For more information, see https://census.gov/acs.", "origin_fips_county": null, "origin_state_name": null, "origin_county_name": null, "county_of_current_residence_estimate": null, "origin_col_7_moe": null, "year_start": 2016, "year_end": 2020}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

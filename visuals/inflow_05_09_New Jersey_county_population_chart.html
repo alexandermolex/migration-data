@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <style>
+    #vis.vega-embed {
+      width: 100%;
+      display: flex;
+    }
+
+    #vis.vega-embed details,
+    #vis.vega-embed details summary {
+      position: relative;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-lite@5.20.1"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"usermeta": {"embedOptions": {"theme": "dark"}}, "config": {"view": {"continuousWidth": 300, "continuousHeight": 300}}, "data": {"name": "data-3e7fd85ad68ad6ee4af23d31b4f19b50"}, "mark": {"type": "bar"}, "encoding": {"x": {"axis": {"labelAngle": 45}, "field": "origin_county_name", "sort": {"field": "county_of_current_residence_estimate", "order": "descending"}, "title": "County Name", "type": "nominal"}, "y": {"field": "county_of_current_residence_estimate", "title": "County Resident Population Estimate", "type": "quantitative"}}, "title": "Population by County Name in New Jersey from 2005 to 2009", "$schema": "https://vega.github.io/schema/vega-lite/v5.20.1.json", "datasets": {"data-3e7fd85ad68ad6ee4af23d31b4f19b50": [{"origin_fips_state": "34", "origin_fips_county": 1.0, "origin_state_name": "New Jersey", "origin_county_name": "Atlantic County", "county_of_current_residence_estimate": 266627.0, "origin_col_7_moe": 345.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "34", "origin_fips_county": 3.0, "origin_state_name": "New Jersey", "origin_county_name": "Bergen County", "county_of_current_residence_estimate": 878580.0, "origin_col_7_moe": 522.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "34", "origin_fips_county": 5.0, "origin_state_name": "New Jersey", "origin_county_name": "Burlington County", "county_of_current_residence_estimate": 441582.0, "origin_col_7_moe": 397.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "34", "origin_fips_county": 7.0, "origin_state_name": "New Jersey", "origin_county_name": "Camden County", "county_of_current_residence_estimate": 510012.0, "origin_col_7_moe": 532.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "34", "origin_fips_county": 9.0, "origin_state_name": "New Jersey", "origin_county_name": "Cape May County", "county_of_current_residence_estimate": 96359.0, "origin_col_7_moe": 166.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "34", "origin_fips_county": 11.0, "origin_state_name": "New Jersey", "origin_county_name": "Cumberland County", "county_of_current_residence_estimate": 152737.0, "origin_col_7_moe": 336.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "34", "origin_fips_county": 13.0, "origin_state_name": "New Jersey", "origin_county_name": "Essex County", "county_of_current_residence_estimate": 759379.0, "origin_col_7_moe": 832.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "34", "origin_fips_county": 15.0, "origin_state_name": "New Jersey", "origin_county_name": "Gloucester County", "county_of_current_residence_estimate": 281349.0, "origin_col_7_moe": 314.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "34", "origin_fips_county": 17.0, "origin_state_name": "New Jersey", "origin_county_name": "Hudson County", "county_of_current_residence_estimate": 584968.0, "origin_col_7_moe": 570.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "34", "origin_fips_county": 19.0, "origin_state_name": "New Jersey", "origin_county_name": "Hunterdon County", "county_of_current_residence_estimate": 128462.0, "origin_col_7_moe": 153.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "34", "origin_fips_county": 21.0, "origin_state_name": "New Jersey", "origin_county_name": "Mercer County", "county_of_current_residence_estimate": 359822.0, "origin_col_7_moe": 439.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "34", "origin_fips_county": 23.0, "origin_state_name": "New Jersey", "origin_county_name": "Middlesex County", "county_of_current_residence_estimate": 771569.0, "origin_col_7_moe": 657.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "34", "origin_fips_county": 25.0, "origin_state_name": "New Jersey", "origin_county_name": "Monmouth County", "county_of_current_residence_estimate": 634574.0, "origin_col_7_moe": 538.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "34", "origin_fips_county": 27.0, "origin_state_name": "New Jersey", "origin_county_name": "Morris County", "county_of_current_residence_estimate": 480183.0, "origin_col_7_moe": 520.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "34", "origin_fips_county": 29.0, "origin_state_name": "New Jersey", "origin_county_name": "Ocean County", "county_of_current_residence_estimate": 558331.0, "origin_col_7_moe": 450.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "34", "origin_fips_county": 31.0, "origin_state_name": "New Jersey", "origin_county_name": "Passaic County", "county_of_current_residence_estimate": 482199.0, "origin_col_7_moe": 611.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "34", "origin_fips_county": 33.0, "origin_state_name": "New Jersey", "origin_county_name": "Salem County", "county_of_current_residence_estimate": 65074.0, "origin_col_7_moe": 149.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "34", "origin_fips_county": 35.0, "origin_state_name": "New Jersey", "origin_county_name": "Somerset County", "county_of_current_residence_estimate": 317043.0, "origin_col_7_moe": 374.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "34", "origin_fips_county": 37.0, "origin_state_name": "New Jersey", "origin_county_name": "Sussex County", "county_of_current_residence_estimate": 149512.0, "origin_col_7_moe": 215.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "34", "origin_fips_county": 39.0, "origin_state_name": "New Jersey", "origin_county_name": "Union County", "county_of_current_residence_estimate": 514619.0, "origin_col_7_moe": 605.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "34", "origin_fips_county": 41.0, "origin_state_name": "New Jersey", "origin_county_name": "Warren County", "county_of_current_residence_estimate": 108243.0, "origin_col_7_moe": 204.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "Footnotes:", "origin_fips_county": null, "origin_state_name": null, "origin_county_name": null, "county_of_current_residence_estimate": null, "origin_col_7_moe": null, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "1Incudes Puerto Rico, U.S. Island Areas, and Foreign Countries", "origin_fips_county": null, "origin_state_name": null, "origin_county_name": null, "county_of_current_residence_estimate": null, "origin_col_7_moe": null, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "MOE - Margin of error based on 90% confidence interval", "origin_fips_county": null, "origin_state_name": null, "origin_county_name": null, "county_of_current_residence_estimate": null, "origin_col_7_moe": null, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "Source: U.S. Census Bureau, 2005-2009 American Community Survey", "origin_fips_county": null, "origin_state_name": null, "origin_county_name": null, "county_of_current_residence_estimate": null, "origin_col_7_moe": null, "year_start": 2005, "year_end": 2009}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

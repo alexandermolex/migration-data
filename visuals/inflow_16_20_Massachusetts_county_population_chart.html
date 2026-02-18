@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <style>
+    #vis.vega-embed {
+      width: 100%;
+      display: flex;
+    }
+
+    #vis.vega-embed details,
+    #vis.vega-embed details summary {
+      position: relative;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-lite@5.20.1"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"usermeta": {"embedOptions": {"theme": "dark"}}, "config": {"view": {"continuousWidth": 300, "continuousHeight": 300}}, "data": {"name": "data-6c9f94e45a2441b63c15c4053f6626e3"}, "mark": {"type": "bar"}, "encoding": {"x": {"axis": {"labelAngle": 45}, "field": "origin_county_name", "sort": {"field": "county_of_current_residence_estimate", "order": "descending"}, "title": "County Name", "type": "nominal"}, "y": {"field": "county_of_current_residence_estimate", "title": "County Resident Population Estimate", "type": "quantitative"}}, "title": "Population by County Name in Massachusetts from 2016 to 2020", "$schema": "https://vega.github.io/schema/vega-lite/v5.20.1.json", "datasets": {"data-6c9f94e45a2441b63c15c4053f6626e3": [{"origin_fips_state": "25", "origin_fips_county": 1.0, "origin_state_name": "Massachusetts", "origin_county_name": "Barnstable County", "county_of_current_residence_estimate": 211952.0, "origin_col_7_moe": 404.0, "year_start": 2016, "year_end": 2020}, {"origin_fips_state": "25", "origin_fips_county": 3.0, "origin_state_name": "Massachusetts", "origin_county_name": "Berkshire County", "county_of_current_residence_estimate": 125063.0, "origin_col_7_moe": 189.0, "year_start": 2016, "year_end": 2020}, {"origin_fips_state": "25", "origin_fips_county": 5.0, "origin_state_name": "Massachusetts", "origin_county_name": "Bristol County", "county_of_current_residence_estimate": 558120.0, "origin_col_7_moe": 462.0, "year_start": 2016, "year_end": 2020}, {"origin_fips_state": "25", "origin_fips_county": 7.0, "origin_state_name": "Massachusetts", "origin_county_name": "Dukes County", "county_of_current_residence_estimate": 17290.0, "origin_col_7_moe": 106.0, "year_start": 2016, "year_end": 2020}, {"origin_fips_state": "25", "origin_fips_county": 9.0, "origin_state_name": "Massachusetts", "origin_county_name": "Essex County", "county_of_current_residence_estimate": 779605.0, "origin_col_7_moe": 626.0, "year_start": 2016, "year_end": 2020}, {"origin_fips_state": "25", "origin_fips_county": 11.0, "origin_state_name": "Massachusetts", "origin_county_name": "Franklin County", "county_of_current_residence_estimate": 69953.0, "origin_col_7_moe": 119.0, "year_start": 2016, "year_end": 2020}, {"origin_fips_state": "25", "origin_fips_county": 13.0, "origin_state_name": "Massachusetts", "origin_county_name": "Hampden County", "county_of_current_residence_estimate": 461691.0, "origin_col_7_moe": 503.0, "year_start": 2016, "year_end": 2020}, {"origin_fips_state": "25", "origin_fips_county": 15.0, "origin_state_name": "Massachusetts", "origin_county_name": "Hampshire County", "county_of_current_residence_estimate": 160475.0, "origin_col_7_moe": 173.0, "year_start": 2016, "year_end": 2020}, {"origin_fips_state": "25", "origin_fips_county": 17.0, "origin_state_name": "Massachusetts", "origin_county_name": "Middlesex County", "county_of_current_residence_estimate": 1589891.0, "origin_col_7_moe": 960.0, "year_start": 2016, "year_end": 2020}, {"origin_fips_state": "25", "origin_fips_county": 19.0, "origin_state_name": "Massachusetts", "origin_county_name": "Nantucket County", "county_of_current_residence_estimate": 11148.0, "origin_col_7_moe": 101.0, "year_start": 2016, "year_end": 2020}, {"origin_fips_state": "25", "origin_fips_county": 21.0, "origin_state_name": "Massachusetts", "origin_county_name": "Norfolk County", "county_of_current_residence_estimate": 697397.0, "origin_col_7_moe": 509.0, "year_start": 2016, "year_end": 2020}, {"origin_fips_state": "25", "origin_fips_county": 23.0, "origin_state_name": "Massachusetts", "origin_county_name": "Plymouth County", "county_of_current_residence_estimate": 512921.0, "origin_col_7_moe": 654.0, "year_start": 2016, "year_end": 2020}, {"origin_fips_state": "25", "origin_fips_county": 25.0, "origin_state_name": "Massachusetts", "origin_county_name": "Suffolk County", "county_of_current_residence_estimate": 792384.0, "origin_col_7_moe": 689.0, "year_start": 2016, "year_end": 2020}, {"origin_fips_state": "25", "origin_fips_county": 27.0, "origin_state_name": "Massachusetts", "origin_county_name": "Worcester County", "county_of_current_residence_estimate": 818436.0, "origin_col_7_moe": 698.0, "year_start": 2016, "year_end": 2020}, {"origin_fips_state": "Footnotes:", "origin_fips_county": null, "origin_state_name": null, "origin_county_name": null, "county_of_current_residence_estimate": null, "origin_col_7_moe": null, "year_start": 2016, "year_end": 2020}, {"origin_fips_state": "1Includes Puerto Rico, U.S. Island Areas, and Foreign Countries.", "origin_fips_county": null, "origin_state_name": null, "origin_county_name": null, "county_of_current_residence_estimate": null, "origin_col_7_moe": null, "year_start": 2016, "year_end": 2020}, {"origin_fips_state": "2Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.", "origin_fips_county": null, "origin_state_name": null, "origin_county_name": null, "county_of_current_residence_estimate": null, "origin_col_7_moe": null, "year_start": 2016, "year_end": 2020}, {"origin_fips_state": "Blank cells represent estimates that are not available.", "origin_fips_county": null, "origin_state_name": null, "origin_county_name": null, "county_of_current_residence_estimate": null, "origin_col_7_moe": null, "year_start": 2016, "year_end": 2020}, {"origin_fips_state": "MOE - Margin of error based on 90% confidence interval.", "origin_fips_county": null, "origin_state_name": null, "origin_county_name": null, "county_of_current_residence_estimate": null, "origin_col_7_moe": null, "year_start": 2016, "year_end": 2020}, {"origin_fips_state": "The Census Bureau reviewed this data product for unauthorized disclosure of confidential information and approved the disclosure avoidance practices applied to this release. CBDRB-FY23-027.", "origin_fips_county": null, "origin_state_name": null, "origin_county_name": null, "county_of_current_residence_estimate": null, "origin_col_7_moe": null, "year_start": 2016, "year_end": 2020}, {"origin_fips_state": "Source: U.S. Census Bureau, 2016-2020 American Community Survey, 5-year estimates. For more information, see https://census.gov/acs.", "origin_fips_county": null, "origin_state_name": null, "origin_county_name": null, "county_of_current_residence_estimate": null, "origin_col_7_moe": null, "year_start": 2016, "year_end": 2020}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

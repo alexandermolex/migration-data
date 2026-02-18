@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <style>
+    #vis.vega-embed {
+      width: 100%;
+      display: flex;
+    }
+
+    #vis.vega-embed details,
+    #vis.vega-embed details summary {
+      position: relative;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-lite@5.20.1"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"usermeta": {"embedOptions": {"theme": "dark"}}, "config": {"view": {"continuousWidth": 300, "continuousHeight": 300}}, "data": {"name": "data-1d69fded78993b924bb88d4de2f68162"}, "mark": {"type": "bar"}, "encoding": {"x": {"axis": {"labelAngle": 45}, "field": "origin_county_name", "sort": {"field": "county_of_current_residence_estimate", "order": "descending"}, "title": "County Name", "type": "nominal"}, "y": {"field": "county_of_current_residence_estimate", "title": "County Resident Population Estimate", "type": "quantitative"}}, "title": "Population by County Name in Maine from 2005 to 2009", "$schema": "https://vega.github.io/schema/vega-lite/v5.20.1.json", "datasets": {"data-1d69fded78993b924bb88d4de2f68162": [{"origin_fips_state": "23", "origin_fips_county": 1.0, "origin_state_name": "Maine", "origin_county_name": "Androscoggin County", "county_of_current_residence_estimate": 105162.0, "origin_col_7_moe": 240.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "23", "origin_fips_county": 3.0, "origin_state_name": "Maine", "origin_county_name": "Aroostook County", "county_of_current_residence_estimate": 71369.0, "origin_col_7_moe": 96.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "23", "origin_fips_county": 5.0, "origin_state_name": "Maine", "origin_county_name": "Cumberland County", "county_of_current_residence_estimate": 273205.0, "origin_col_7_moe": 297.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "23", "origin_fips_county": 7.0, "origin_state_name": "Maine", "origin_county_name": "Franklin County", "county_of_current_residence_estimate": 29462.0, "origin_col_7_moe": 114.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "23", "origin_fips_county": 9.0, "origin_state_name": "Maine", "origin_county_name": "Hancock County", "county_of_current_residence_estimate": 52700.0, "origin_col_7_moe": 131.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "23", "origin_fips_county": 11.0, "origin_state_name": "Maine", "origin_county_name": "Kennebec County", "county_of_current_residence_estimate": 119592.0, "origin_col_7_moe": 202.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "23", "origin_fips_county": 13.0, "origin_state_name": "Maine", "origin_county_name": "Knox County", "county_of_current_residence_estimate": 40552.0, "origin_col_7_moe": 86.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "23", "origin_fips_county": 15.0, "origin_state_name": "Maine", "origin_county_name": "Lincoln County", "county_of_current_residence_estimate": 34388.0, "origin_col_7_moe": 96.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "23", "origin_fips_county": 17.0, "origin_state_name": "Maine", "origin_county_name": "Oxford County", "county_of_current_residence_estimate": 55963.0, "origin_col_7_moe": 146.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "23", "origin_fips_county": 19.0, "origin_state_name": "Maine", "origin_county_name": "Penobscot County", "county_of_current_residence_estimate": 146889.0, "origin_col_7_moe": 235.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "23", "origin_fips_county": 21.0, "origin_state_name": "Maine", "origin_county_name": "Piscataquis County", "county_of_current_residence_estimate": 16867.0, "origin_col_7_moe": 66.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "23", "origin_fips_county": 23.0, "origin_state_name": "Maine", "origin_county_name": "Sagadahoc County", "county_of_current_residence_estimate": 36023.0, "origin_col_7_moe": 139.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "23", "origin_fips_county": 25.0, "origin_state_name": "Maine", "origin_county_name": "Somerset County", "county_of_current_residence_estimate": 50664.0, "origin_col_7_moe": 114.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "23", "origin_fips_county": 27.0, "origin_state_name": "Maine", "origin_county_name": "Waldo County", "county_of_current_residence_estimate": 37894.0, "origin_col_7_moe": 82.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "23", "origin_fips_county": 29.0, "origin_state_name": "Maine", "origin_county_name": "Washington County", "county_of_current_residence_estimate": 32260.0, "origin_col_7_moe": 68.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "23", "origin_fips_county": 31.0, "origin_state_name": "Maine", "origin_county_name": "York County", "county_of_current_residence_estimate": 199070.0, "origin_col_7_moe": 245.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "Footnotes:", "origin_fips_county": null, "origin_state_name": null, "origin_county_name": null, "county_of_current_residence_estimate": null, "origin_col_7_moe": null, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "1Incudes Puerto Rico, U.S. Island Areas, and Foreign Countries", "origin_fips_county": null, "origin_state_name": null, "origin_county_name": null, "county_of_current_residence_estimate": null, "origin_col_7_moe": null, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "MOE - Margin of error based on 90% confidence interval", "origin_fips_county": null, "origin_state_name": null, "origin_county_name": null, "county_of_current_residence_estimate": null, "origin_col_7_moe": null, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "Source: U.S. Census Bureau, 2005-2009 American Community Survey", "origin_fips_county": null, "origin_state_name": null, "origin_county_name": null, "county_of_current_residence_estimate": null, "origin_col_7_moe": null, "year_start": 2005, "year_end": 2009}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

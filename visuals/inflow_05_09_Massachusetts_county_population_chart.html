@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <style>
+    #vis.vega-embed {
+      width: 100%;
+      display: flex;
+    }
+
+    #vis.vega-embed details,
+    #vis.vega-embed details summary {
+      position: relative;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-lite@5.20.1"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"usermeta": {"embedOptions": {"theme": "dark"}}, "config": {"view": {"continuousWidth": 300, "continuousHeight": 300}}, "data": {"name": "data-1d91dd97cd4d7156751034459f2e7895"}, "mark": {"type": "bar"}, "encoding": {"x": {"axis": {"labelAngle": 45}, "field": "origin_county_name", "sort": {"field": "county_of_current_residence_estimate", "order": "descending"}, "title": "County Name", "type": "nominal"}, "y": {"field": "county_of_current_residence_estimate", "title": "County Resident Population Estimate", "type": "quantitative"}}, "title": "Population by County Name in Massachusetts from 2005 to 2009", "$schema": "https://vega.github.io/schema/vega-lite/v5.20.1.json", "datasets": {"data-1d91dd97cd4d7156751034459f2e7895": [{"origin_fips_state": "25", "origin_fips_county": 1.0, "origin_state_name": "Massachusetts", "origin_county_name": "Barnstable County", "county_of_current_residence_estimate": 220595.0, "origin_col_7_moe": 251.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "25", "origin_fips_county": 3.0, "origin_state_name": "Massachusetts", "origin_county_name": "Berkshire County", "county_of_current_residence_estimate": 129011.0, "origin_col_7_moe": 216.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "25", "origin_fips_county": 5.0, "origin_state_name": "Massachusetts", "origin_county_name": "Bristol County", "county_of_current_residence_estimate": 539077.0, "origin_col_7_moe": 507.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "25", "origin_fips_county": 7.0, "origin_state_name": "Massachusetts", "origin_county_name": "Dukes County", "county_of_current_residence_estimate": 15648.0, "origin_col_7_moe": 37.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "25", "origin_fips_county": 9.0, "origin_state_name": "Massachusetts", "origin_county_name": "Essex County", "county_of_current_residence_estimate": 727232.0, "origin_col_7_moe": 590.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "25", "origin_fips_county": 11.0, "origin_state_name": "Massachusetts", "origin_county_name": "Franklin County", "county_of_current_residence_estimate": 71182.0, "origin_col_7_moe": 122.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "25", "origin_fips_county": 13.0, "origin_state_name": "Massachusetts", "origin_county_name": "Hampden County", "county_of_current_residence_estimate": 462422.0, "origin_col_7_moe": 452.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "25", "origin_fips_county": 15.0, "origin_state_name": "Massachusetts", "origin_county_name": "Hampshire County", "county_of_current_residence_estimate": 153997.0, "origin_col_7_moe": 193.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "25", "origin_fips_county": 17.0, "origin_state_name": "Massachusetts", "origin_county_name": "Middlesex County", "county_of_current_residence_estimate": 1462248.0, "origin_col_7_moe": 718.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "25", "origin_fips_county": 19.0, "origin_state_name": "Massachusetts", "origin_county_name": "Nantucket County", "county_of_current_residence_estimate": 10820.0, "origin_col_7_moe": 100.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "25", "origin_fips_county": 21.0, "origin_state_name": "Massachusetts", "origin_county_name": "Norfolk County", "county_of_current_residence_estimate": 650306.0, "origin_col_7_moe": 473.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "25", "origin_fips_county": 23.0, "origin_state_name": "Massachusetts", "origin_county_name": "Plymouth County", "county_of_current_residence_estimate": 486559.0, "origin_col_7_moe": 510.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "25", "origin_fips_county": 25.0, "origin_state_name": "Massachusetts", "origin_county_name": "Suffolk County", "county_of_current_residence_estimate": 720614.0, "origin_col_7_moe": 766.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "25", "origin_fips_county": 27.0, "origin_state_name": "Massachusetts", "origin_county_name": "Worcester County", "county_of_current_residence_estimate": 786786.0, "origin_col_7_moe": 541.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "Footnotes:", "origin_fips_county": null, "origin_state_name": null, "origin_county_name": null, "county_of_current_residence_estimate": null, "origin_col_7_moe": null, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "1Incudes Puerto Rico, U.S. Island Areas, and Foreign Countries", "origin_fips_county": null, "origin_state_name": null, "origin_county_name": null, "county_of_current_residence_estimate": null, "origin_col_7_moe": null, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "MOE - Margin of error based on 90% confidence interval", "origin_fips_county": null, "origin_state_name": null, "origin_county_name": null, "county_of_current_residence_estimate": null, "origin_col_7_moe": null, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "Source: U.S. Census Bureau, 2005-2009 American Community Survey", "origin_fips_county": null, "origin_state_name": null, "origin_county_name": null, "county_of_current_residence_estimate": null, "origin_col_7_moe": null, "year_start": 2005, "year_end": 2009}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

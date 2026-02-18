@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <style>
+    #vis.vega-embed {
+      width: 100%;
+      display: flex;
+    }
+
+    #vis.vega-embed details,
+    #vis.vega-embed details summary {
+      position: relative;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-lite@5.20.1"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"usermeta": {"embedOptions": {"theme": "dark"}}, "config": {"view": {"continuousWidth": 300, "continuousHeight": 300}}, "data": {"name": "data-15f846140f7a913e753fff9ab53a7d50"}, "mark": {"type": "bar"}, "encoding": {"x": {"axis": {"labelAngle": 45}, "field": "origin_county_name", "sort": {"field": "county_of_current_residence_estimate", "order": "descending"}, "title": "County Name", "type": "nominal"}, "y": {"field": "county_of_current_residence_estimate", "title": "County Resident Population Estimate", "type": "quantitative"}}, "title": "Population by County Name in Hawaii from 2005 to 2009", "$schema": "https://vega.github.io/schema/vega-lite/v5.20.1.json", "datasets": {"data-15f846140f7a913e753fff9ab53a7d50": [{"origin_fips_state": "15", "origin_fips_county": 1.0, "origin_state_name": "Hawaii", "origin_county_name": "Hawaii County", "county_of_current_residence_estimate": 170341.0, "origin_col_7_moe": 304.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "15", "origin_fips_county": 3.0, "origin_state_name": "Hawaii", "origin_county_name": "Honolulu County", "county_of_current_residence_estimate": 890197.0, "origin_col_7_moe": 710.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "15", "origin_fips_county": 5.0, "origin_state_name": "Hawaii", "origin_county_name": "Kalawao County", "county_of_current_residence_estimate": 78.0, "origin_col_7_moe": 22.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "15", "origin_fips_county": 7.0, "origin_state_name": "Hawaii", "origin_county_name": "Kauai County", "county_of_current_residence_estimate": 62295.0, "origin_col_7_moe": 175.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "15", "origin_fips_county": 9.0, "origin_state_name": "Hawaii", "origin_county_name": "Maui County", "county_of_current_residence_estimate": 140073.0, "origin_col_7_moe": 350.0, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "Footnotes:", "origin_fips_county": null, "origin_state_name": null, "origin_county_name": null, "county_of_current_residence_estimate": null, "origin_col_7_moe": null, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "1Incudes Puerto Rico, U.S. Island Areas, and Foreign Countries", "origin_fips_county": null, "origin_state_name": null, "origin_county_name": null, "county_of_current_residence_estimate": null, "origin_col_7_moe": null, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "MOE - Margin of error based on 90% confidence interval", "origin_fips_county": null, "origin_state_name": null, "origin_county_name": null, "county_of_current_residence_estimate": null, "origin_col_7_moe": null, "year_start": 2005, "year_end": 2009}, {"origin_fips_state": "Source: U.S. Census Bureau, 2005-2009 American Community Survey", "origin_fips_county": null, "origin_state_name": null, "origin_county_name": null, "county_of_current_residence_estimate": null, "origin_col_7_moe": null, "year_start": 2005, "year_end": 2009}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

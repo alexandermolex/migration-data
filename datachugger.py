@@ -36,13 +36,8 @@ def batch_visuals():
                 alt.X('origin_county_name',axis=alt.Axis(labelAngle=45)).title("County Name").sort(field='county_of_current_residence_estimate', order = 'descending'),
                 alt.Y('county_of_current_residence_estimate').title('County Resident Population Estimate')
             ).properties(width = 'container',)
-
-            error_bars = alt.Chart(uniq_inflow_county_pop).mark_errorbar(extent='ci').encode(
-                alt.X('origin_county_name',axis=alt.Axis(labelAngle=45),scale=alt.Scale(zero=False)).title("County Name").sort(field='county_of_current_residence_estimate', order = 'descending'),
-                alt.Y('county_of_current_residence_estimate').title('County Resident Population Estimate'))
-            fin_chart = alt.layer(uniq_inflow_county_pop_chart,error_bars, data=uniq_inflow_county_pop)
             chart_file_name = f'inflow_{year}_{state_name}_county_population_chart.html'
-            fin_chart.save("visuals/" + chart_file_name)            
+            uniq_inflow_county_pop_chart.save("visuals/" + chart_file_name)            
     else:
         print(f"Directory {dir_path} does not exist")
 

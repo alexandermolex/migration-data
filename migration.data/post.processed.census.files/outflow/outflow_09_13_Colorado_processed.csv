@@ -5953,9 +5953,5 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 30,019,08,125,Montana,Daniels County,1761.0,135.0,1561.0,123.0,200.0,91.0,111.0,72.0,15.0,15.0,74.0,67.0,,,Colorado,Yuma County,9702.0,297.0,8310.0,410.0,1392.0,396.0,888.0,355.0,294.0,122.0,210.0,129.0,,,8.0,11.0,Daniels,Yuma,30_019,08_125,outflow_09_13_Colorado.csv
 31,065,08,125,Nebraska,Furnas County,4866.0,23.0,4160.0,142.0,701.0,146.0,320.0,128.0,225.0,67.0,156.0,78.0,5.0,7.0,Colorado,Yuma County,9702.0,297.0,8310.0,410.0,1392.0,396.0,888.0,355.0,294.0,122.0,210.0,129.0,,,9.0,9.0,Furnas,Yuma,31_065,08_125,outflow_09_13_Colorado.csv
 48,029,08,125,Texas,Bexar County,1728176.0,1136.0,1398795.0,6662.0,316421.0,6279.0,229413.0,5808.0,44536.0,2749.0,42472.0,2714.0,12960.0,1276.0,Colorado,Yuma County,9702.0,297.0,8310.0,410.0,1392.0,396.0,888.0,355.0,294.0,122.0,210.0,129.0,,,84.0,68.0,Bexar,Yuma,48_029,08_125,outflow_09_13_Colorado.csv
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_Colorado.csv
 1Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_Colorado.csv
-"2Incudes Puerto Rico, U.S. Island Areas, and Foreign Countries",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_Colorado.csv
 Blank cells represent estimates that are not available,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_Colorado.csv
-MOE - Margin of error based on 90% confidence interval,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_Colorado.csv
-"Source: U.S. Census Bureau, 2009-2013 American Community Survey",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_Colorado.csv

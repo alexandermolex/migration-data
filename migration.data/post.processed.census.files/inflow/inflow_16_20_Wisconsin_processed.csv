@@ -7057,10 +7057,7 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 55,141,EUR,,Wisconsin,Wood County,72210.0,124.0,62057.0,1054.0,10070.0,1071.0,6471.0,951.0,2838.0,597.0,761.0,378.0,83.0,49.0,Europe,-,,,,,,,,,,,,,,,6.0,5.0,Wood,,55_141,Europe,inflow_16_20_Wisconsin.csv,2016,2020
 55,141,OCE,,Wisconsin,Wood County,72210.0,124.0,62057.0,1054.0,10070.0,1071.0,6471.0,951.0,2838.0,597.0,761.0,378.0,83.0,49.0,Oceania and At Sea,-,,,,,,,,,,,,,,,34.0,38.0,Wood,,55_141,Oceania and At Sea,inflow_16_20_Wisconsin.csv,2016,2020
 55,141,SAM,,Wisconsin,Wood County,72210.0,124.0,62057.0,1054.0,10070.0,1071.0,6471.0,951.0,2838.0,597.0,761.0,378.0,83.0,49.0,South America,-,,,,,,,,,,,,,,,9.0,11.0,Wood,,55_141,South America,inflow_16_20_Wisconsin.csv,2016,2020
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_16_20_Wisconsin.csv,2016,2020
 "1Includes Puerto Rico, U.S. Island Areas, and Foreign Countries.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_16_20_Wisconsin.csv,2016,2020
 2Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_16_20_Wisconsin.csv,2016,2020
 Blank cells represent estimates that are not available.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_16_20_Wisconsin.csv,2016,2020
-MOE - Margin of error based on 90% confidence interval.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_16_20_Wisconsin.csv,2016,2020
 The Census Bureau reviewed this data product for unauthorized disclosure of confidential information and approved the disclosure avoidance practices applied to this release. CBDRB-FY23-027.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_16_20_Wisconsin.csv,2016,2020
-"Source: U.S. Census Bureau, 2016-2020 American Community Survey, 5-year estimates. For more information, see https://census.gov/acs.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_16_20_Wisconsin.csv,2016,2020

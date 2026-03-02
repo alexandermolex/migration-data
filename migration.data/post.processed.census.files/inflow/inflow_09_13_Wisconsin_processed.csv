@@ -6700,9 +6700,5 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 55,141,CAM,000,Wisconsin,Wood County,73504.0,161.0,66127.0,668.0,7211.0,652.0,4327.0,540.0,2130.0,382.0,754.0,241.0,166.0,74.0,Central America,-,,,,,,,,,,,,,,,33.0,35.0,Wood,,55_141,Central America,inflow_09_13_Wisconsin.csv,2009,2013
 55,141,EUR,000,Wisconsin,Wood County,73504.0,161.0,66127.0,668.0,7211.0,652.0,4327.0,540.0,2130.0,382.0,754.0,241.0,166.0,74.0,Europe,-,,,,,,,,,,,,,,,48.0,36.0,Wood,,55_141,Europe,inflow_09_13_Wisconsin.csv,2009,2013
 55,141,SAM,000,Wisconsin,Wood County,73504.0,161.0,66127.0,668.0,7211.0,652.0,4327.0,540.0,2130.0,382.0,754.0,241.0,166.0,74.0,South America,-,,,,,,,,,,,,,,,7.0,9.0,Wood,,55_141,South America,inflow_09_13_Wisconsin.csv,2009,2013
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_Wisconsin.csv,2009,2013
-"1Incudes Puerto Rico, U.S. Island Areas, and Foreign Countries",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_Wisconsin.csv,2009,2013
 2Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_Wisconsin.csv,2009,2013
 Blank cells represent estimates that are not available,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_Wisconsin.csv,2009,2013
-MOE - Margin of error based on 90% confidence interval,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_Wisconsin.csv,2009,2013
-"Source: U.S. Census Bureau, 2009-2013 American Community Survey",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_Wisconsin.csv,2009,2013

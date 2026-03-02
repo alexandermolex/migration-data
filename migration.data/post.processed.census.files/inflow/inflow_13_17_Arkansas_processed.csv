@@ -4532,9 +4532,6 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 05,149,CAM,,Arkansas,Yell County,21302.0,100.0,18634.0,477.0,2621.0,456.0,1361.0,340.0,917.0,304.0,343.0,211.0,47.0,75.0,Central America,-,,,,,,,,,,,,,,,4.0,9.0,Yell,,05_149,Central America,inflow_13_17_Arkansas.csv,2013,2017
 05,149,OCE,,Arkansas,Yell County,21302.0,100.0,18634.0,477.0,2621.0,456.0,1361.0,340.0,917.0,304.0,343.0,211.0,47.0,75.0,Oceania and At Sea,-,,,,,,,,,,,,,,,2.0,4.0,Yell,,05_149,Oceania and At Sea,inflow_13_17_Arkansas.csv,2013,2017
 05,149,SAM,,Arkansas,Yell County,21302.0,100.0,18634.0,477.0,2621.0,456.0,1361.0,340.0,917.0,304.0,343.0,211.0,47.0,75.0,South America,-,,,,,,,,,,,,,,,24.0,65.0,Yell,,05_149,South America,inflow_13_17_Arkansas.csv,2013,2017
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Arkansas.csv,2013,2017
 "1Includes Puerto Rico, U.S. Island Areas, and Foreign Countries.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Arkansas.csv,2013,2017
 2Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Arkansas.csv,2013,2017
 Blank cells represent estimates that are not available.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Arkansas.csv,2013,2017
-MOE - Margin of error based on 90% confidence interval.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Arkansas.csv,2013,2017
-"Source: U.S. Census Bureau, 2013-2017 American Community Survey. For more information, see https://census.gov/acs.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Arkansas.csv,2013,2017

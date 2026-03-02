@@ -566,9 +566,6 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 11,001,NAM,,District of Columbia,District of Columbia,662540.0,676.0,530353.0,3189.0,121387.0,3044.0,66665.0,2555.0,,,54722.0,1970.0,10800.0,994.0,Northern America,-,,,,,,,,,,,,,,,278.0,118.0,District of Columbia,,11_001,Northern America,inflow_13_17_District of Columbia.csv,2013,2017
 11,001,OCE,,District of Columbia,District of Columbia,662540.0,676.0,530353.0,3189.0,121387.0,3044.0,66665.0,2555.0,,,54722.0,1970.0,10800.0,994.0,Oceania and At Sea,-,,,,,,,,,,,,,,,311.0,106.0,District of Columbia,,11_001,Oceania and At Sea,inflow_13_17_District of Columbia.csv,2013,2017
 11,001,SAM,,District of Columbia,District of Columbia,662540.0,676.0,530353.0,3189.0,121387.0,3044.0,66665.0,2555.0,,,54722.0,1970.0,10800.0,994.0,South America,-,,,,,,,,,,,,,,,963.0,292.0,District of Columbia,,11_001,South America,inflow_13_17_District of Columbia.csv,2013,2017
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_District of Columbia.csv,2013,2017
 "1Includes Puerto Rico, U.S. Island Areas, and Foreign Countries.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_District of Columbia.csv,2013,2017
 2Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_District of Columbia.csv,2013,2017
 Blank cells represent estimates that are not available.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_District of Columbia.csv,2013,2017
-MOE - Margin of error based on 90% confidence interval.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_District of Columbia.csv,2013,2017
-"Source: U.S. Census Bureau, 2013-2017 American Community Survey. For more information, see https://census.gov/acs.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_District of Columbia.csv,2013,2017

@@ -1567,9 +1567,5 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 32,510,55,031,Nevada,Carson City,54335.0,134.0,42996.0,1117.0,11289.0,1119.0,5913.0,865.0,3541.0,638.0,1835.0,480.0,50.0,47.0,Wisconsin,Douglas County,43213.0,614.0,37285.0,592.0,5928.0,680.0,3323.0,499.0,940.0,381.0,1665.0,383.0,,,11.0,17.0,Carson City,Douglas,32_510,55_031,inflow_09_13_Nevada.csv,2009,2013
 32,510,ASI,000,Nevada,Carson City,54335.0,134.0,42996.0,1117.0,11289.0,1119.0,5913.0,865.0,3541.0,638.0,1835.0,480.0,50.0,47.0,Asia,-,,,,,,,,,,,,,,,49.0,47.0,Carson City,,32_510,Asia,inflow_09_13_Nevada.csv,2009,2013
 32,510,CAM,000,Nevada,Carson City,54335.0,134.0,42996.0,1117.0,11289.0,1119.0,5913.0,865.0,3541.0,638.0,1835.0,480.0,50.0,47.0,Central America,-,,,,,,,,,,,,,,,1.0,2.0,Carson City,,32_510,Central America,inflow_09_13_Nevada.csv,2009,2013
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_Nevada.csv,2009,2013
-"1Incudes Puerto Rico, U.S. Island Areas, and Foreign Countries",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_Nevada.csv,2009,2013
 2Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_Nevada.csv,2009,2013
 Blank cells represent estimates that are not available,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_Nevada.csv,2009,2013
-MOE - Margin of error based on 90% confidence interval,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_Nevada.csv,2009,2013
-"Source: U.S. Census Bureau, 2009-2013 American Community Survey",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_Nevada.csv,2009,2013

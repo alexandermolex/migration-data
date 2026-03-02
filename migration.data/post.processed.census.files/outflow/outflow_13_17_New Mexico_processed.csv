@@ -2346,9 +2346,6 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 53,053,35,061,Washington,Pierce County,834355.0,589.0,691003.0,4007.0,137695.0,3955.0,78795.0,3878.0,28464.0,1849.0,30436.0,1959.0,5657.0,800.0,New Mexico,Valencia County,74282.0,1022.0,65744.0,976.0,8538.0,1097.0,5057.0,877.0,2112.0,467.0,1369.0,523.0,,,15.0,22.0,Pierce,Valencia,53_053,35_061,outflow_13_17_New Mexico.csv
 55,019,35,061,Wisconsin,Clark County,33925.0,64.0,30802.0,369.0,3032.0,352.0,1918.0,297.0,968.0,175.0,146.0,39.0,91.0,52.0,New Mexico,Valencia County,74282.0,1022.0,65744.0,976.0,8538.0,1097.0,5057.0,877.0,2112.0,467.0,1369.0,523.0,,,6.0,6.0,Clark,Valencia,55_019,35_061,outflow_13_17_New Mexico.csv
 55,063,35,061,Wisconsin,La Crosse County,116190.0,195.0,93783.0,1278.0,22071.0,1240.0,12687.0,963.0,6086.0,715.0,3298.0,474.0,336.0,130.0,New Mexico,Valencia County,74282.0,1022.0,65744.0,976.0,8538.0,1097.0,5057.0,877.0,2112.0,467.0,1369.0,523.0,,,13.0,20.0,La Crosse,Valencia,55_063,35_061,outflow_13_17_New Mexico.csv
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_New Mexico.csv
 1Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_New Mexico.csv
 "2Includes Puerto Rico, U.S. Island Areas, and Foreign Countries.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_New Mexico.csv
 Blank cells represent estimates that are not available.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_New Mexico.csv
-MOE - Margin of error based on 90% confidence interval.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_New Mexico.csv
-"Source: U.S. Census Bureau, 2013-2017 American Community Survey. For more information, see https://census.gov/acs.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_New Mexico.csv

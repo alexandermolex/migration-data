@@ -12771,9 +12771,5 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 13,321,37,129,Georgia,Worth County,21527.0,83.0,18776.0,614.0,2751.0,619.0,1068.0,406.0,1105.0,417.0,578.0,250.0,,,North Carolina,New Hanover County,199179.0,1880.0,163791.0,1956.0,35374.0,2265.0,22491.0,1691.0,8245.0,1110.0,4638.0,598.0,14.0,21.0,16.0,25.0,Worth,New Hanover,13_321,37_129,inflow_09_13_Georgia.csv,2009,2013
 13,321,45,007,Georgia,Worth County,21527.0,83.0,18776.0,614.0,2751.0,619.0,1068.0,406.0,1105.0,417.0,578.0,250.0,,,South Carolina,Anderson County,187021.0,1437.0,161637.0,1793.0,25365.0,1592.0,15848.0,1385.0,6342.0,898.0,3175.0,611.0,19.0,29.0,169.0,229.0,Worth,Anderson,13_321,45_007,inflow_09_13_Georgia.csv,2009,2013
 13,321,53,033,Georgia,Worth County,21527.0,83.0,18776.0,614.0,2751.0,619.0,1068.0,406.0,1105.0,417.0,578.0,250.0,,,Washington,King County,1924016.0,5094.0,1589903.0,6173.0,334058.0,5622.0,234346.0,4941.0,43851.0,1991.0,55861.0,2378.0,55.0,65.0,68.0,93.0,Worth,King,13_321,53_033,inflow_09_13_Georgia.csv,2009,2013
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_Georgia.csv,2009,2013
-"1Incudes Puerto Rico, U.S. Island Areas, and Foreign Countries",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_Georgia.csv,2009,2013
 2Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_Georgia.csv,2009,2013
 Blank cells represent estimates that are not available,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_Georgia.csv,2009,2013
-MOE - Margin of error based on 90% confidence interval,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_Georgia.csv,2009,2013
-"Source: U.S. Census Bureau, 2009-2013 American Community Survey",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_Georgia.csv,2009,2013

@@ -4556,9 +4556,5 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 55,075,28,163,Wisconsin,Marinette County,41244.0,77.0,37080.0,412.0,4103.0,405.0,2684.0,309.0,849.0,196.0,570.0,150.0,61.0,39.0,Mississippi,Yazoo County,27992.0,552.0,24259.0,468.0,3677.0,604.0,2193.0,461.0,906.0,326.0,578.0,195.0,56.0,62.0,18.0,28.0,Marinette,Yazoo,55_075,28_163,outflow_09_13_Mississippi.csv
 72,021,28,163,Puerto Rico,Bayamón Municipio,203000.0,250.0,187031.0,1296.0,14653.0,1172.0,7971.0,995.0,6682.0,771.0,1224.0,257.0,92.0,48.0,Mississippi,Yazoo County,27992.0,552.0,24259.0,468.0,3677.0,604.0,2193.0,461.0,906.0,326.0,578.0,195.0,56.0,62.0,24.0,36.0,Bayamón Municipio,Yazoo,72_021,28_163,outflow_09_13_Mississippi.csv
 72,153,28,163,Puerto Rico,Yauco Municipio,40651.0,138.0,39232.0,463.0,1067.0,340.0,728.0,265.0,339.0,150.0,352.0,261.0,,,Mississippi,Yazoo County,27992.0,552.0,24259.0,468.0,3677.0,604.0,2193.0,461.0,906.0,326.0,578.0,195.0,56.0,62.0,32.0,50.0,Yauco Municipio,Yazoo,72_153,28_163,outflow_09_13_Mississippi.csv
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_Mississippi.csv
 1Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_Mississippi.csv
-"2Incudes Puerto Rico, U.S. Island Areas, and Foreign Countries",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_Mississippi.csv
 Blank cells represent estimates that are not available,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_Mississippi.csv
-MOE - Margin of error based on 90% confidence interval,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_Mississippi.csv
-"Source: U.S. Census Bureau, 2009-2013 American Community Survey",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_Mississippi.csv

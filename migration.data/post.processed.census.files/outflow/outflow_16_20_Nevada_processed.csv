@@ -1652,10 +1652,7 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 53,033,32,510,Washington,King County,2200609.0,965.0,1796628.0,7198.0,371824.0,6755.0,251155.0,6382.0,37953.0,2306.0,82716.0,3172.0,32157.0,2339.0,Nevada,Carson City,53167.0,1242.0,45394.0,1028.0,7773.0,1186.0,3886.0,785.0,2041.0,567.0,1846.0,583.0,,,25.0,31.0,King,Carson City,53_033,32_510,outflow_16_20_Nevada.csv
 53,063,32,510,Washington,Spokane County,507460.0,526.0,411084.0,3032.0,94290.0,3309.0,59720.0,2513.0,17275.0,1989.0,17295.0,1632.0,2086.0,508.0,Nevada,Carson City,53167.0,1242.0,45394.0,1028.0,7773.0,1186.0,3886.0,785.0,2041.0,567.0,1846.0,583.0,,,8.0,13.0,Spokane,Carson City,53_063,32_510,outflow_16_20_Nevada.csv
 53,075,32,510,Washington,Whitman County,49276.0,105.0,33136.0,1015.0,15164.0,941.0,6601.0,683.0,5655.0,668.0,2908.0,408.0,976.0,361.0,Nevada,Carson City,53167.0,1242.0,45394.0,1028.0,7773.0,1186.0,3886.0,785.0,2041.0,567.0,1846.0,583.0,,,40.0,66.0,Whitman,Carson City,53_075,32_510,outflow_16_20_Nevada.csv
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Nevada.csv
 1Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Nevada.csv
 "2Includes Puerto Rico, U.S. Island Areas, and Foreign Countries.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Nevada.csv
 Blank cells represent estimates that are not available.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Nevada.csv
-MOE - Margin of error based on 90% confidence interval.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Nevada.csv
 The Census Bureau reviewed this data product for unauthorized disclosure of confidential information and approved the disclosure avoidance practices applied to this release. CBDRB-FY23-027.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Nevada.csv
-"Source: U.S. Census Bureau, 2016-2020 American Community Survey, 5-year estimates. For more information, see https://census.gov/acs.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Nevada.csv

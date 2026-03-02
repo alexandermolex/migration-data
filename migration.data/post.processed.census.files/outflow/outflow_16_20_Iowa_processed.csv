@@ -5121,10 +5121,7 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 40,017,19,197,Oklahoma,Canadian County,143104.0,275.0,124005.0,1808.0,18832.0,1769.0,7528.0,1089.0,7407.0,1109.0,3897.0,1023.0,267.0,185.0,Iowa,Wright County,12300.0,361.0,11449.0,317.0,851.0,204.0,302.0,91.0,403.0,151.0,146.0,133.0,,,46.0,71.0,Canadian,Wright,40_017,19_197,outflow_16_20_Iowa.csv
 49,057,19,197,Utah,Weber County,251871.0,365.0,214934.0,2303.0,35884.0,2329.0,19688.0,1884.0,10965.0,1261.0,5231.0,857.0,1053.0,371.0,Iowa,Wright County,12300.0,361.0,11449.0,317.0,851.0,204.0,302.0,91.0,403.0,151.0,146.0,133.0,,,24.0,48.0,Weber,Wright,49_057,19_197,outflow_16_20_Iowa.csv
 55,049,19,197,Wisconsin,Iowa County,23426.0,59.0,21022.0,312.0,2358.0,310.0,1274.0,238.0,888.0,201.0,196.0,58.0,46.0,38.0,Iowa,Wright County,12300.0,361.0,11449.0,317.0,851.0,204.0,302.0,91.0,403.0,151.0,146.0,133.0,,,10.0,13.0,Iowa,Wright,55_049,19_197,outflow_16_20_Iowa.csv
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Iowa.csv
 1Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Iowa.csv
 "2Includes Puerto Rico, U.S. Island Areas, and Foreign Countries.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Iowa.csv
 Blank cells represent estimates that are not available.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Iowa.csv
-MOE - Margin of error based on 90% confidence interval.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Iowa.csv
 The Census Bureau reviewed this data product for unauthorized disclosure of confidential information and approved the disclosure avoidance practices applied to this release. CBDRB-FY23-027.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Iowa.csv
-"Source: U.S. Census Bureau, 2016-2020 American Community Survey, 5-year estimates. For more information, see https://census.gov/acs.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Iowa.csv

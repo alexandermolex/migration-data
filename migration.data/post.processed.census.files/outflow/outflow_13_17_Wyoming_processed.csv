@@ -1386,9 +1386,6 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 56,021,56,045,Wyoming,Laramie County,96083.0,194.0,78564.0,1259.0,17092.0,1263.0,10025.0,1241.0,1799.0,403.0,5268.0,615.0,427.0,193.0,Wyoming,Weston County,6820.0,238.0,5940.0,236.0,880.0,264.0,410.0,207.0,202.0,98.0,268.0,116.0,,,29.0,22.0,Laramie,Weston,56_021,56_045,outflow_13_17_Wyoming.csv
 56,025,56,045,Wyoming,Natrona County,80239.0,151.0,67613.0,971.0,12188.0,970.0,8249.0,942.0,1544.0,322.0,2395.0,510.0,438.0,216.0,Wyoming,Weston County,6820.0,238.0,5940.0,236.0,880.0,264.0,410.0,207.0,202.0,98.0,268.0,116.0,,,52.0,37.0,Natrona,Weston,56_025,56_045,outflow_13_17_Wyoming.csv
 56,043,56,045,Wyoming,Washakie County,8167.0,45.0,7072.0,275.0,1086.0,254.0,702.0,203.0,268.0,106.0,116.0,93.0,9.0,15.0,Wyoming,Weston County,6820.0,238.0,5940.0,236.0,880.0,264.0,410.0,207.0,202.0,98.0,268.0,116.0,,,1.0,3.0,Washakie,Weston,56_043,56_045,outflow_13_17_Wyoming.csv
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Wyoming.csv
 1Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Wyoming.csv
 "2Includes Puerto Rico, U.S. Island Areas, and Foreign Countries.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Wyoming.csv
 Blank cells represent estimates that are not available.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Wyoming.csv
-MOE - Margin of error based on 90% confidence interval.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Wyoming.csv
-"Source: U.S. Census Bureau, 2013-2017 American Community Survey. For more information, see https://census.gov/acs.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Wyoming.csv

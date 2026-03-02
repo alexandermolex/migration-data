@@ -1228,10 +1228,7 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 56,025,56,045,Wyoming,Natrona County,79073.0,250.0,69199.0,1125.0,9736.0,1070.0,6598.0,905.0,1215.0,285.0,1923.0,453.0,138.0,88.0,Wyoming,Weston County,6299.0,275.0,5472.0,373.0,827.0,350.0,512.0,328.0,147.0,67.0,168.0,87.0,,,30.0,19.0,Natrona,Weston,56_025,56_045,outflow_16_20_Wyoming.csv
 56,033,56,045,Wyoming,Sheridan County,30229.0,78.0,25989.0,669.0,4208.0,665.0,2375.0,575.0,939.0,301.0,894.0,293.0,32.0,38.0,Wyoming,Weston County,6299.0,275.0,5472.0,373.0,827.0,350.0,512.0,328.0,147.0,67.0,168.0,87.0,,,8.0,14.0,Sheridan,Weston,56_033,56_045,outflow_16_20_Wyoming.csv
 56,043,56,045,Wyoming,Washakie County,7822.0,64.0,6667.0,379.0,1146.0,339.0,599.0,259.0,430.0,210.0,117.0,65.0,9.0,15.0,Wyoming,Weston County,6299.0,275.0,5472.0,373.0,827.0,350.0,512.0,328.0,147.0,67.0,168.0,87.0,,,1.0,3.0,Washakie,Weston,56_043,56_045,outflow_16_20_Wyoming.csv
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Wyoming.csv
 1Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Wyoming.csv
 "2Includes Puerto Rico, U.S. Island Areas, and Foreign Countries.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Wyoming.csv
 Blank cells represent estimates that are not available.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Wyoming.csv
-MOE - Margin of error based on 90% confidence interval.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Wyoming.csv
 The Census Bureau reviewed this data product for unauthorized disclosure of confidential information and approved the disclosure avoidance practices applied to this release. CBDRB-FY23-027.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Wyoming.csv
-"Source: U.S. Census Bureau, 2016-2020 American Community Survey, 5-year estimates. For more information, see https://census.gov/acs.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Wyoming.csv

@@ -1722,10 +1722,7 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 02,290,53,061,Alaska,Yukon-Koyukuk Census Area,5192.0,29.0,4553.0,115.0,623.0,111.0,261.0,59.0,279.0,107.0,83.0,32.0,16.0,16.0,Washington,Snohomish County,793867.0,3906.0,685271.0,3710.0,108596.0,3988.0,64881.0,2851.0,26013.0,1734.0,17702.0,1672.0,,,1.0,3.0,Yukon-Koyukuk Census Area,Snohomish,02_290,53_061,inflow_16_20_Alaska.csv,2016,2020
 02,290,ASI,,Alaska,Yukon-Koyukuk Census Area,5192.0,29.0,4553.0,115.0,623.0,111.0,261.0,59.0,279.0,107.0,83.0,32.0,16.0,16.0,Asia,-,,,,,,,,,,,,,,,11.0,15.0,Yukon-Koyukuk Census Area,,02_290,Asia,inflow_16_20_Alaska.csv,2016,2020
 02,290,EUR,,Alaska,Yukon-Koyukuk Census Area,5192.0,29.0,4553.0,115.0,623.0,111.0,261.0,59.0,279.0,107.0,83.0,32.0,16.0,16.0,Europe,-,,,,,,,,,,,,,,,5.0,8.0,Yukon-Koyukuk Census Area,,02_290,Europe,inflow_16_20_Alaska.csv,2016,2020
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_16_20_Alaska.csv,2016,2020
 "1Includes Puerto Rico, U.S. Island Areas, and Foreign Countries.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_16_20_Alaska.csv,2016,2020
 2Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_16_20_Alaska.csv,2016,2020
 Blank cells represent estimates that are not available.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_16_20_Alaska.csv,2016,2020
-MOE - Margin of error based on 90% confidence interval.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_16_20_Alaska.csv,2016,2020
 The Census Bureau reviewed this data product for unauthorized disclosure of confidential information and approved the disclosure avoidance practices applied to this release. CBDRB-FY23-027.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_16_20_Alaska.csv,2016,2020
-"Source: U.S. Census Bureau, 2016-2020 American Community Survey, 5-year estimates. For more information, see https://census.gov/acs.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_16_20_Alaska.csv,2016,2020

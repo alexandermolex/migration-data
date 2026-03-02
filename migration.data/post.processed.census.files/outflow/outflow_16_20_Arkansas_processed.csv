@@ -3797,10 +3797,7 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 40,121,05,149,Oklahoma,Pittsburg County,43339.0,121.0,36260.0,547.0,7036.0,565.0,4183.0,531.0,1893.0,392.0,960.0,225.0,43.0,35.0,Arkansas,Yell County,20988.0,617.0,18678.0,597.0,2285.0,587.0,1157.0,336.0,1057.0,461.0,71.0,43.0,25.0,41.0,7.0,11.0,Pittsburg,Yell,40_121,05_149,outflow_16_20_Arkansas.csv
 48,037,05,149,Texas,Bowie County,92612.0,228.0,84087.0,995.0,8363.0,931.0,3734.0,705.0,2400.0,538.0,2229.0,572.0,162.0,111.0,Arkansas,Yell County,20988.0,617.0,18678.0,597.0,2285.0,587.0,1157.0,336.0,1057.0,461.0,71.0,43.0,25.0,41.0,4.0,9.0,Bowie,Yell,48_037,05_149,outflow_16_20_Arkansas.csv
 72,075,05,149,Puerto Rico,Juana Díaz Municipio,45045.0,114.0,41879.0,603.0,2681.0,586.0,1344.0,433.0,1337.0,427.0,459.0,208.0,26.0,31.0,Arkansas,Yell County,20988.0,617.0,18678.0,597.0,2285.0,587.0,1157.0,336.0,1057.0,461.0,71.0,43.0,25.0,41.0,25.0,41.0,Juana Díaz Municipio,Yell,72_075,05_149,outflow_16_20_Arkansas.csv
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Arkansas.csv
 1Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Arkansas.csv
 "2Includes Puerto Rico, U.S. Island Areas, and Foreign Countries.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Arkansas.csv
 Blank cells represent estimates that are not available.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Arkansas.csv
-MOE - Margin of error based on 90% confidence interval.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Arkansas.csv
 The Census Bureau reviewed this data product for unauthorized disclosure of confidential information and approved the disclosure avoidance practices applied to this release. CBDRB-FY23-027.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Arkansas.csv
-"Source: U.S. Census Bureau, 2016-2020 American Community Survey, 5-year estimates. For more information, see https://census.gov/acs.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Arkansas.csv

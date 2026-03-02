@@ -945,9 +945,6 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 15,009,NAM,,Hawaii,Maui County,162403.0,287.0,141500.0,1936.0,19227.0,1671.0,13088.0,1446.0,2021.0,447.0,4118.0,661.0,1676.0,550.0,Northern America,-,,,,,,,,,,,,,,,196.0,106.0,Maui,,15_009,Northern America,inflow_13_17_Hawaii.csv,2013,2017
 15,009,OCE,,Hawaii,Maui County,162403.0,287.0,141500.0,1936.0,19227.0,1671.0,13088.0,1446.0,2021.0,447.0,4118.0,661.0,1676.0,550.0,Oceania and At Sea,-,,,,,,,,,,,,,,,39.0,61.0,Maui,,15_009,Oceania and At Sea,inflow_13_17_Hawaii.csv,2013,2017
 15,009,SAM,,Hawaii,Maui County,162403.0,287.0,141500.0,1936.0,19227.0,1671.0,13088.0,1446.0,2021.0,447.0,4118.0,661.0,1676.0,550.0,South America,-,,,,,,,,,,,,,,,13.0,20.0,Maui,,15_009,South America,inflow_13_17_Hawaii.csv,2013,2017
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Hawaii.csv,2013,2017
 "1Includes Puerto Rico, U.S. Island Areas, and Foreign Countries.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Hawaii.csv,2013,2017
 2Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Hawaii.csv,2013,2017
 Blank cells represent estimates that are not available.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Hawaii.csv,2013,2017
-MOE - Margin of error based on 90% confidence interval.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Hawaii.csv,2013,2017
-"Source: U.S. Census Bureau, 2013-2017 American Community Survey. For more information, see https://census.gov/acs.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Hawaii.csv,2013,2017

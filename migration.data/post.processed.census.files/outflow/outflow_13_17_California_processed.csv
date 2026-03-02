@@ -12610,9 +12610,6 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 53,071,06,115,Washington,Walla Walla County,59303.0,155.0,47362.0,997.0,11670.0,1014.0,6056.0,947.0,2942.0,474.0,2672.0,580.0,271.0,115.0,California,Yuba County,72556.0,1351.0,59096.0,1244.0,13460.0,1233.0,7572.0,947.0,3955.0,669.0,1933.0,526.0,,,15.0,22.0,Walla Walla,Yuba,53_071,06_115,outflow_13_17_California.csv
 54,099,06,115,West Virginia,Wayne County,40630.0,198.0,36245.0,780.0,4370.0,791.0,2511.0,675.0,1081.0,287.0,778.0,243.0,15.0,17.0,California,Yuba County,72556.0,1351.0,59096.0,1244.0,13460.0,1233.0,7572.0,947.0,3955.0,669.0,1933.0,526.0,,,9.0,15.0,Wayne,Yuba,54_099,06_115,outflow_13_17_California.csv
 54,105,06,115,West Virginia,Wirt County,5724.0,41.0,5373.0,161.0,351.0,157.0,129.0,70.0,153.0,138.0,69.0,60.0,,,California,Yuba County,72556.0,1351.0,59096.0,1244.0,13460.0,1233.0,7572.0,947.0,3955.0,669.0,1933.0,526.0,,,9.0,14.0,Wirt,Yuba,54_105,06_115,outflow_13_17_California.csv
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_California.csv
 1Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_California.csv
 "2Includes Puerto Rico, U.S. Island Areas, and Foreign Countries.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_California.csv
 Blank cells represent estimates that are not available.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_California.csv
-MOE - Margin of error based on 90% confidence interval.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_California.csv
-"Source: U.S. Census Bureau, 2013-2017 American Community Survey. For more information, see https://census.gov/acs.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_California.csv

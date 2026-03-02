@@ -11039,9 +11039,5 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 54,067,51,840,West Virginia,Nicholas County,25882.0,132.0,23449.0,494.0,2407.0,496.0,1442.0,395.0,422.0,237.0,543.0,213.0,26.0,29.0,Virginia,Winchester city,24825.0,1080.0,20462.0,777.0,4363.0,787.0,1464.0,416.0,2063.0,601.0,836.0,277.0,,,6.0,9.0,Nicholas,Winchester city,54_067,51_840,outflow_09_13_Virginia.csv
 54,093,51,840,West Virginia,Tucker County,7017.0,24.0,6278.0,181.0,739.0,170.0,354.0,135.0,276.0,95.0,109.0,61.0,,,Virginia,Winchester city,24825.0,1080.0,20462.0,777.0,4363.0,787.0,1464.0,416.0,2063.0,601.0,836.0,277.0,,,1.0,3.0,Tucker,Winchester city,54_093,51_840,outflow_09_13_Virginia.csv
 56,001,51,840,Wyoming,Albany County,36384.0,104.0,25033.0,865.0,11048.0,860.0,5477.0,643.0,2160.0,370.0,3411.0,572.0,303.0,203.0,Virginia,Winchester city,24825.0,1080.0,20462.0,777.0,4363.0,787.0,1464.0,416.0,2063.0,601.0,836.0,277.0,,,6.0,11.0,Albany,Winchester city,56_001,51_840,outflow_09_13_Virginia.csv
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_Virginia.csv
 1Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_Virginia.csv
-"2Incudes Puerto Rico, U.S. Island Areas, and Foreign Countries",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_Virginia.csv
 Blank cells represent estimates that are not available,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_Virginia.csv
-MOE - Margin of error based on 90% confidence interval,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_Virginia.csv
-"Source: U.S. Census Bureau, 2009-2013 American Community Survey",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_Virginia.csv

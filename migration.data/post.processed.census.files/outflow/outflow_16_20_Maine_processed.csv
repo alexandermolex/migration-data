@@ -1211,10 +1211,7 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 53,033,23,031,Washington,King County,2200609.0,965.0,1796628.0,7198.0,371824.0,6755.0,251155.0,6382.0,37953.0,2306.0,82716.0,3172.0,32157.0,2339.0,Maine,York County,200916.0,1611.0,178642.0,1774.0,22274.0,1880.0,13130.0,1455.0,3168.0,416.0,5976.0,736.0,,,5.0,6.0,King,York,53_033,23_031,outflow_16_20_Maine.csv
 55,025,23,031,Wisconsin,Dane County,536084.0,583.0,436629.0,3186.0,95028.0,3078.0,62303.0,2541.0,14321.0,1110.0,18404.0,1452.0,4427.0,648.0,Maine,York County,200916.0,1611.0,178642.0,1774.0,22274.0,1880.0,13130.0,1455.0,3168.0,416.0,5976.0,736.0,,,9.0,19.0,Dane,York,55_025,23_031,outflow_16_20_Maine.csv
 55,125,23,031,Wisconsin,Vilas County,21788.0,52.0,19449.0,331.0,2332.0,334.0,923.0,268.0,879.0,183.0,530.0,160.0,7.0,7.0,Maine,York County,200916.0,1611.0,178642.0,1774.0,22274.0,1880.0,13130.0,1455.0,3168.0,416.0,5976.0,736.0,,,4.0,6.0,Vilas,York,55_125,23_031,outflow_16_20_Maine.csv
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Maine.csv
 1Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Maine.csv
 "2Includes Puerto Rico, U.S. Island Areas, and Foreign Countries.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Maine.csv
 Blank cells represent estimates that are not available.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Maine.csv
-MOE - Margin of error based on 90% confidence interval.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Maine.csv
 The Census Bureau reviewed this data product for unauthorized disclosure of confidential information and approved the disclosure avoidance practices applied to this release. CBDRB-FY23-027.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Maine.csv
-"Source: U.S. Census Bureau, 2016-2020 American Community Survey, 5-year estimates. For more information, see https://census.gov/acs.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Maine.csv

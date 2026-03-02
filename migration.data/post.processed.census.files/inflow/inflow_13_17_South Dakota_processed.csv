@@ -2605,9 +2605,6 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 46,137,46,041,South Dakota,Ziebach County,2785.0,14.0,2711.0,35.0,74.0,31.0,25.0,23.0,42.0,19.0,7.0,5.0,,,South Dakota,Dewey County,6139.0,231.0,5350.0,117.0,789.0,241.0,148.0,93.0,566.0,227.0,75.0,51.0,,,36.0,18.0,Ziebach,Dewey,46_137,46_041,inflow_13_17_South Dakota.csv,2013,2017
 46,137,46,065,South Dakota,Ziebach County,2785.0,14.0,2711.0,35.0,74.0,31.0,25.0,23.0,42.0,19.0,7.0,5.0,,,South Dakota,Hughes County,17071.0,541.0,14265.0,429.0,2806.0,535.0,1410.0,340.0,854.0,214.0,542.0,318.0,,,4.0,5.0,Ziebach,Hughes,46_137,46_065,inflow_13_17_South Dakota.csv,2013,2017
 46,137,46,123,South Dakota,Ziebach County,2785.0,14.0,2711.0,35.0,74.0,31.0,25.0,23.0,42.0,19.0,7.0,5.0,,,South Dakota,Tripp County,5295.0,175.0,4774.0,206.0,521.0,148.0,270.0,123.0,243.0,86.0,8.0,8.0,,,2.0,3.0,Ziebach,Tripp,46_137,46_123,inflow_13_17_South Dakota.csv,2013,2017
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_South Dakota.csv,2013,2017
 "1Includes Puerto Rico, U.S. Island Areas, and Foreign Countries.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_South Dakota.csv,2013,2017
 2Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_South Dakota.csv,2013,2017
 Blank cells represent estimates that are not available.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_South Dakota.csv,2013,2017
-MOE - Margin of error based on 90% confidence interval.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_South Dakota.csv,2013,2017
-"Source: U.S. Census Bureau, 2013-2017 American Community Survey. For more information, see https://census.gov/acs.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_South Dakota.csv,2013,2017

@@ -12754,9 +12754,6 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 13,321,47,157,Georgia,Worth County,20720.0,72.0,18869.0,410.0,1842.0,410.0,781.0,241.0,844.0,317.0,217.0,163.0,9.0,15.0,Tennessee,Shelby County,928087.0,3257.0,775097.0,5086.0,152974.0,4999.0,112239.0,4293.0,8747.0,890.0,31988.0,1973.0,16.0,24.0,82.0,94.0,Worth,Shelby,13_321,47_157,inflow_13_17_Georgia.csv,2013,2017
 13,321,48,041,Georgia,Worth County,20720.0,72.0,18869.0,410.0,1842.0,410.0,781.0,241.0,844.0,317.0,217.0,163.0,9.0,15.0,Texas,Brazos County,200171.0,1999.0,147530.0,2246.0,52641.0,2336.0,33089.0,1912.0,14478.0,1157.0,5074.0,849.0,,,40.0,70.0,Worth,Brazos,13_321,48_041,inflow_13_17_Georgia.csv,2013,2017
 13,321,ASI,,Georgia,Worth County,20720.0,72.0,18869.0,410.0,1842.0,410.0,781.0,241.0,844.0,317.0,217.0,163.0,9.0,15.0,Asia,-,,,,,,,,,,,,,,,9.0,15.0,Worth,,13_321,Asia,inflow_13_17_Georgia.csv,2013,2017
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Georgia.csv,2013,2017
 "1Includes Puerto Rico, U.S. Island Areas, and Foreign Countries.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Georgia.csv,2013,2017
 2Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Georgia.csv,2013,2017
 Blank cells represent estimates that are not available.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Georgia.csv,2013,2017
-MOE - Margin of error based on 90% confidence interval.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Georgia.csv,2013,2017
-"Source: U.S. Census Bureau, 2013-2017 American Community Survey. For more information, see https://census.gov/acs.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Georgia.csv,2013,2017

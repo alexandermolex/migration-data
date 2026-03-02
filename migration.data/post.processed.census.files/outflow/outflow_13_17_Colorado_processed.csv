@@ -6263,9 +6263,6 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 31,057,08,125,Nebraska,Dundy County,1980.0,202.0,1495.0,182.0,474.0,226.0,111.0,59.0,105.0,72.0,258.0,192.0,11.0,11.0,Colorado,Yuma County,9774.0,288.0,8677.0,339.0,1097.0,291.0,621.0,272.0,327.0,107.0,149.0,124.0,,,55.0,92.0,Dundy,Yuma,31_057,08_125,outflow_13_17_Colorado.csv
 31,069,08,125,Nebraska,Garden County,1886.0,18.0,1702.0,70.0,183.0,67.0,70.0,42.0,31.0,20.0,82.0,52.0,1.0,2.0,Colorado,Yuma County,9774.0,288.0,8677.0,339.0,1097.0,291.0,621.0,272.0,327.0,107.0,149.0,124.0,,,2.0,3.0,Garden,Yuma,31_069,08_125,outflow_13_17_Colorado.csv
 56,001,08,125,Wyoming,Albany County,37607.0,102.0,26185.0,710.0,11094.0,743.0,6260.0,696.0,1772.0,297.0,3062.0,441.0,328.0,127.0,Colorado,Yuma County,9774.0,288.0,8677.0,339.0,1097.0,291.0,621.0,272.0,327.0,107.0,149.0,124.0,,,3.0,7.0,Albany,Yuma,56_001,08_125,outflow_13_17_Colorado.csv
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Colorado.csv
 1Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Colorado.csv
 "2Includes Puerto Rico, U.S. Island Areas, and Foreign Countries.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Colorado.csv
 Blank cells represent estimates that are not available.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Colorado.csv
-MOE - Margin of error based on 90% confidence interval.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Colorado.csv
-"Source: U.S. Census Bureau, 2013-2017 American Community Survey. For more information, see https://census.gov/acs.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Colorado.csv

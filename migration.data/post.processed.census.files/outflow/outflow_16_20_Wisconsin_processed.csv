@@ -5710,10 +5710,7 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 55,135,55,141,Wisconsin,Waupaca County,50524.0,97.0,44844.0,633.0,5645.0,630.0,2903.0,503.0,2437.0,468.0,305.0,128.0,35.0,17.0,Wisconsin,Wood County,73098.0,947.0,62057.0,1054.0,11041.0,1150.0,6471.0,951.0,3708.0,586.0,862.0,210.0,,,88.0,49.0,Waupaca,Wood,55_135,55_141,outflow_16_20_Wisconsin.csv
 55,137,55,141,Wisconsin,Waushara County,24027.0,39.0,21573.0,275.0,2443.0,273.0,883.0,175.0,1259.0,182.0,301.0,103.0,11.0,11.0,Wisconsin,Wood County,73098.0,947.0,62057.0,1054.0,11041.0,1150.0,6471.0,951.0,3708.0,586.0,862.0,210.0,,,98.0,67.0,Waushara,Wood,55_137,55_141,outflow_16_20_Wisconsin.csv
 55,139,55,141,Wisconsin,Winnebago County,169044.0,240.0,140044.0,1604.0,28753.0,1564.0,15243.0,1238.0,10540.0,989.0,2970.0,677.0,247.0,137.0,Wisconsin,Wood County,73098.0,947.0,62057.0,1054.0,11041.0,1150.0,6471.0,951.0,3708.0,586.0,862.0,210.0,,,216.0,249.0,Winnebago,Wood,55_139,55_141,outflow_16_20_Wisconsin.csv
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Wisconsin.csv
 1Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Wisconsin.csv
 "2Includes Puerto Rico, U.S. Island Areas, and Foreign Countries.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Wisconsin.csv
 Blank cells represent estimates that are not available.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Wisconsin.csv
-MOE - Margin of error based on 90% confidence interval.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Wisconsin.csv
 The Census Bureau reviewed this data product for unauthorized disclosure of confidential information and approved the disclosure avoidance practices applied to this release. CBDRB-FY23-027.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Wisconsin.csv
-"Source: U.S. Census Bureau, 2016-2020 American Community Survey, 5-year estimates. For more information, see https://census.gov/acs.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Wisconsin.csv

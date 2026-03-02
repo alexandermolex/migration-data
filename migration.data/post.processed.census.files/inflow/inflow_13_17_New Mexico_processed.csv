@@ -2334,9 +2334,6 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 35,061,ASI,,New Mexico,Valencia County,75098.0,174.0,65744.0,976.0,9192.0,1003.0,5057.0,877.0,2878.0,491.0,1257.0,473.0,162.0,138.0,Asia,-,,,,,,,,,,,,,,,28.0,43.0,Valencia,,35_061,Asia,inflow_13_17_New Mexico.csv,2013,2017
 35,061,CAR,,New Mexico,Valencia County,75098.0,174.0,65744.0,976.0,9192.0,1003.0,5057.0,877.0,2878.0,491.0,1257.0,473.0,162.0,138.0,Caribbean,-,,,,,,,,,,,,,,,1.0,3.0,Valencia,,35_061,Caribbean,inflow_13_17_New Mexico.csv,2013,2017
 35,061,EUR,,New Mexico,Valencia County,75098.0,174.0,65744.0,976.0,9192.0,1003.0,5057.0,877.0,2878.0,491.0,1257.0,473.0,162.0,138.0,Europe,-,,,,,,,,,,,,,,,133.0,114.0,Valencia,,35_061,Europe,inflow_13_17_New Mexico.csv,2013,2017
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_New Mexico.csv,2013,2017
 "1Includes Puerto Rico, U.S. Island Areas, and Foreign Countries.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_New Mexico.csv,2013,2017
 2Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_New Mexico.csv,2013,2017
 Blank cells represent estimates that are not available.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_New Mexico.csv,2013,2017
-MOE - Margin of error based on 90% confidence interval.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_New Mexico.csv,2013,2017
-"Source: U.S. Census Bureau, 2013-2017 American Community Survey. For more information, see https://census.gov/acs.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_New Mexico.csv,2013,2017

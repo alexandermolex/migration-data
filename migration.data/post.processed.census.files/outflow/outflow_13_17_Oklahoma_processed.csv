@@ -5311,9 +5311,6 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 48,297,40,153,Texas,Live Oak County,11884.0,66.0,10264.0,509.0,1483.0,471.0,620.0,379.0,733.0,247.0,130.0,86.0,137.0,136.0,Oklahoma,Woodward County,21248.0,557.0,17163.0,535.0,4085.0,457.0,2392.0,395.0,1300.0,279.0,393.0,148.0,,,15.0,24.0,Live Oak,Woodward,48_297,40_153,outflow_13_17_Oklahoma.csv
 48,439,40,153,Texas,Tarrant County,1955096.0,1189.0,1618146.0,7530.0,321833.0,7420.0,214339.0,6420.0,64025.0,3117.0,43469.0,3095.0,15117.0,1606.0,Oklahoma,Woodward County,21248.0,557.0,17163.0,535.0,4085.0,457.0,2392.0,395.0,1300.0,279.0,393.0,148.0,,,26.0,42.0,Tarrant,Woodward,48_439,40_153,outflow_13_17_Oklahoma.csv
 48,453,40,153,Texas,Travis County,1161821.0,857.0,934805.0,5129.0,215339.0,5096.0,132652.0,4156.0,48411.0,2666.0,34276.0,1946.0,11677.0,1290.0,Oklahoma,Woodward County,21248.0,557.0,17163.0,535.0,4085.0,457.0,2392.0,395.0,1300.0,279.0,393.0,148.0,,,6.0,10.0,Travis,Woodward,48_453,40_153,outflow_13_17_Oklahoma.csv
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Oklahoma.csv
 1Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Oklahoma.csv
 "2Includes Puerto Rico, U.S. Island Areas, and Foreign Countries.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Oklahoma.csv
 Blank cells represent estimates that are not available.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Oklahoma.csv
-MOE - Margin of error based on 90% confidence interval.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Oklahoma.csv
-"Source: U.S. Census Bureau, 2013-2017 American Community Survey. For more information, see https://census.gov/acs.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Oklahoma.csv

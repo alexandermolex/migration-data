@@ -2963,10 +2963,7 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 34,041,EUR,,New Jersey,Warren County,105091.0,155.0,94890.0,897.0,9941.0,904.0,4142.0,680.0,4593.0,647.0,1206.0,297.0,260.0,152.0,Europe,-,,,,,,,,,,,,,,,34.0,26.0,Warren,,34_041,Europe,inflow_16_20_New Jersey.csv,2016,2020
 34,041,OCE,,New Jersey,Warren County,105091.0,155.0,94890.0,897.0,9941.0,904.0,4142.0,680.0,4593.0,647.0,1206.0,297.0,260.0,152.0,Oceania and At Sea,-,,,,,,,,,,,,,,,28.0,34.0,Warren,,34_041,Oceania and At Sea,inflow_16_20_New Jersey.csv,2016,2020
 34,041,SAM,,New Jersey,Warren County,105091.0,155.0,94890.0,897.0,9941.0,904.0,4142.0,680.0,4593.0,647.0,1206.0,297.0,260.0,152.0,South America,-,,,,,,,,,,,,,,,96.0,114.0,Warren,,34_041,South America,inflow_16_20_New Jersey.csv,2016,2020
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_16_20_New Jersey.csv,2016,2020
 "1Includes Puerto Rico, U.S. Island Areas, and Foreign Countries.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_16_20_New Jersey.csv,2016,2020
 2Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_16_20_New Jersey.csv,2016,2020
 Blank cells represent estimates that are not available.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_16_20_New Jersey.csv,2016,2020
-MOE - Margin of error based on 90% confidence interval.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_16_20_New Jersey.csv,2016,2020
 The Census Bureau reviewed this data product for unauthorized disclosure of confidential information and approved the disclosure avoidance practices applied to this release. CBDRB-FY23-027.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_16_20_New Jersey.csv,2016,2020
-"Source: U.S. Census Bureau, 2016-2020 American Community Survey, 5-year estimates. For more information, see https://census.gov/acs.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_16_20_New Jersey.csv,2016,2020

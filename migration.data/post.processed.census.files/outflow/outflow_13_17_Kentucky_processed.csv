@@ -6601,9 +6601,6 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 48,453,21,239,Texas,Travis County,1161821.0,857.0,934805.0,5129.0,215339.0,5096.0,132652.0,4156.0,48411.0,2666.0,34276.0,1946.0,11677.0,1290.0,Kentucky,Woodford County,26153.0,661.0,22522.0,522.0,3631.0,770.0,1547.0,435.0,1799.0,534.0,285.0,140.0,,,44.0,63.0,Travis,Woodford,48_453,21_239,outflow_13_17_Kentucky.csv
 51,041,21,239,Virginia,Chesterfield County,331697.0,425.0,289263.0,2428.0,40993.0,2305.0,19457.0,1759.0,14490.0,1150.0,7046.0,911.0,1441.0,351.0,Kentucky,Woodford County,26153.0,661.0,22522.0,522.0,3631.0,770.0,1547.0,435.0,1799.0,534.0,285.0,140.0,,,5.0,8.0,Chesterfield,Woodford,51_041,21_239,outflow_13_17_Kentucky.csv
 51,770,21,239,Virginia,Roanoke city,98129.0,262.0,78062.0,1607.0,19622.0,1621.0,11439.0,1402.0,5499.0,808.0,2684.0,614.0,445.0,213.0,Kentucky,Woodford County,26153.0,661.0,22522.0,522.0,3631.0,770.0,1547.0,435.0,1799.0,534.0,285.0,140.0,,,15.0,23.0,Roanoke city,Woodford,51_770,21_239,outflow_13_17_Kentucky.csv
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Kentucky.csv
 1Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Kentucky.csv
 "2Includes Puerto Rico, U.S. Island Areas, and Foreign Countries.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Kentucky.csv
 Blank cells represent estimates that are not available.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Kentucky.csv
-MOE - Margin of error based on 90% confidence interval.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Kentucky.csv
-"Source: U.S. Census Bureau, 2013-2017 American Community Survey. For more information, see https://census.gov/acs.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Kentucky.csv

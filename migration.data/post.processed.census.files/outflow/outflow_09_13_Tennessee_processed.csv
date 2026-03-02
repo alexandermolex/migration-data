@@ -6948,9 +6948,5 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 53,029,47,189,Washington,Island County,77957.0,171.0,65498.0,976.0,11688.0,893.0,4512.0,696.0,2679.0,430.0,4497.0,670.0,771.0,373.0,Tennessee,Wilson County,114468.0,1315.0,99605.0,1694.0,14863.0,1568.0,8568.0,1388.0,4410.0,671.0,1885.0,484.0,,,13.0,28.0,Island,Wilson,53_029,47_189,outflow_09_13_Tennessee.csv
 53,063,47,189,Washington,Spokane County,468470.0,425.0,384260.0,3119.0,82207.0,3225.0,56545.0,2492.0,11784.0,1108.0,13878.0,1419.0,2003.0,476.0,Tennessee,Wilson County,114468.0,1315.0,99605.0,1694.0,14863.0,1568.0,8568.0,1388.0,4410.0,671.0,1885.0,484.0,,,11.0,16.0,Spokane,Wilson,53_063,47_189,outflow_09_13_Tennessee.csv
 55,139,47,189,Wisconsin,Winnebago County,165727.0,291.0,141620.0,1359.0,23841.0,1300.0,13185.0,1079.0,8854.0,780.0,1802.0,374.0,266.0,95.0,Tennessee,Wilson County,114468.0,1315.0,99605.0,1694.0,14863.0,1568.0,8568.0,1388.0,4410.0,671.0,1885.0,484.0,,,11.0,16.0,Winnebago,Wilson,55_139,47_189,outflow_09_13_Tennessee.csv
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_Tennessee.csv
 1Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_Tennessee.csv
-"2Incudes Puerto Rico, U.S. Island Areas, and Foreign Countries",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_Tennessee.csv
 Blank cells represent estimates that are not available,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_Tennessee.csv
-MOE - Margin of error based on 90% confidence interval,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_Tennessee.csv
-"Source: U.S. Census Bureau, 2009-2013 American Community Survey",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_Tennessee.csv

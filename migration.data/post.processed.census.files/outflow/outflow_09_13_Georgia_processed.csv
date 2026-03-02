@@ -12225,9 +12225,5 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 15,003,13,321,Hawaii,Honolulu County,952267.0,643.0,805744.0,4015.0,132754.0,3879.0,84677.0,3032.0,4266.0,785.0,43811.0,2059.0,13769.0,1246.0,Georgia,Worth County,20894.0,541.0,18776.0,614.0,2118.0,486.0,1068.0,406.0,854.0,278.0,196.0,145.0,,,5.0,8.0,Honolulu,Worth,15_003,13_321,outflow_09_13_Georgia.csv
 37,051,13,321,North Carolina,Cumberland County,316609.0,430.0,243389.0,2379.0,67254.0,2373.0,37442.0,1992.0,8895.0,905.0,20917.0,1419.0,5966.0,633.0,Georgia,Worth County,20894.0,541.0,18776.0,614.0,2118.0,486.0,1068.0,406.0,854.0,278.0,196.0,145.0,,,14.0,20.0,Cumberland,Worth,37_051,13_321,outflow_09_13_Georgia.csv
 37,087,13,321,North Carolina,Haywood County,58485.0,150.0,50888.0,1023.0,7550.0,1005.0,4440.0,820.0,1557.0,409.0,1553.0,405.0,47.0,37.0,Georgia,Worth County,20894.0,541.0,18776.0,614.0,2118.0,486.0,1068.0,406.0,854.0,278.0,196.0,145.0,,,44.0,70.0,Haywood,Worth,37_087,13_321,outflow_09_13_Georgia.csv
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_Georgia.csv
 1Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_Georgia.csv
-"2Incudes Puerto Rico, U.S. Island Areas, and Foreign Countries",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_Georgia.csv
 Blank cells represent estimates that are not available,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_Georgia.csv
-MOE - Margin of error based on 90% confidence interval,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_Georgia.csv
-"Source: U.S. Census Bureau, 2009-2013 American Community Survey",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_Georgia.csv

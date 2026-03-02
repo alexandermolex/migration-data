@@ -3358,9 +3358,5 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 34,041,EUR,000,New Jersey,Warren County,106846.0,140.0,96882.0,954.0,9467.0,948.0,5268.0,927.0,2537.0,367.0,1662.0,446.0,497.0,180.0,Europe,-,,,,,,,,,,,,,,,84.0,60.0,Warren,,34_041,Europe,inflow_09_13_New Jersey.csv,2009,2013
 34,041,NAM,000,New Jersey,Warren County,106846.0,140.0,96882.0,954.0,9467.0,948.0,5268.0,927.0,2537.0,367.0,1662.0,446.0,497.0,180.0,Northern America,-,,,,,,,,,,,,,,,16.0,24.0,Warren,,34_041,Northern America,inflow_09_13_New Jersey.csv,2009,2013
 34,041,SAM,000,New Jersey,Warren County,106846.0,140.0,96882.0,954.0,9467.0,948.0,5268.0,927.0,2537.0,367.0,1662.0,446.0,497.0,180.0,South America,-,,,,,,,,,,,,,,,25.0,38.0,Warren,,34_041,South America,inflow_09_13_New Jersey.csv,2009,2013
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_New Jersey.csv,2009,2013
-"1Incudes Puerto Rico, U.S. Island Areas, and Foreign Countries",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_New Jersey.csv,2009,2013
 2Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_New Jersey.csv,2009,2013
 Blank cells represent estimates that are not available,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_New Jersey.csv,2009,2013
-MOE - Margin of error based on 90% confidence interval,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_New Jersey.csv,2009,2013
-"Source: U.S. Census Bureau, 2009-2013 American Community Survey",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_New Jersey.csv,2009,2013

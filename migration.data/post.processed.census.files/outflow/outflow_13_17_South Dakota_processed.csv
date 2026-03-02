@@ -2229,9 +2229,6 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 48,029,46,137,Texas,Bexar County,1864753.0,1235.0,1539699.0,7148.0,310582.0,6755.0,221365.0,6227.0,48162.0,2275.0,41055.0,2466.0,14472.0,1732.0,South Dakota,Ziebach County,3086.0,176.0,2711.0,35.0,375.0,171.0,25.0,23.0,143.0,111.0,207.0,128.0,,,15.0,19.0,Bexar,Ziebach,48_029,46_137,outflow_13_17_South Dakota.csv
 56,021,46,137,Wyoming,Laramie County,96083.0,194.0,78564.0,1259.0,17092.0,1263.0,10025.0,1241.0,1799.0,403.0,5268.0,615.0,427.0,193.0,South Dakota,Ziebach County,3086.0,176.0,2711.0,35.0,375.0,171.0,25.0,23.0,143.0,111.0,207.0,128.0,,,4.0,8.0,Laramie,Ziebach,56_021,46_137,outflow_13_17_South Dakota.csv
 56,027,46,137,Wyoming,Niobrara County,2453.0,30.0,2066.0,136.0,387.0,127.0,218.0,114.0,134.0,50.0,35.0,31.0,,,South Dakota,Ziebach County,3086.0,176.0,2711.0,35.0,375.0,171.0,25.0,23.0,143.0,111.0,207.0,128.0,,,5.0,9.0,Niobrara,Ziebach,56_027,46_137,outflow_13_17_South Dakota.csv
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_South Dakota.csv
 1Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_South Dakota.csv
 "2Includes Puerto Rico, U.S. Island Areas, and Foreign Countries.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_South Dakota.csv
 Blank cells represent estimates that are not available.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_South Dakota.csv
-MOE - Margin of error based on 90% confidence interval.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_South Dakota.csv
-"Source: U.S. Census Bureau, 2013-2017 American Community Survey. For more information, see https://census.gov/acs.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_South Dakota.csv

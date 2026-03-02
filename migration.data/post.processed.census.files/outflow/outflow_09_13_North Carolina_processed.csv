@@ -10499,9 +10499,5 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 40,031,37,199,Oklahoma,Comanche County,122816.0,240.0,87584.0,1836.0,32941.0,1807.0,15859.0,1534.0,4306.0,654.0,12776.0,875.0,2291.0,551.0,North Carolina,Yancey County,17830.0,456.0,15513.0,571.0,2317.0,622.0,1380.0,559.0,678.0,326.0,259.0,184.0,,,20.0,29.0,Comanche,Yancey,40_031,37_199,outflow_09_13_North Carolina.csv
 45,079,37,199,South Carolina,Richland County,385401.0,502.0,300150.0,2994.0,83130.0,2893.0,40250.0,1850.0,19669.0,1543.0,23211.0,1469.0,2121.0,398.0,North Carolina,Yancey County,17830.0,456.0,15513.0,571.0,2317.0,622.0,1380.0,559.0,678.0,326.0,259.0,184.0,,,56.0,89.0,Richland,Yancey,45_079,37_199,outflow_09_13_North Carolina.csv
 45,083,37,199,South Carolina,Spartanburg County,282657.0,415.0,239474.0,2683.0,41723.0,2582.0,28204.0,2278.0,7639.0,868.0,5880.0,972.0,1460.0,610.0,North Carolina,Yancey County,17830.0,456.0,15513.0,571.0,2317.0,622.0,1380.0,559.0,678.0,326.0,259.0,184.0,,,58.0,92.0,Spartanburg,Yancey,45_083,37_199,outflow_09_13_North Carolina.csv
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_North Carolina.csv
 1Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_North Carolina.csv
-"2Incudes Puerto Rico, U.S. Island Areas, and Foreign Countries",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_North Carolina.csv
 Blank cells represent estimates that are not available,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_North Carolina.csv
-MOE - Margin of error based on 90% confidence interval,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_North Carolina.csv
-"Source: U.S. Census Bureau, 2009-2013 American Community Survey",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_North Carolina.csv

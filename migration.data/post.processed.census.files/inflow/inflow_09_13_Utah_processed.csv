@@ -2524,9 +2524,5 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 49,057,NAM,000,Utah,Weber County,229828.0,431.0,194668.0,2114.0,34267.0,2088.0,21713.0,1920.0,8373.0,1012.0,4181.0,586.0,893.0,295.0,Northern America,-,,,,,,,,,,,,,,,18.0,14.0,Weber,,49_057,Northern America,inflow_09_13_Utah.csv,2009,2013
 49,057,OCE,000,Utah,Weber County,229828.0,431.0,194668.0,2114.0,34267.0,2088.0,21713.0,1920.0,8373.0,1012.0,4181.0,586.0,893.0,295.0,Oceania and At Sea,-,,,,,,,,,,,,,,,15.0,23.0,Weber,,49_057,Oceania and At Sea,inflow_09_13_Utah.csv,2009,2013
 49,057,SAM,000,Utah,Weber County,229828.0,431.0,194668.0,2114.0,34267.0,2088.0,21713.0,1920.0,8373.0,1012.0,4181.0,586.0,893.0,295.0,South America,-,,,,,,,,,,,,,,,104.0,98.0,Weber,,49_057,South America,inflow_09_13_Utah.csv,2009,2013
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_Utah.csv,2009,2013
-"1Incudes Puerto Rico, U.S. Island Areas, and Foreign Countries",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_Utah.csv,2009,2013
 2Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_Utah.csv,2009,2013
 Blank cells represent estimates that are not available,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_Utah.csv,2009,2013
-MOE - Margin of error based on 90% confidence interval,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_Utah.csv,2009,2013
-"Source: U.S. Census Bureau, 2009-2013 American Community Survey",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_Utah.csv,2009,2013

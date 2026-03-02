@@ -5331,9 +5331,6 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 01,133,47,037,Alabama,Winston County,23790.0,65.0,20817.0,522.0,2956.0,508.0,1964.0,455.0,837.0,226.0,155.0,93.0,17.0,27.0,Tennessee,Davidson County,661859.0,3381.0,543786.0,4008.0,118064.0,4017.0,72304.0,3337.0,25307.0,1649.0,20453.0,1742.0,9.0,14.0,36.0,56.0,Winston,Davidson,01_133,47_037,inflow_13_17_Alabama.csv,2013,2017
 01,133,48,167,Alabama,Winston County,23790.0,65.0,20817.0,522.0,2956.0,508.0,1964.0,455.0,837.0,226.0,155.0,93.0,17.0,27.0,Texas,Galveston County,310582.0,3250.0,265827.0,3259.0,44755.0,2549.0,26612.0,1699.0,14329.0,1577.0,3814.0,606.0,,,12.0,19.0,Winston,Galveston,01_133,48_167,inflow_13_17_Alabama.csv,2013,2017
 01,133,NAM,,Alabama,Winston County,23790.0,65.0,20817.0,522.0,2956.0,508.0,1964.0,455.0,837.0,226.0,155.0,93.0,17.0,27.0,Northern America,-,,,,,,,,,,,,,,,17.0,27.0,Winston,,01_133,Northern America,inflow_13_17_Alabama.csv,2013,2017
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Alabama.csv,2013,2017
 "1Includes Puerto Rico, U.S. Island Areas, and Foreign Countries.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Alabama.csv,2013,2017
 2Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Alabama.csv,2013,2017
 Blank cells represent estimates that are not available.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Alabama.csv,2013,2017
-MOE - Margin of error based on 90% confidence interval.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Alabama.csv,2013,2017
-"Source: U.S. Census Bureau, 2013-2017 American Community Survey. For more information, see https://census.gov/acs.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Alabama.csv,2013,2017

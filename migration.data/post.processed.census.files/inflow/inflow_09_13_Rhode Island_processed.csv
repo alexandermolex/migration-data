@@ -687,9 +687,5 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 44,009,CAM,000,Rhode Island,Washington County,125727.0,174.0,109389.0,1059.0,16027.0,1090.0,8392.0,1029.0,3887.0,742.0,3748.0,478.0,311.0,95.0,Central America,-,,,,,,,,,,,,,,,9.0,15.0,Washington,,44_009,Central America,inflow_09_13_Rhode Island.csv,2009,2013
 44,009,CAR,000,Rhode Island,Washington County,125727.0,174.0,109389.0,1059.0,16027.0,1090.0,8392.0,1029.0,3887.0,742.0,3748.0,478.0,311.0,95.0,Caribbean,-,,,,,,,,,,,,,,,9.0,14.0,Washington,,44_009,Caribbean,inflow_09_13_Rhode Island.csv,2009,2013
 44,009,EUR,000,Rhode Island,Washington County,125727.0,174.0,109389.0,1059.0,16027.0,1090.0,8392.0,1029.0,3887.0,742.0,3748.0,478.0,311.0,95.0,Europe,-,,,,,,,,,,,,,,,67.0,45.0,Washington,,44_009,Europe,inflow_09_13_Rhode Island.csv,2009,2013
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_Rhode Island.csv,2009,2013
-"1Incudes Puerto Rico, U.S. Island Areas, and Foreign Countries",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_Rhode Island.csv,2009,2013
 2Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_Rhode Island.csv,2009,2013
 Blank cells represent estimates that are not available,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_Rhode Island.csv,2009,2013
-MOE - Margin of error based on 90% confidence interval,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_Rhode Island.csv,2009,2013
-"Source: U.S. Census Bureau, 2009-2013 American Community Survey",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_Rhode Island.csv,2009,2013

@@ -945,9 +945,6 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 50,025,50,027,Vermont,Windham County,43025.0,88.0,38023.0,566.0,4884.0,536.0,2468.0,417.0,701.0,219.0,1715.0,293.0,118.0,62.0,Vermont,Windsor County,55579.0,727.0,48888.0,623.0,6691.0,778.0,2945.0,444.0,1157.0,305.0,2589.0,490.0,,,201.0,118.0,Windham,Windsor,50_025,50_027,outflow_13_17_Vermont.csv
 51,107,50,027,Virginia,Loudoun County,369567.0,381.0,319532.0,2704.0,45157.0,2629.0,21339.0,1697.0,14370.0,1234.0,9448.0,1148.0,4878.0,774.0,Vermont,Windsor County,55579.0,727.0,48888.0,623.0,6691.0,778.0,2945.0,444.0,1157.0,305.0,2589.0,490.0,,,20.0,32.0,Loudoun,Windsor,51_107,50_027,outflow_13_17_Vermont.csv
 56,001,50,027,Wyoming,Albany County,37607.0,102.0,26185.0,710.0,11094.0,743.0,6260.0,696.0,1772.0,297.0,3062.0,441.0,328.0,127.0,Vermont,Windsor County,55579.0,727.0,48888.0,623.0,6691.0,778.0,2945.0,444.0,1157.0,305.0,2589.0,490.0,,,1.0,3.0,Albany,Windsor,56_001,50_027,outflow_13_17_Vermont.csv
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Vermont.csv
 1Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Vermont.csv
 "2Includes Puerto Rico, U.S. Island Areas, and Foreign Countries.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Vermont.csv
 Blank cells represent estimates that are not available.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Vermont.csv
-MOE - Margin of error based on 90% confidence interval.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Vermont.csv
-"Source: U.S. Census Bureau, 2013-2017 American Community Survey. For more information, see https://census.gov/acs.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Vermont.csv

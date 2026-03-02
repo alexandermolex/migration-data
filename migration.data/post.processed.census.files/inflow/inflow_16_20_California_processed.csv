@@ -9713,10 +9713,7 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 06,115,CAM,,California,Yuba County,76512.0,176.0,64096.0,1264.0,11997.0,1311.0,5406.0,1044.0,4743.0,871.0,1848.0,409.0,419.0,292.0,Central America,-,,,,,,,,,,,,,,,21.0,29.0,Yuba,,06_115,Central America,inflow_16_20_California.csv,2016,2020
 06,115,CAR,,California,Yuba County,76512.0,176.0,64096.0,1264.0,11997.0,1311.0,5406.0,1044.0,4743.0,871.0,1848.0,409.0,419.0,292.0,Caribbean,-,,,,,,,,,,,,,,,21.0,32.0,Yuba,,06_115,Caribbean,inflow_16_20_California.csv,2016,2020
 06,115,EUR,,California,Yuba County,76512.0,176.0,64096.0,1264.0,11997.0,1311.0,5406.0,1044.0,4743.0,871.0,1848.0,409.0,419.0,292.0,Europe,-,,,,,,,,,,,,,,,31.0,23.0,Yuba,,06_115,Europe,inflow_16_20_California.csv,2016,2020
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_16_20_California.csv,2016,2020
 "1Includes Puerto Rico, U.S. Island Areas, and Foreign Countries.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_16_20_California.csv,2016,2020
 2Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_16_20_California.csv,2016,2020
 Blank cells represent estimates that are not available.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_16_20_California.csv,2016,2020
-MOE - Margin of error based on 90% confidence interval.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_16_20_California.csv,2016,2020
 The Census Bureau reviewed this data product for unauthorized disclosure of confidential information and approved the disclosure avoidance practices applied to this release. CBDRB-FY23-027.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_16_20_California.csv,2016,2020
-"Source: U.S. Census Bureau, 2016-2020 American Community Survey, 5-year estimates. For more information, see https://census.gov/acs.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_16_20_California.csv,2016,2020

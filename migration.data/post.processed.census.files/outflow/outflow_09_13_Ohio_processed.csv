@@ -9403,9 +9403,5 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 40,017,39,175,Oklahoma,Canadian County,118022.0,213.0,100087.0,1532.0,17642.0,1523.0,8710.0,1131.0,6024.0,891.0,2908.0,505.0,293.0,132.0,Ohio,Wyandot County,22064.0,537.0,19270.0,552.0,2794.0,538.0,1517.0,381.0,1121.0,338.0,156.0,114.0,,,5.0,9.0,Canadian,Wyandot,40_017,39_175,outflow_09_13_Ohio.csv
 40,059,39,175,Oklahoma,Harper County,3645.0,32.0,3389.0,123.0,249.0,108.0,162.0,98.0,54.0,35.0,33.0,26.0,7.0,8.0,Ohio,Wyandot County,22064.0,537.0,19270.0,552.0,2794.0,538.0,1517.0,381.0,1121.0,338.0,156.0,114.0,,,1.0,2.0,Harper,Wyandot,40_059,39_175,outflow_09_13_Ohio.csv
 42,029,39,175,Pennsylvania,Chester County,497512.0,412.0,446765.0,1853.0,48255.0,1817.0,25996.0,1372.0,12961.0,1299.0,9298.0,845.0,2492.0,434.0,Ohio,Wyandot County,22064.0,537.0,19270.0,552.0,2794.0,538.0,1517.0,381.0,1121.0,338.0,156.0,114.0,,,10.0,16.0,Chester,Wyandot,42_029,39_175,outflow_09_13_Ohio.csv
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_Ohio.csv
 1Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_Ohio.csv
-"2Incudes Puerto Rico, U.S. Island Areas, and Foreign Countries",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_Ohio.csv
 Blank cells represent estimates that are not available,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_Ohio.csv
-MOE - Margin of error based on 90% confidence interval,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_Ohio.csv
-"Source: U.S. Census Bureau, 2009-2013 American Community Survey",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_Ohio.csv

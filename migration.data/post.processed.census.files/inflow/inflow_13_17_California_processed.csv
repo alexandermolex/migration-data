@@ -10604,9 +10604,6 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 06,115,EUR,,California,Yuba County,73487.0,214.0,59096.0,1244.0,13852.0,1215.0,7572.0,947.0,4191.0,649.0,2089.0,506.0,539.0,217.0,Europe,-,,,,,,,,,,,,,,,104.0,68.0,Yuba,,06_115,Europe,inflow_13_17_California.csv,2013,2017
 06,115,NAM,,California,Yuba County,73487.0,214.0,59096.0,1244.0,13852.0,1215.0,7572.0,947.0,4191.0,649.0,2089.0,506.0,539.0,217.0,Northern America,-,,,,,,,,,,,,,,,11.0,21.0,Yuba,,06_115,Northern America,inflow_13_17_California.csv,2013,2017
 06,115,SAM,,California,Yuba County,73487.0,214.0,59096.0,1244.0,13852.0,1215.0,7572.0,947.0,4191.0,649.0,2089.0,506.0,539.0,217.0,South America,-,,,,,,,,,,,,,,,9.0,14.0,Yuba,,06_115,South America,inflow_13_17_California.csv,2013,2017
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_California.csv,2013,2017
 "1Includes Puerto Rico, U.S. Island Areas, and Foreign Countries.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_California.csv,2013,2017
 2Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_California.csv,2013,2017
 Blank cells represent estimates that are not available.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_California.csv,2013,2017
-MOE - Margin of error based on 90% confidence interval.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_California.csv,2013,2017
-"Source: U.S. Census Bureau, 2013-2017 American Community Survey. For more information, see https://census.gov/acs.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_California.csv,2013,2017

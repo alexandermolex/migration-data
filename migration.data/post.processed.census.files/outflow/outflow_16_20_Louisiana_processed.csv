@@ -4173,10 +4173,7 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 48,187,22,127,Texas,Guadalupe County,161619.0,275.0,140388.0,2022.0,20588.0,2065.0,8562.0,1441.0,7160.0,921.0,4866.0,988.0,643.0,268.0,Louisiana,Winn Parish,14371.0,323.0,12458.0,387.0,1913.0,362.0,775.0,278.0,962.0,193.0,176.0,114.0,,,4.0,6.0,Guadalupe,Winn Parish,48_187,22_127,outflow_16_20_Louisiana.csv
 48,453,22,127,Texas,Travis County,1236640.0,850.0,998886.0,7114.0,226246.0,6847.0,138212.0,5077.0,49889.0,3135.0,38145.0,2524.0,11508.0,1334.0,Louisiana,Winn Parish,14371.0,323.0,12458.0,387.0,1913.0,362.0,775.0,278.0,962.0,193.0,176.0,114.0,,,32.0,51.0,Travis,Winn Parish,48_453,22_127,outflow_16_20_Louisiana.csv
 51,173,22,127,Virginia,Smyth County,30278.0,93.0,26427.0,576.0,3850.0,591.0,2219.0,404.0,1000.0,291.0,631.0,291.0,1.0,3.0,Louisiana,Winn Parish,14371.0,323.0,12458.0,387.0,1913.0,362.0,775.0,278.0,962.0,193.0,176.0,114.0,,,70.0,83.0,Smyth,Winn Parish,51_173,22_127,outflow_16_20_Louisiana.csv
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Louisiana.csv
 1Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Louisiana.csv
 "2Includes Puerto Rico, U.S. Island Areas, and Foreign Countries.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Louisiana.csv
 Blank cells represent estimates that are not available.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Louisiana.csv
-MOE - Margin of error based on 90% confidence interval.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Louisiana.csv
 The Census Bureau reviewed this data product for unauthorized disclosure of confidential information and approved the disclosure avoidance practices applied to this release. CBDRB-FY23-027.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Louisiana.csv
-"Source: U.S. Census Bureau, 2016-2020 American Community Survey, 5-year estimates. For more information, see https://census.gov/acs.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Louisiana.csv

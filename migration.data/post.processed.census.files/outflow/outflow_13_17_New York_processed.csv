@@ -10144,9 +10144,6 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 49,035,36,123,Utah,Salt Lake County,1089660.0,806.0,914528.0,4675.0,166947.0,4420.0,113674.0,3747.0,20756.0,1568.0,32517.0,2171.0,8185.0,1021.0,New York,Yates County,24048.0,456.0,22160.0,443.0,1888.0,323.0,917.0,248.0,583.0,177.0,388.0,171.0,,,16.0,23.0,Salt Lake,Yates,49_035,36_123,outflow_13_17_New York.csv
 51,700,36,123,Virginia,Newport News city,178619.0,342.0,141213.0,2325.0,36060.0,2281.0,16850.0,1567.0,11028.0,1387.0,8182.0,1033.0,1346.0,257.0,New York,Yates County,24048.0,456.0,22160.0,443.0,1888.0,323.0,917.0,248.0,583.0,177.0,388.0,171.0,,,12.0,23.0,Newport News city,Yates,51_700,36_123,outflow_13_17_New York.csv
 55,073,36,123,Wisconsin,Marathon County,133623.0,193.0,117739.0,1049.0,15458.0,1073.0,9610.0,852.0,4149.0,523.0,1699.0,459.0,426.0,185.0,New York,Yates County,24048.0,456.0,22160.0,443.0,1888.0,323.0,917.0,248.0,583.0,177.0,388.0,171.0,,,13.0,18.0,Marathon,Yates,55_073,36_123,outflow_13_17_New York.csv
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_New York.csv
 1Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_New York.csv
 "2Includes Puerto Rico, U.S. Island Areas, and Foreign Countries.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_New York.csv
 Blank cells represent estimates that are not available.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_New York.csv
-MOE - Margin of error based on 90% confidence interval.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_New York.csv
-"Source: U.S. Census Bureau, 2013-2017 American Community Survey. For more information, see https://census.gov/acs.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_New York.csv

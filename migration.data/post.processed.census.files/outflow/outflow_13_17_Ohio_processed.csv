@@ -9453,9 +9453,6 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 42,029,39,175,Pennsylvania,Chester County,509409.0,421.0,451176.0,2202.0,55402.0,2027.0,29409.0,1635.0,14775.0,1278.0,11218.0,1128.0,2831.0,527.0,Ohio,Wyandot County,21616.0,467.0,19130.0,390.0,2486.0,438.0,1492.0,321.0,862.0,288.0,132.0,86.0,,,21.0,28.0,Chester,Wyandot,42_029,39_175,outflow_13_17_Ohio.csv
 47,063,39,175,Tennessee,Hamblen County,62705.0,207.0,55630.0,932.0,6834.0,906.0,3978.0,671.0,1865.0,605.0,991.0,388.0,241.0,169.0,Ohio,Wyandot County,21616.0,467.0,19130.0,390.0,2486.0,438.0,1492.0,321.0,862.0,288.0,132.0,86.0,,,20.0,28.0,Hamblen,Wyandot,47_063,39_175,outflow_13_17_Ohio.csv
 47,125,39,175,Tennessee,Montgomery County,188850.0,371.0,146641.0,2572.0,40191.0,2509.0,21370.0,1677.0,3198.0,496.0,15623.0,1888.0,2018.0,449.0,Ohio,Wyandot County,21616.0,467.0,19130.0,390.0,2486.0,438.0,1492.0,321.0,862.0,288.0,132.0,86.0,,,41.0,67.0,Montgomery,Wyandot,47_125,39_175,outflow_13_17_Ohio.csv
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Ohio.csv
 1Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Ohio.csv
 "2Includes Puerto Rico, U.S. Island Areas, and Foreign Countries.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Ohio.csv
 Blank cells represent estimates that are not available.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Ohio.csv
-MOE - Margin of error based on 90% confidence interval.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Ohio.csv
-"Source: U.S. Census Bureau, 2013-2017 American Community Survey. For more information, see https://census.gov/acs.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Ohio.csv

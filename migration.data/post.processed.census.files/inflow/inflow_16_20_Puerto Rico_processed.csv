@@ -2040,10 +2040,7 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 72,153,72,151,Puerto Rico,Yauco Municipio,34308.0,112.0,33056.0,447.0,1046.0,403.0,902.0,359.0,144.0,125.0,116.0,109.0,90.0,121.0,Puerto Rico,Yabucoa Municipio,33762.0,901.0,30565.0,721.0,2063.0,828.0,1287.0,665.0,776.0,479.0,1134.0,625.0,,,74.0,114.0,Yauco Municipio,Yabucoa Municipio,72_153,72_151,inflow_16_20_Puerto Rico.csv,2016,2020
 72,153,CAR,,Puerto Rico,Yauco Municipio,34308.0,112.0,33056.0,447.0,1046.0,403.0,902.0,359.0,144.0,125.0,116.0,109.0,90.0,121.0,Caribbean,-,,,,,,,,,,,,,,,32.0,38.0,Yauco Municipio,,72_153,Caribbean,inflow_16_20_Puerto Rico.csv,2016,2020
 72,153,SAM,,Puerto Rico,Yauco Municipio,34308.0,112.0,33056.0,447.0,1046.0,403.0,902.0,359.0,144.0,125.0,116.0,109.0,90.0,121.0,South America,-,,,,,,,,,,,,,,,58.0,86.0,Yauco Municipio,,72_153,South America,inflow_16_20_Puerto Rico.csv,2016,2020
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_16_20_Puerto Rico.csv,2016,2020
 "1Includes Puerto Rico, U.S. Island Areas, and Foreign Countries.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_16_20_Puerto Rico.csv,2016,2020
 2Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_16_20_Puerto Rico.csv,2016,2020
 Blank cells represent estimates that are not available.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_16_20_Puerto Rico.csv,2016,2020
-MOE - Margin of error based on 90% confidence interval.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_16_20_Puerto Rico.csv,2016,2020
 The Census Bureau reviewed this data product for unauthorized disclosure of confidential information and approved the disclosure avoidance practices applied to this release. CBDRB-FY23-027.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_16_20_Puerto Rico.csv,2016,2020
-"Source: U.S. Census Bureau, 2016-2020 American Community Survey, 5-year estimates. For more information, see https://census.gov/acs.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_16_20_Puerto Rico.csv,2016,2020

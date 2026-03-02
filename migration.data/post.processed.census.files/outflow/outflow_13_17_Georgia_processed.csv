@@ -12212,9 +12212,6 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 13,315,13,321,Georgia,Wilcox County,8850.0,31.0,7773.0,244.0,1075.0,240.0,346.0,137.0,704.0,213.0,25.0,23.0,2.0,4.0,Georgia,Worth County,20898.0,507.0,18869.0,410.0,2029.0,457.0,781.0,241.0,1161.0,374.0,87.0,61.0,,,1.0,4.0,Wilcox,Worth,13_315,13_321,outflow_13_17_Georgia.csv
 27,137,13,321,Minnesota,St. Louis County,198315.0,185.0,165994.0,1322.0,31843.0,1345.0,20531.0,1261.0,7573.0,601.0,3739.0,353.0,478.0,163.0,Georgia,Worth County,20898.0,507.0,18869.0,410.0,2029.0,457.0,781.0,241.0,1161.0,374.0,87.0,61.0,,,12.0,18.0,St. Louis,Worth,27_137,13_321,outflow_13_17_Georgia.csv
 37,051,13,321,North Carolina,Cumberland County,327463.0,407.0,258679.0,2597.0,64543.0,2638.0,34601.0,1867.0,7697.0,887.0,22245.0,1428.0,4241.0,546.0,Georgia,Worth County,20898.0,507.0,18869.0,410.0,2029.0,457.0,781.0,241.0,1161.0,374.0,87.0,61.0,,,31.0,43.0,Cumberland,Worth,37_051,13_321,outflow_13_17_Georgia.csv
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Georgia.csv
 1Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Georgia.csv
 "2Includes Puerto Rico, U.S. Island Areas, and Foreign Countries.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Georgia.csv
 Blank cells represent estimates that are not available.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Georgia.csv
-MOE - Margin of error based on 90% confidence interval.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Georgia.csv
-"Source: U.S. Census Bureau, 2013-2017 American Community Survey. For more information, see https://census.gov/acs.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Georgia.csv

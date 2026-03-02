@@ -2368,9 +2368,5 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 38,105,56,025,North Dakota,Williams County,24755.0,102.0,19817.0,762.0,4899.0,767.0,2358.0,569.0,634.0,214.0,1907.0,617.0,39.0,41.0,Wyoming,Natrona County,76523.0,1135.0,62091.0,1315.0,14392.0,1366.0,8948.0,1133.0,1788.0,407.0,3656.0,727.0,40.0,49.0,17.0,20.0,Williams,Natrona,38_105,56_025,inflow_09_13_North Dakota.csv,2009,2013
 38,105,56,043,North Dakota,Williams County,24755.0,102.0,19817.0,762.0,4899.0,767.0,2358.0,569.0,634.0,214.0,1907.0,617.0,39.0,41.0,Wyoming,Washakie County,8456.0,268.0,7393.0,236.0,1063.0,294.0,553.0,191.0,283.0,155.0,227.0,143.0,,,4.0,6.0,Williams,Washakie,38_105,56_043,inflow_09_13_North Dakota.csv,2009,2013
 38,105,ASI,000,North Dakota,Williams County,24755.0,102.0,19817.0,762.0,4899.0,767.0,2358.0,569.0,634.0,214.0,1907.0,617.0,39.0,41.0,Asia,-,,,,,,,,,,,,,,,39.0,41.0,Williams,,38_105,Asia,inflow_09_13_North Dakota.csv,2009,2013
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_North Dakota.csv,2009,2013
-"1Incudes Puerto Rico, U.S. Island Areas, and Foreign Countries",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_North Dakota.csv,2009,2013
 2Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_North Dakota.csv,2009,2013
 Blank cells represent estimates that are not available,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_North Dakota.csv,2009,2013
-MOE - Margin of error based on 90% confidence interval,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_North Dakota.csv,2009,2013
-"Source: U.S. Census Bureau, 2009-2013 American Community Survey",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_North Dakota.csv,2009,2013

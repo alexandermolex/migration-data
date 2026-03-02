@@ -2115,10 +2115,7 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 56,021,49,057,Wyoming,Laramie County,98110.0,215.0,81203.0,1742.0,16560.0,1685.0,9486.0,1288.0,1468.0,323.0,5606.0,1017.0,347.0,195.0,Utah,Weber County,249795.0,2152.0,214934.0,2303.0,34861.0,2359.0,19688.0,1884.0,9590.0,1324.0,5583.0,915.0,,,10.0,15.0,Laramie,Weber,56_021,49_057,outflow_16_20_Utah.csv
 56,037,49,057,Wyoming,Sweetwater County,42771.0,124.0,34743.0,1006.0,7901.0,1016.0,4710.0,787.0,1038.0,384.0,2153.0,552.0,127.0,97.0,Utah,Weber County,249795.0,2152.0,214934.0,2303.0,34861.0,2359.0,19688.0,1884.0,9590.0,1324.0,5583.0,915.0,,,22.0,27.0,Sweetwater,Weber,56_037,49_057,outflow_16_20_Utah.csv
 56,041,49,057,Wyoming,Uinta County,20132.0,128.0,17520.0,582.0,2599.0,559.0,1652.0,514.0,317.0,147.0,630.0,224.0,13.0,23.0,Utah,Weber County,249795.0,2152.0,214934.0,2303.0,34861.0,2359.0,19688.0,1884.0,9590.0,1324.0,5583.0,915.0,,,31.0,45.0,Uinta,Weber,56_041,49_057,outflow_16_20_Utah.csv
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Utah.csv
 1Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Utah.csv
 "2Includes Puerto Rico, U.S. Island Areas, and Foreign Countries.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Utah.csv
 Blank cells represent estimates that are not available.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Utah.csv
-MOE - Margin of error based on 90% confidence interval.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Utah.csv
 The Census Bureau reviewed this data product for unauthorized disclosure of confidential information and approved the disclosure avoidance practices applied to this release. CBDRB-FY23-027.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Utah.csv
-"Source: U.S. Census Bureau, 2016-2020 American Community Survey, 5-year estimates. For more information, see https://census.gov/acs.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Utah.csv

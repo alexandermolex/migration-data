@@ -2256,9 +2256,6 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 56,029,49,057,Wyoming,Park County,28980.0,131.0,24861.0,750.0,4094.0,734.0,2292.0,671.0,526.0,189.0,1276.0,371.0,25.0,21.0,Utah,Weber County,239599.0,2316.0,201601.0,2108.0,37998.0,2299.0,21950.0,1632.0,10629.0,1409.0,5419.0,873.0,,,3.0,5.0,Park,Weber,56_029,49_057,outflow_13_17_Utah.csv
 56,037,49,057,Wyoming,Sweetwater County,43782.0,169.0,35354.0,963.0,8367.0,940.0,5423.0,796.0,799.0,277.0,2145.0,570.0,61.0,48.0,Utah,Weber County,239599.0,2316.0,201601.0,2108.0,37998.0,2299.0,21950.0,1632.0,10629.0,1409.0,5419.0,873.0,,,8.0,11.0,Sweetwater,Weber,56_037,49_057,outflow_13_17_Utah.csv
 56,041,49,057,Wyoming,Uinta County,20386.0,121.0,17081.0,592.0,3260.0,589.0,2053.0,538.0,681.0,325.0,526.0,191.0,45.0,73.0,Utah,Weber County,239599.0,2316.0,201601.0,2108.0,37998.0,2299.0,21950.0,1632.0,10629.0,1409.0,5419.0,873.0,,,17.0,29.0,Uinta,Weber,56_041,49_057,outflow_13_17_Utah.csv
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Utah.csv
 1Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Utah.csv
 "2Includes Puerto Rico, U.S. Island Areas, and Foreign Countries.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Utah.csv
 Blank cells represent estimates that are not available.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Utah.csv
-MOE - Margin of error based on 90% confidence interval.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Utah.csv
-"Source: U.S. Census Bureau, 2013-2017 American Community Survey. For more information, see https://census.gov/acs.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Utah.csv

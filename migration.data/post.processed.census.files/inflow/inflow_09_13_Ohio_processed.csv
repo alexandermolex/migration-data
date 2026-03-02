@@ -9349,9 +9349,5 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 39,175,51,165,Ohio,Wyandot County,22272.0,87.0,19270.0,552.0,2969.0,539.0,1517.0,381.0,1100.0,367.0,352.0,225.0,33.0,32.0,Virginia,Rockingham County,78358.0,1190.0,67570.0,883.0,10788.0,1256.0,3853.0,637.0,5572.0,881.0,1363.0,408.0,,,34.0,50.0,Wyandot,Rockingham,39_175,51_165,inflow_09_13_Ohio.csv,2009,2013
 39,175,ASI,000,Ohio,Wyandot County,22272.0,87.0,19270.0,552.0,2969.0,539.0,1517.0,381.0,1100.0,367.0,352.0,225.0,33.0,32.0,Asia,-,,,,,,,,,,,,,,,11.0,21.0,Wyandot,,39_175,Asia,inflow_09_13_Ohio.csv,2009,2013
 39,175,EUR,000,Ohio,Wyandot County,22272.0,87.0,19270.0,552.0,2969.0,539.0,1517.0,381.0,1100.0,367.0,352.0,225.0,33.0,32.0,Europe,-,,,,,,,,,,,,,,,22.0,24.0,Wyandot,,39_175,Europe,inflow_09_13_Ohio.csv,2009,2013
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_Ohio.csv,2009,2013
-"1Incudes Puerto Rico, U.S. Island Areas, and Foreign Countries",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_Ohio.csv,2009,2013
 2Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_Ohio.csv,2009,2013
 Blank cells represent estimates that are not available,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_Ohio.csv,2009,2013
-MOE - Margin of error based on 90% confidence interval,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_Ohio.csv,2009,2013
-"Source: U.S. Census Bureau, 2009-2013 American Community Survey",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_Ohio.csv,2009,2013

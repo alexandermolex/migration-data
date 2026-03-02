@@ -1602,9 +1602,6 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 32,510,CAM,,Nevada,Carson City,53820.0,110.0,42843.0,1015.0,10818.0,989.0,4842.0,796.0,3328.0,541.0,2648.0,535.0,159.0,97.0,Central America,-,,,,,,,,,,,,,,,34.0,38.0,Carson City,,32_510,Central America,inflow_13_17_Nevada.csv,2013,2017
 32,510,EUR,,Nevada,Carson City,53820.0,110.0,42843.0,1015.0,10818.0,989.0,4842.0,796.0,3328.0,541.0,2648.0,535.0,159.0,97.0,Europe,-,,,,,,,,,,,,,,,53.0,66.0,Carson City,,32_510,Europe,inflow_13_17_Nevada.csv,2013,2017
 32,510,NAM,,Nevada,Carson City,53820.0,110.0,42843.0,1015.0,10818.0,989.0,4842.0,796.0,3328.0,541.0,2648.0,535.0,159.0,97.0,Northern America,-,,,,,,,,,,,,,,,12.0,19.0,Carson City,,32_510,Northern America,inflow_13_17_Nevada.csv,2013,2017
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Nevada.csv,2013,2017
 "1Includes Puerto Rico, U.S. Island Areas, and Foreign Countries.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Nevada.csv,2013,2017
 2Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Nevada.csv,2013,2017
 Blank cells represent estimates that are not available.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Nevada.csv,2013,2017
-MOE - Margin of error based on 90% confidence interval.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Nevada.csv,2013,2017
-"Source: U.S. Census Bureau, 2013-2017 American Community Survey. For more information, see https://census.gov/acs.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Nevada.csv,2013,2017

@@ -716,9 +716,5 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 53,053,44,009,Washington,Pierce County,794349.0,605.0,652344.0,4105.0,135565.0,3924.0,85580.0,3079.0,24307.0,1570.0,25678.0,1804.0,6440.0,763.0,Rhode Island,Washington County,124215.0,1201.0,109389.0,1059.0,14773.0,1306.0,8392.0,1029.0,2894.0,573.0,3487.0,464.0,53.0,83.0,16.0,25.0,Pierce,Washington,53_053,44_009,outflow_09_13_Rhode Island.csv
 55,079,44,009,Wisconsin,Milwaukee County,937217.0,589.0,764305.0,4328.0,169121.0,4126.0,133389.0,3539.0,19903.0,1384.0,15829.0,1070.0,3791.0,517.0,Rhode Island,Washington County,124215.0,1201.0,109389.0,1059.0,14773.0,1306.0,8392.0,1029.0,2894.0,573.0,3487.0,464.0,53.0,83.0,9.0,14.0,Milwaukee,Washington,55_079,44_009,outflow_09_13_Rhode Island.csv
 72,115,44,009,Puerto Rico,Quebradillas Municipio,25493.0,111.0,25143.0,213.0,280.0,143.0,112.0,77.0,168.0,117.0,70.0,88.0,,,Rhode Island,Washington County,124215.0,1201.0,109389.0,1059.0,14773.0,1306.0,8392.0,1029.0,2894.0,573.0,3487.0,464.0,53.0,83.0,53.0,83.0,Quebradillas Municipio,Washington,72_115,44_009,outflow_09_13_Rhode Island.csv
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_Rhode Island.csv
 1Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_Rhode Island.csv
-"2Incudes Puerto Rico, U.S. Island Areas, and Foreign Countries",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_Rhode Island.csv
 Blank cells represent estimates that are not available,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_Rhode Island.csv
-MOE - Margin of error based on 90% confidence interval,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_Rhode Island.csv
-"Source: U.S. Census Bureau, 2009-2013 American Community Survey",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_Rhode Island.csv

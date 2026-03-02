@@ -4123,9 +4123,5 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 48,215,05,149,Texas,Hidalgo County,775494.0,856.0,676171.0,5018.0,92229.0,5187.0,72796.0,4511.0,11415.0,1240.0,8018.0,1499.0,7094.0,1072.0,Arkansas,Yell County,22319.0,745.0,18456.0,584.0,3863.0,762.0,2060.0,506.0,1534.0,439.0,269.0,144.0,,,14.0,21.0,Hidalgo,Yell,48_215,05_149,outflow_09_13_Arkansas.csv
 48,439,05,149,Texas,Tarrant County,1823073.0,974.0,1502371.0,7093.0,309920.0,6975.0,212240.0,6620.0,60159.0,3250.0,37521.0,2716.0,10782.0,1308.0,Arkansas,Yell County,22319.0,745.0,18456.0,584.0,3863.0,762.0,2060.0,506.0,1534.0,439.0,269.0,144.0,,,4.0,9.0,Tarrant,Yell,48_439,05_149,outflow_09_13_Arkansas.csv
 53,007,05,149,Washington,Chelan County,71884.0,228.0,64777.0,917.0,6978.0,955.0,3768.0,531.0,2376.0,604.0,834.0,288.0,129.0,76.0,Arkansas,Yell County,22319.0,745.0,18456.0,584.0,3863.0,762.0,2060.0,506.0,1534.0,439.0,269.0,144.0,,,16.0,23.0,Chelan,Yell,53_007,05_149,outflow_09_13_Arkansas.csv
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_Arkansas.csv
 1Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_Arkansas.csv
-"2Incudes Puerto Rico, U.S. Island Areas, and Foreign Countries",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_Arkansas.csv
 Blank cells represent estimates that are not available,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_Arkansas.csv
-MOE - Margin of error based on 90% confidence interval,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_Arkansas.csv
-"Source: U.S. Census Bureau, 2009-2013 American Community Survey",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_Arkansas.csv

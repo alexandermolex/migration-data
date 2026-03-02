@@ -2097,10 +2097,7 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 56,029,30,111,Wyoming,Park County,29058.0,91.0,24666.0,795.0,4358.0,791.0,2107.0,502.0,524.0,226.0,1727.0,502.0,34.0,25.0,Montana,Yellowstone County,158808.0,1638.0,134550.0,2065.0,24258.0,1762.0,15300.0,1546.0,3581.0,499.0,5377.0,864.0,,,53.0,41.0,Park,Yellowstone,56_029,30_111,outflow_16_20_Montana.csv
 56,033,30,111,Wyoming,Sheridan County,30229.0,78.0,25989.0,669.0,4208.0,665.0,2375.0,575.0,939.0,301.0,894.0,293.0,32.0,38.0,Montana,Yellowstone County,158808.0,1638.0,134550.0,2065.0,24258.0,1762.0,15300.0,1546.0,3581.0,499.0,5377.0,864.0,,,91.0,90.0,Sheridan,Yellowstone,56_033,30_111,outflow_16_20_Montana.csv
 56,043,30,111,Wyoming,Washakie County,7822.0,64.0,6667.0,379.0,1146.0,339.0,599.0,259.0,430.0,210.0,117.0,65.0,9.0,15.0,Montana,Yellowstone County,158808.0,1638.0,134550.0,2065.0,24258.0,1762.0,15300.0,1546.0,3581.0,499.0,5377.0,864.0,,,2.0,4.0,Washakie,Yellowstone,56_043,30_111,outflow_16_20_Montana.csv
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Montana.csv
 1Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Montana.csv
 "2Includes Puerto Rico, U.S. Island Areas, and Foreign Countries.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Montana.csv
 Blank cells represent estimates that are not available.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Montana.csv
-MOE - Margin of error based on 90% confidence interval.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Montana.csv
 The Census Bureau reviewed this data product for unauthorized disclosure of confidential information and approved the disclosure avoidance practices applied to this release. CBDRB-FY23-027.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Montana.csv
-"Source: U.S. Census Bureau, 2016-2020 American Community Survey, 5-year estimates. For more information, see https://census.gov/acs.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Montana.csv

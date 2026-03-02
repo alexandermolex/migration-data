@@ -8257,9 +8257,6 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 47,165,26,165,Tennessee,Sumner County,173940.0,255.0,147222.0,1892.0,26135.0,1812.0,14089.0,1330.0,6418.0,1094.0,5628.0,837.0,583.0,249.0,Michigan,Wexford County,32571.0,568.0,27943.0,529.0,4628.0,558.0,2514.0,456.0,1852.0,354.0,262.0,166.0,,,13.0,23.0,Sumner,Wexford,47_165,26_165,outflow_13_17_Michigan.csv
 55,059,26,165,Wisconsin,Kenosha County,166083.0,275.0,142048.0,1472.0,23601.0,1480.0,13692.0,1009.0,3944.0,803.0,5965.0,863.0,434.0,189.0,Michigan,Wexford County,32571.0,568.0,27943.0,529.0,4628.0,558.0,2514.0,456.0,1852.0,354.0,262.0,166.0,,,15.0,25.0,Kenosha,Wexford,55_059,26_165,outflow_13_17_Michigan.csv
 55,075,26,165,Wisconsin,Marinette County,40416.0,73.0,35623.0,528.0,4721.0,517.0,2547.0,398.0,1075.0,183.0,1099.0,248.0,72.0,60.0,Michigan,Wexford County,32571.0,568.0,27943.0,529.0,4628.0,558.0,2514.0,456.0,1852.0,354.0,262.0,166.0,,,83.0,140.0,Marinette,Wexford,55_075,26_165,outflow_13_17_Michigan.csv
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Michigan.csv
 1Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Michigan.csv
 "2Includes Puerto Rico, U.S. Island Areas, and Foreign Countries.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Michigan.csv
 Blank cells represent estimates that are not available.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Michigan.csv
-MOE - Margin of error based on 90% confidence interval.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Michigan.csv
-"Source: U.S. Census Bureau, 2013-2017 American Community Survey. For more information, see https://census.gov/acs.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Michigan.csv

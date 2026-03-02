@@ -5184,9 +5184,6 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 53,077,CAM,,Washington,Yakima County,244785.0,396.0,210377.0,1879.0,33594.0,1878.0,25385.0,1759.0,4034.0,678.0,4175.0,843.0,814.0,281.0,Central America,-,,,,,,,,,,,,,,,483.0,229.0,Yakima,,53_077,Central America,inflow_13_17_Washington.csv,2013,2017
 53,077,EUR,,Washington,Yakima County,244785.0,396.0,210377.0,1879.0,33594.0,1878.0,25385.0,1759.0,4034.0,678.0,4175.0,843.0,814.0,281.0,Europe,-,,,,,,,,,,,,,,,67.0,47.0,Yakima,,53_077,Europe,inflow_13_17_Washington.csv,2013,2017
 53,077,NAM,,Washington,Yakima County,244785.0,396.0,210377.0,1879.0,33594.0,1878.0,25385.0,1759.0,4034.0,678.0,4175.0,843.0,814.0,281.0,Northern America,-,,,,,,,,,,,,,,,159.0,135.0,Yakima,,53_077,Northern America,inflow_13_17_Washington.csv,2013,2017
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Washington.csv,2013,2017
 "1Includes Puerto Rico, U.S. Island Areas, and Foreign Countries.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Washington.csv,2013,2017
 2Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Washington.csv,2013,2017
 Blank cells represent estimates that are not available.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Washington.csv,2013,2017
-MOE - Margin of error based on 90% confidence interval.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Washington.csv,2013,2017
-"Source: U.S. Census Bureau, 2013-2017 American Community Survey. For more information, see https://census.gov/acs.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Washington.csv,2013,2017

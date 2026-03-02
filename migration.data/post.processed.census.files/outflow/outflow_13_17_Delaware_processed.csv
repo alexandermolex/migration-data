@@ -626,9 +626,6 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 54,041,10,005,West Virginia,Lewis County,16143.0,81.0,13660.0,426.0,2471.0,428.0,1376.0,323.0,896.0,300.0,199.0,107.0,12.0,19.0,Delaware,Sussex County,210340.0,1582.0,189698.0,1535.0,20642.0,1760.0,11969.0,1246.0,2708.0,492.0,5965.0,835.0,,,18.0,28.0,Lewis,Sussex,54_041,10_005,outflow_13_17_Delaware.csv
 54,099,10,005,West Virginia,Wayne County,40630.0,198.0,36245.0,780.0,4370.0,791.0,2511.0,675.0,1081.0,287.0,778.0,243.0,15.0,17.0,Delaware,Sussex County,210340.0,1582.0,189698.0,1535.0,20642.0,1760.0,11969.0,1246.0,2708.0,492.0,5965.0,835.0,,,1.0,2.0,Wayne,Sussex,54_099,10_005,outflow_13_17_Delaware.csv
 55,107,10,005,Wisconsin,Rusk County,14084.0,28.0,12452.0,290.0,1597.0,295.0,899.0,268.0,533.0,134.0,165.0,65.0,35.0,20.0,Delaware,Sussex County,210340.0,1582.0,189698.0,1535.0,20642.0,1760.0,11969.0,1246.0,2708.0,492.0,5965.0,835.0,,,11.0,17.0,Rusk,Sussex,55_107,10_005,outflow_13_17_Delaware.csv
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Delaware.csv
 1Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Delaware.csv
 "2Includes Puerto Rico, U.S. Island Areas, and Foreign Countries.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Delaware.csv
 Blank cells represent estimates that are not available.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Delaware.csv
-MOE - Margin of error based on 90% confidence interval.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Delaware.csv
-"Source: U.S. Census Bureau, 2013-2017 American Community Survey. For more information, see https://census.gov/acs.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Delaware.csv

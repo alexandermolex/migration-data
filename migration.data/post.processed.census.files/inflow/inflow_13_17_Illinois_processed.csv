@@ -8336,9 +8336,6 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 17,203,ASI,,Illinois,Woodford County,38490.0,93.0,34301.0,577.0,4126.0,565.0,2186.0,461.0,1637.0,365.0,303.0,109.0,63.0,58.0,Asia,-,,,,,,,,,,,,,,,20.0,21.0,Woodford,,17_203,Asia,inflow_13_17_Illinois.csv,2013,2017
 17,203,EUR,,Illinois,Woodford County,38490.0,93.0,34301.0,577.0,4126.0,565.0,2186.0,461.0,1637.0,365.0,303.0,109.0,63.0,58.0,Europe,-,,,,,,,,,,,,,,,1.0,3.0,Woodford,,17_203,Europe,inflow_13_17_Illinois.csv,2013,2017
 17,203,SAM,,Illinois,Woodford County,38490.0,93.0,34301.0,577.0,4126.0,565.0,2186.0,461.0,1637.0,365.0,303.0,109.0,63.0,58.0,South America,-,,,,,,,,,,,,,,,12.0,21.0,Woodford,,17_203,South America,inflow_13_17_Illinois.csv,2013,2017
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Illinois.csv,2013,2017
 "1Includes Puerto Rico, U.S. Island Areas, and Foreign Countries.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Illinois.csv,2013,2017
 2Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Illinois.csv,2013,2017
 Blank cells represent estimates that are not available.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Illinois.csv,2013,2017
-MOE - Margin of error based on 90% confidence interval.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Illinois.csv,2013,2017
-"Source: U.S. Census Bureau, 2013-2017 American Community Survey. For more information, see https://census.gov/acs.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Illinois.csv,2013,2017

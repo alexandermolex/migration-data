@@ -762,9 +762,6 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 53,035,44,009,Washington,Kitsap County,255845.0,324.0,208099.0,2400.0,45997.0,2369.0,25156.0,1738.0,8016.0,992.0,12825.0,1339.0,1749.0,451.0,Rhode Island,Washington County,123218.0,1210.0,109962.0,1248.0,13256.0,1131.0,6896.0,893.0,2301.0,431.0,4059.0,570.0,,,38.0,45.0,Kitsap,Washington,53_035,44_009,outflow_13_17_Rhode Island.csv
 55,025,44,009,Wisconsin,Dane County,516457.0,448.0,413161.0,3140.0,98218.0,3124.0,65493.0,2821.0,15785.0,1102.0,16940.0,1314.0,5078.0,702.0,Rhode Island,Washington County,123218.0,1210.0,109962.0,1248.0,13256.0,1131.0,6896.0,893.0,2301.0,431.0,4059.0,570.0,,,8.0,13.0,Dane,Washington,55_025,44_009,outflow_13_17_Rhode Island.csv
 55,079,44,009,Wisconsin,Milwaukee County,944271.0,749.0,784516.0,3587.0,155702.0,3563.0,118898.0,3590.0,19431.0,1213.0,17373.0,1253.0,4053.0,572.0,Rhode Island,Washington County,123218.0,1210.0,109962.0,1248.0,13256.0,1131.0,6896.0,893.0,2301.0,431.0,4059.0,570.0,,,15.0,23.0,Milwaukee,Washington,55_079,44_009,outflow_13_17_Rhode Island.csv
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Rhode Island.csv
 1Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Rhode Island.csv
 "2Includes Puerto Rico, U.S. Island Areas, and Foreign Countries.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Rhode Island.csv
 Blank cells represent estimates that are not available.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Rhode Island.csv
-MOE - Margin of error based on 90% confidence interval.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Rhode Island.csv
-"Source: U.S. Census Bureau, 2013-2017 American Community Survey. For more information, see https://census.gov/acs.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Rhode Island.csv

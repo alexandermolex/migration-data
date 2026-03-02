@@ -6180,9 +6180,6 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 55,137,55,141,Wisconsin,Waushara County,23986.0,34.0,21437.0,243.0,2530.0,238.0,957.0,146.0,1280.0,181.0,293.0,106.0,19.0,13.0,Wisconsin,Wood County,72914.0,688.0,63690.0,756.0,9224.0,698.0,5529.0,576.0,2812.0,361.0,883.0,238.0,,,95.0,61.0,Waushara,Wood,55_137,55_141,outflow_13_17_Wisconsin.csv
 55,139,55,141,Wisconsin,Winnebago County,167762.0,214.0,140268.0,1412.0,27266.0,1421.0,14552.0,1248.0,9980.0,818.0,2734.0,450.0,228.0,85.0,Wisconsin,Wood County,72914.0,688.0,63690.0,756.0,9224.0,698.0,5529.0,576.0,2812.0,361.0,883.0,238.0,,,92.0,73.0,Winnebago,Wood,55_139,55_141,outflow_13_17_Wisconsin.csv
 56,021,55,141,Wyoming,Laramie County,96083.0,194.0,78564.0,1259.0,17092.0,1263.0,10025.0,1241.0,1799.0,403.0,5268.0,615.0,427.0,193.0,Wisconsin,Wood County,72914.0,688.0,63690.0,756.0,9224.0,698.0,5529.0,576.0,2812.0,361.0,883.0,238.0,,,2.0,5.0,Laramie,Wood,56_021,55_141,outflow_13_17_Wisconsin.csv
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Wisconsin.csv
 1Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Wisconsin.csv
 "2Includes Puerto Rico, U.S. Island Areas, and Foreign Countries.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Wisconsin.csv
 Blank cells represent estimates that are not available.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Wisconsin.csv
-MOE - Margin of error based on 90% confidence interval.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Wisconsin.csv
-"Source: U.S. Census Bureau, 2013-2017 American Community Survey. For more information, see https://census.gov/acs.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Wisconsin.csv

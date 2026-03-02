@@ -3715,9 +3715,5 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 41,071,EUR,000,Oregon,Yamhill County,98795.0,200.0,82961.0,1237.0,15532.0,1169.0,8365.0,1070.0,4252.0,697.0,2915.0,523.0,302.0,153.0,Europe,-,,,,,,,,,,,,,,,60.0,46.0,Yamhill,,41_071,Europe,inflow_09_13_Oregon.csv,2009,2013
 41,071,ISL,000,Oregon,Yamhill County,98795.0,200.0,82961.0,1237.0,15532.0,1169.0,8365.0,1070.0,4252.0,697.0,2915.0,523.0,302.0,153.0,U.S. Island Areas,-,,,,,,,,,,,,,,,19.0,27.0,Yamhill,,41_071,U.S. Island Areas,inflow_09_13_Oregon.csv,2009,2013
 41,071,SAM,000,Oregon,Yamhill County,98795.0,200.0,82961.0,1237.0,15532.0,1169.0,8365.0,1070.0,4252.0,697.0,2915.0,523.0,302.0,153.0,South America,-,,,,,,,,,,,,,,,3.0,7.0,Yamhill,,41_071,South America,inflow_09_13_Oregon.csv,2009,2013
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_Oregon.csv,2009,2013
-"1Incudes Puerto Rico, U.S. Island Areas, and Foreign Countries",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_Oregon.csv,2009,2013
 2Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_Oregon.csv,2009,2013
 Blank cells represent estimates that are not available,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_Oregon.csv,2009,2013
-MOE - Margin of error based on 90% confidence interval,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_Oregon.csv,2009,2013
-"Source: U.S. Census Bureau, 2009-2013 American Community Survey",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_Oregon.csv,2009,2013

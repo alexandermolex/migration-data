@@ -3410,9 +3410,6 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 04,027,NAM,,Arizona,Yuma County,201161.0,409.0,165120.0,2425.0,32833.0,2169.0,21420.0,2051.0,3206.0,494.0,8207.0,877.0,3208.0,661.0,Northern America,-,,,,,,,,,,,,,,,721.0,197.0,Yuma,,04_027,Northern America,inflow_13_17_Arizona.csv,2013,2017
 04,027,OCE,,Arizona,Yuma County,201161.0,409.0,165120.0,2425.0,32833.0,2169.0,21420.0,2051.0,3206.0,494.0,8207.0,877.0,3208.0,661.0,Oceania and At Sea,-,,,,,,,,,,,,,,,5.0,9.0,Yuma,,04_027,Oceania and At Sea,inflow_13_17_Arizona.csv,2013,2017
 04,027,SAM,,Arizona,Yuma County,201161.0,409.0,165120.0,2425.0,32833.0,2169.0,21420.0,2051.0,3206.0,494.0,8207.0,877.0,3208.0,661.0,South America,-,,,,,,,,,,,,,,,17.0,33.0,Yuma,,04_027,South America,inflow_13_17_Arizona.csv,2013,2017
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Arizona.csv,2013,2017
 "1Includes Puerto Rico, U.S. Island Areas, and Foreign Countries.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Arizona.csv,2013,2017
 2Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Arizona.csv,2013,2017
 Blank cells represent estimates that are not available.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Arizona.csv,2013,2017
-MOE - Margin of error based on 90% confidence interval.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Arizona.csv,2013,2017
-"Source: U.S. Census Bureau, 2013-2017 American Community Survey. For more information, see https://census.gov/acs.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Arizona.csv,2013,2017

@@ -8609,10 +8609,7 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 46,099,17,203,South Dakota,Minnehaha County,189357.0,401.0,155941.0,1962.0,31929.0,1918.0,19002.0,1683.0,7686.0,960.0,5241.0,743.0,1487.0,799.0,Illinois,Woodford County,38206.0,939.0,34373.0,557.0,3833.0,811.0,1376.0,318.0,1164.0,370.0,1293.0,608.0,,,33.0,54.0,Minnehaha,Woodford,46_099,17_203,outflow_16_20_Illinois.csv
 48,037,17,203,Texas,Bowie County,92612.0,228.0,84087.0,995.0,8363.0,931.0,3734.0,705.0,2400.0,538.0,2229.0,572.0,162.0,111.0,Illinois,Woodford County,38206.0,939.0,34373.0,557.0,3833.0,811.0,1376.0,318.0,1164.0,370.0,1293.0,608.0,,,25.0,42.0,Bowie,Woodford,48_037,17_203,outflow_16_20_Illinois.csv
 51,683,17,203,Virginia,Manassas City,40410.0,173.0,33196.0,1261.0,6925.0,1217.0,2365.0,720.0,3821.0,1095.0,739.0,300.0,289.0,135.0,Illinois,Woodford County,38206.0,939.0,34373.0,557.0,3833.0,811.0,1376.0,318.0,1164.0,370.0,1293.0,608.0,,,8.0,12.0,Manassas City,Woodford,51_683,17_203,outflow_16_20_Illinois.csv
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Illinois.csv
 1Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Illinois.csv
 "2Includes Puerto Rico, U.S. Island Areas, and Foreign Countries.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Illinois.csv
 Blank cells represent estimates that are not available.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Illinois.csv
-MOE - Margin of error based on 90% confidence interval.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Illinois.csv
 The Census Bureau reviewed this data product for unauthorized disclosure of confidential information and approved the disclosure avoidance practices applied to this release. CBDRB-FY23-027.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Illinois.csv
-"Source: U.S. Census Bureau, 2016-2020 American Community Survey, 5-year estimates. For more information, see https://census.gov/acs.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Illinois.csv

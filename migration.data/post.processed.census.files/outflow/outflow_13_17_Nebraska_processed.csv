@@ -3276,9 +3276,6 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 46,081,31,185,South Dakota,Lawrence County,24852.0,73.0,19854.0,597.0,4848.0,587.0,2200.0,361.0,1372.0,378.0,1276.0,334.0,150.0,71.0,Nebraska,York County,13449.0,285.0,11600.0,308.0,1849.0,290.0,1011.0,230.0,591.0,165.0,247.0,102.0,,,13.0,25.0,Lawrence,York,46_081,31_185,outflow_13_17_Nebraska.csv
 53,037,31,185,Washington,Kittitas County,43239.0,118.0,31017.0,945.0,11865.0,942.0,4909.0,652.0,5483.0,720.0,1473.0,422.0,357.0,125.0,Nebraska,York County,13449.0,285.0,11600.0,308.0,1849.0,290.0,1011.0,230.0,591.0,165.0,247.0,102.0,,,18.0,28.0,Kittitas,York,53_037,31_185,outflow_13_17_Nebraska.csv
 55,097,31,185,Wisconsin,Portage County,69729.0,138.0,57240.0,801.0,12260.0,774.0,6308.0,603.0,5132.0,494.0,820.0,194.0,229.0,103.0,Nebraska,York County,13449.0,285.0,11600.0,308.0,1849.0,290.0,1011.0,230.0,591.0,165.0,247.0,102.0,,,25.0,40.0,Portage,York,55_097,31_185,outflow_13_17_Nebraska.csv
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Nebraska.csv
 1Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Nebraska.csv
 "2Includes Puerto Rico, U.S. Island Areas, and Foreign Countries.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Nebraska.csv
 Blank cells represent estimates that are not available.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Nebraska.csv
-MOE - Margin of error based on 90% confidence interval.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Nebraska.csv
-"Source: U.S. Census Bureau, 2013-2017 American Community Survey. For more information, see https://census.gov/acs.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Nebraska.csv

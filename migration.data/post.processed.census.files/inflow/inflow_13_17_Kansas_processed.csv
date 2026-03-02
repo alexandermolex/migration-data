@@ -5398,9 +5398,6 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 20,209,ISL,,Kansas,Wyandotte County,160659.0,253.0,137440.0,1581.0,22376.0,1587.0,13276.0,1307.0,4256.0,582.0,4844.0,641.0,843.0,225.0,U.S. Island Areas,-,,,,,,,,,,,,,,,15.0,23.0,Wyandotte,,20_209,U.S. Island Areas,inflow_13_17_Kansas.csv,2013,2017
 20,209,NAM,,Kansas,Wyandotte County,160659.0,253.0,137440.0,1581.0,22376.0,1587.0,13276.0,1307.0,4256.0,582.0,4844.0,641.0,843.0,225.0,Northern America,-,,,,,,,,,,,,,,,11.0,21.0,Wyandotte,,20_209,Northern America,inflow_13_17_Kansas.csv,2013,2017
 20,209,SAM,,Kansas,Wyandotte County,160659.0,253.0,137440.0,1581.0,22376.0,1587.0,13276.0,1307.0,4256.0,582.0,4844.0,641.0,843.0,225.0,South America,-,,,,,,,,,,,,,,,24.0,38.0,Wyandotte,,20_209,South America,inflow_13_17_Kansas.csv,2013,2017
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Kansas.csv,2013,2017
 "1Includes Puerto Rico, U.S. Island Areas, and Foreign Countries.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Kansas.csv,2013,2017
 2Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Kansas.csv,2013,2017
 Blank cells represent estimates that are not available.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Kansas.csv,2013,2017
-MOE - Margin of error based on 90% confidence interval.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Kansas.csv,2013,2017
-"Source: U.S. Census Bureau, 2013-2017 American Community Survey. For more information, see https://census.gov/acs.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Kansas.csv,2013,2017

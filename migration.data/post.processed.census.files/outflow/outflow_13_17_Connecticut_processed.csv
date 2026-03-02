@@ -1959,9 +1959,6 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 72,071,09,015,Puerto Rico,Isabela Municipio,42925.0,129.0,41763.0,471.0,902.0,390.0,554.0,307.0,348.0,138.0,247.0,179.0,13.0,20.0,Connecticut,Windham County,114848.0,1162.0,100102.0,1319.0,14648.0,1283.0,8839.0,1071.0,3112.0,671.0,2697.0,499.0,98.0,73.0,18.0,30.0,Isabela Municipio,Windham,72_071,09_015,outflow_13_17_Connecticut.csv
 72,125,09,015,Puerto Rico,San Germán Municipio,32632.0,121.0,29735.0,726.0,2572.0,691.0,1833.0,612.0,739.0,309.0,276.0,131.0,49.0,55.0,Connecticut,Windham County,114848.0,1162.0,100102.0,1319.0,14648.0,1283.0,8839.0,1071.0,3112.0,671.0,2697.0,499.0,98.0,73.0,27.0,43.0,San Germán Municipio,Windham,72_125,09_015,outflow_13_17_Connecticut.csv
 72,151,09,015,Puerto Rico,Yabucoa Municipio,34709.0,138.0,31679.0,745.0,2573.0,694.0,1635.0,590.0,938.0,433.0,457.0,323.0,,,Connecticut,Windham County,114848.0,1162.0,100102.0,1319.0,14648.0,1283.0,8839.0,1071.0,3112.0,671.0,2697.0,499.0,98.0,73.0,49.0,55.0,Yabucoa Municipio,Windham,72_151,09_015,outflow_13_17_Connecticut.csv
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Connecticut.csv
 1Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Connecticut.csv
 "2Includes Puerto Rico, U.S. Island Areas, and Foreign Countries.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Connecticut.csv
 Blank cells represent estimates that are not available.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Connecticut.csv
-MOE - Margin of error based on 90% confidence interval.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Connecticut.csv
-"Source: U.S. Census Bureau, 2013-2017 American Community Survey. For more information, see https://census.gov/acs.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Connecticut.csv

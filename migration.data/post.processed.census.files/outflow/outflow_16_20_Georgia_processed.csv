@@ -11240,10 +11240,7 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 13,315,13,321,Georgia,Wilcox County,8679.0,24.0,7707.0,225.0,949.0,223.0,321.0,128.0,573.0,165.0,55.0,62.0,23.0,22.0,Georgia,Worth County,20265.0,565.0,18175.0,491.0,2090.0,586.0,905.0,295.0,1146.0,494.0,39.0,35.0,,,6.0,8.0,Wilcox,Worth,13_315,13_321,outflow_16_20_Georgia.csv
 27,137,13,321,Minnesota,St. Louis County,197793.0,250.0,165854.0,1715.0,31614.0,1706.0,19088.0,1415.0,8615.0,922.0,3911.0,541.0,325.0,89.0,Georgia,Worth County,20265.0,565.0,18175.0,491.0,2090.0,586.0,905.0,295.0,1146.0,494.0,39.0,35.0,,,11.0,17.0,St. Louis,Worth,27_137,13_321,outflow_16_20_Georgia.csv
 47,001,13,321,Tennessee,Anderson County,75838.0,193.0,64353.0,1248.0,11383.0,1261.0,5396.0,944.0,3774.0,750.0,2213.0,651.0,102.0,43.0,Georgia,Worth County,20265.0,565.0,18175.0,491.0,2090.0,586.0,905.0,295.0,1146.0,494.0,39.0,35.0,,,8.0,12.0,Anderson,Worth,47_001,13_321,outflow_16_20_Georgia.csv
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Georgia.csv
 1Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Georgia.csv
 "2Includes Puerto Rico, U.S. Island Areas, and Foreign Countries.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Georgia.csv
 Blank cells represent estimates that are not available.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Georgia.csv
-MOE - Margin of error based on 90% confidence interval.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Georgia.csv
 The Census Bureau reviewed this data product for unauthorized disclosure of confidential information and approved the disclosure avoidance practices applied to this release. CBDRB-FY23-027.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Georgia.csv
-"Source: U.S. Census Bureau, 2016-2020 American Community Survey, 5-year estimates. For more information, see https://census.gov/acs.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Georgia.csv

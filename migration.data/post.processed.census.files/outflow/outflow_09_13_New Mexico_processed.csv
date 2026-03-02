@@ -2335,9 +2335,5 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 53,053,35,061,Washington,Pierce County,794349.0,605.0,652344.0,4105.0,135565.0,3924.0,85580.0,3079.0,24307.0,1570.0,25678.0,1804.0,6440.0,763.0,New Mexico,Valencia County,74878.0,784.0,65963.0,1177.0,8915.0,1026.0,5168.0,943.0,2263.0,502.0,1484.0,449.0,,,53.0,81.0,Pierce,Valencia,53_053,35_061,outflow_09_13_New Mexico.csv
 56,007,35,061,Wyoming,Carbon County,15594.0,101.0,12704.0,443.0,2861.0,450.0,1167.0,281.0,629.0,262.0,1065.0,336.0,29.0,31.0,New Mexico,Valencia County,74878.0,784.0,65963.0,1177.0,8915.0,1026.0,5168.0,943.0,2263.0,502.0,1484.0,449.0,,,21.0,31.0,Carbon,Valencia,56_007,35_061,outflow_09_13_New Mexico.csv
 56,021,35,061,Wyoming,Laramie County,91975.0,222.0,74005.0,1466.0,17261.0,1408.0,11053.0,1081.0,1036.0,263.0,5172.0,901.0,709.0,302.0,New Mexico,Valencia County,74878.0,784.0,65963.0,1177.0,8915.0,1026.0,5168.0,943.0,2263.0,502.0,1484.0,449.0,,,7.0,12.0,Laramie,Valencia,56_021,35_061,outflow_09_13_New Mexico.csv
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_New Mexico.csv
 1Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_New Mexico.csv
-"2Incudes Puerto Rico, U.S. Island Areas, and Foreign Countries",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_New Mexico.csv
 Blank cells represent estimates that are not available,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_New Mexico.csv
-MOE - Margin of error based on 90% confidence interval,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_New Mexico.csv
-"Source: U.S. Census Bureau, 2009-2013 American Community Survey",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_New Mexico.csv

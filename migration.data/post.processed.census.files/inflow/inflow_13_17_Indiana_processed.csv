@@ -7264,9 +7264,6 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 18,183,48,121,Indiana,Whitley County,33026.0,119.0,29036.0,619.0,3969.0,586.0,1894.0,439.0,1607.0,374.0,468.0,218.0,21.0,18.0,Texas,Denton County,742942.0,4150.0,624638.0,4065.0,118283.0,3836.0,66804.0,3187.0,36805.0,2387.0,14674.0,1350.0,21.0,32.0,43.0,72.0,Whitley,Denton,18_183,48_121,inflow_13_17_Indiana.csv,2013,2017
 18,183,ASI,,Indiana,Whitley County,33026.0,119.0,29036.0,619.0,3969.0,586.0,1894.0,439.0,1607.0,374.0,468.0,218.0,21.0,18.0,Asia,-,,,,,,,,,,,,,,,14.0,14.0,Whitley,,18_183,Asia,inflow_13_17_Indiana.csv,2013,2017
 18,183,EUR,,Indiana,Whitley County,33026.0,119.0,29036.0,619.0,3969.0,586.0,1894.0,439.0,1607.0,374.0,468.0,218.0,21.0,18.0,Europe,-,,,,,,,,,,,,,,,7.0,11.0,Whitley,,18_183,Europe,inflow_13_17_Indiana.csv,2013,2017
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Indiana.csv,2013,2017
 "1Includes Puerto Rico, U.S. Island Areas, and Foreign Countries.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Indiana.csv,2013,2017
 2Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Indiana.csv,2013,2017
 Blank cells represent estimates that are not available.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Indiana.csv,2013,2017
-MOE - Margin of error based on 90% confidence interval.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Indiana.csv,2013,2017
-"Source: U.S. Census Bureau, 2013-2017 American Community Survey. For more information, see https://census.gov/acs.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Indiana.csv,2013,2017

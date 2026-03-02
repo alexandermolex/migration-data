@@ -11595,9 +11595,5 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 37,199,47,125,North Carolina,Yancey County,17565.0,77.0,15513.0,571.0,2029.0,593.0,1380.0,559.0,450.0,194.0,199.0,89.0,23.0,28.0,Tennessee,Montgomery County,169371.0,2040.0,133286.0,2183.0,36085.0,2041.0,19178.0,1794.0,3504.0,652.0,13403.0,1176.0,,,9.0,14.0,Yancey,Montgomery,37_199,47_125,inflow_09_13_North Carolina.csv,2009,2013
 37,199,48,201,North Carolina,Yancey County,17565.0,77.0,15513.0,571.0,2029.0,593.0,1380.0,559.0,450.0,194.0,199.0,89.0,23.0,28.0,Texas,Harris County,4077140.0,7722.0,3383906.0,11496.0,693184.0,11768.0,535850.0,10557.0,104366.0,4043.0,52968.0,2655.0,50.0,43.0,4.0,9.0,Yancey,Harris,37_199,48_201,inflow_09_13_North Carolina.csv,2009,2013
 37,199,ASI,000,North Carolina,Yancey County,17565.0,77.0,15513.0,571.0,2029.0,593.0,1380.0,559.0,450.0,194.0,199.0,89.0,23.0,28.0,Asia,-,,,,,,,,,,,,,,,23.0,28.0,Yancey,,37_199,Asia,inflow_09_13_North Carolina.csv,2009,2013
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_North Carolina.csv,2009,2013
-"1Incudes Puerto Rico, U.S. Island Areas, and Foreign Countries",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_North Carolina.csv,2009,2013
 2Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_North Carolina.csv,2009,2013
 Blank cells represent estimates that are not available,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_North Carolina.csv,2009,2013
-MOE - Margin of error based on 90% confidence interval,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_North Carolina.csv,2009,2013
-"Source: U.S. Census Bureau, 2009-2013 American Community Survey",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_North Carolina.csv,2009,2013

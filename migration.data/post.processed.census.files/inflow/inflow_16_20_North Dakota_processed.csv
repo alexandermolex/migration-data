@@ -2177,10 +2177,7 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 38,105,56,033,North Dakota,Williams County,35584.0,142.0,29013.0,1245.0,6359.0,1133.0,2559.0,685.0,1493.0,700.0,2307.0,638.0,212.0,273.0,Wyoming,Sheridan County,30081.0,571.0,25989.0,669.0,4092.0,705.0,2375.0,575.0,437.0,182.0,1280.0,416.0,,,107.0,106.0,Williams,Sheridan,38_105,56_033,inflow_16_20_North Dakota.csv,2016,2020
 38,105,CAM,,North Dakota,Williams County,35584.0,142.0,29013.0,1245.0,6359.0,1133.0,2559.0,685.0,1493.0,700.0,2307.0,638.0,212.0,273.0,Central America,-,,,,,,,,,,,,,,,1.0,3.0,Williams,,38_105,Central America,inflow_16_20_North Dakota.csv,2016,2020
 38,105,SAM,,North Dakota,Williams County,35584.0,142.0,29013.0,1245.0,6359.0,1133.0,2559.0,685.0,1493.0,700.0,2307.0,638.0,212.0,273.0,South America,-,,,,,,,,,,,,,,,211.0,272.0,Williams,,38_105,South America,inflow_16_20_North Dakota.csv,2016,2020
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_16_20_North Dakota.csv,2016,2020
 "1Includes Puerto Rico, U.S. Island Areas, and Foreign Countries.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_16_20_North Dakota.csv,2016,2020
 2Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_16_20_North Dakota.csv,2016,2020
 Blank cells represent estimates that are not available.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_16_20_North Dakota.csv,2016,2020
-MOE - Margin of error based on 90% confidence interval.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_16_20_North Dakota.csv,2016,2020
 The Census Bureau reviewed this data product for unauthorized disclosure of confidential information and approved the disclosure avoidance practices applied to this release. CBDRB-FY23-027.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_16_20_North Dakota.csv,2016,2020
-"Source: U.S. Census Bureau, 2016-2020 American Community Survey, 5-year estimates. For more information, see https://census.gov/acs.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_16_20_North Dakota.csv,2016,2020

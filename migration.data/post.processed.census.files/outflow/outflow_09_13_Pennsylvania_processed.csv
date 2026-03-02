@@ -8720,9 +8720,5 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 56,001,42,133,Wyoming,Albany County,36384.0,104.0,25033.0,865.0,11048.0,860.0,5477.0,643.0,2160.0,370.0,3411.0,572.0,303.0,203.0,Pennsylvania,York County,429390.0,2314.0,378843.0,2552.0,50493.0,2808.0,34371.0,2411.0,9175.0,949.0,6947.0,825.0,54.0,78.0,21.0,22.0,Albany,York,56_001,42_133,outflow_09_13_Pennsylvania.csv
 72,113,42,133,Puerto Rico,Ponce Municipio,161221.0,217.0,145236.0,1148.0,13925.0,1133.0,10091.0,1022.0,3834.0,613.0,1824.0,487.0,236.0,166.0,Pennsylvania,York County,429390.0,2314.0,378843.0,2552.0,50493.0,2808.0,34371.0,2411.0,9175.0,949.0,6947.0,825.0,54.0,78.0,17.0,28.0,Ponce Municipio,York,72_113,42_133,outflow_09_13_Pennsylvania.csv
 72,149,42,133,Puerto Rico,Villalba Municipio,25203.0,108.0,23043.0,442.0,1929.0,439.0,1571.0,418.0,358.0,124.0,231.0,149.0,,,Pennsylvania,York County,429390.0,2314.0,378843.0,2552.0,50493.0,2808.0,34371.0,2411.0,9175.0,949.0,6947.0,825.0,54.0,78.0,37.0,60.0,Villalba Municipio,York,72_149,42_133,outflow_09_13_Pennsylvania.csv
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_Pennsylvania.csv
 1Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_Pennsylvania.csv
-"2Incudes Puerto Rico, U.S. Island Areas, and Foreign Countries",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_Pennsylvania.csv
 Blank cells represent estimates that are not available,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_Pennsylvania.csv
-MOE - Margin of error based on 90% confidence interval,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_Pennsylvania.csv
-"Source: U.S. Census Bureau, 2009-2013 American Community Survey",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_Pennsylvania.csv

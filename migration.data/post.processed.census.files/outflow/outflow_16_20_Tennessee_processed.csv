@@ -6504,10 +6504,7 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 51,059,47,189,Virginia,Fairfax County,1135085.0,948.0,973366.0,4165.0,144509.0,4054.0,74372.0,3966.0,30920.0,1838.0,39217.0,1951.0,17210.0,1593.0,Tennessee,Wilson County,136186.0,1475.0,121494.0,1434.0,14692.0,1261.0,8049.0,961.0,4690.0,705.0,1953.0,468.0,,,16.0,20.0,Fairfax,Wilson,51_059,47_189,outflow_16_20_Tennessee.csv
 51,145,47,189,Virginia,Powhatan County,28946.0,122.0,26003.0,651.0,2917.0,640.0,551.0,235.0,2132.0,620.0,234.0,119.0,26.0,41.0,Tennessee,Wilson County,136186.0,1475.0,121494.0,1434.0,14692.0,1261.0,8049.0,961.0,4690.0,705.0,1953.0,468.0,,,18.0,31.0,Powhatan,Wilson,51_145,47_189,outflow_16_20_Tennessee.csv
 55,033,47,189,Wisconsin,Dunn County,44685.0,65.0,36343.0,685.0,8286.0,676.0,3036.0,441.0,3240.0,408.0,2010.0,320.0,56.0,39.0,Tennessee,Wilson County,136186.0,1475.0,121494.0,1434.0,14692.0,1261.0,8049.0,961.0,4690.0,705.0,1953.0,468.0,,,19.0,25.0,Dunn,Wilson,55_033,47_189,outflow_16_20_Tennessee.csv
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Tennessee.csv
 1Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Tennessee.csv
 "2Includes Puerto Rico, U.S. Island Areas, and Foreign Countries.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Tennessee.csv
 Blank cells represent estimates that are not available.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Tennessee.csv
-MOE - Margin of error based on 90% confidence interval.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Tennessee.csv
 The Census Bureau reviewed this data product for unauthorized disclosure of confidential information and approved the disclosure avoidance practices applied to this release. CBDRB-FY23-027.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Tennessee.csv
-"Source: U.S. Census Bureau, 2016-2020 American Community Survey, 5-year estimates. For more information, see https://census.gov/acs.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Tennessee.csv

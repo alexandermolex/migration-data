@@ -4188,9 +4188,6 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 55,139,24,510,Wisconsin,Winnebago County,167762.0,214.0,140268.0,1412.0,27266.0,1421.0,14552.0,1248.0,9980.0,818.0,2734.0,450.0,228.0,85.0,Maryland,Baltimore city,613737.0,3174.0,508299.0,3497.0,105438.0,3697.0,63716.0,2894.0,22930.0,1561.0,18792.0,1420.0,,,11.0,17.0,Winnebago,Baltimore city,55_139,24_510,outflow_13_17_Maryland.csv
 56,021,24,510,Wyoming,Laramie County,96083.0,194.0,78564.0,1259.0,17092.0,1263.0,10025.0,1241.0,1799.0,403.0,5268.0,615.0,427.0,193.0,Maryland,Baltimore city,613737.0,3174.0,508299.0,3497.0,105438.0,3697.0,63716.0,2894.0,22930.0,1561.0,18792.0,1420.0,,,1.0,2.0,Laramie,Baltimore city,56_021,24_510,outflow_13_17_Maryland.csv
 56,039,24,510,Wyoming,Teton County,22637.0,173.0,18569.0,773.0,3775.0,752.0,1515.0,457.0,598.0,274.0,1662.0,473.0,293.0,220.0,Maryland,Baltimore city,613737.0,3174.0,508299.0,3497.0,105438.0,3697.0,63716.0,2894.0,22930.0,1561.0,18792.0,1420.0,,,2.0,4.0,Teton,Baltimore city,56_039,24_510,outflow_13_17_Maryland.csv
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Maryland.csv
 1Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Maryland.csv
 "2Includes Puerto Rico, U.S. Island Areas, and Foreign Countries.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Maryland.csv
 Blank cells represent estimates that are not available.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Maryland.csv
-MOE - Margin of error based on 90% confidence interval.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Maryland.csv
-"Source: U.S. Census Bureau, 2013-2017 American Community Survey. For more information, see https://census.gov/acs.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Maryland.csv

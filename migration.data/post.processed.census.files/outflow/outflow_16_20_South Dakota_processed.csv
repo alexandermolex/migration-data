@@ -2141,10 +2141,7 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 46,109,46,137,South Dakota,Roberts County,10144.0,56.0,8908.0,208.0,1222.0,203.0,653.0,122.0,336.0,118.0,233.0,85.0,14.0,18.0,South Dakota,Ziebach County,2897.0,121.0,2646.0,37.0,251.0,123.0,22.0,22.0,161.0,111.0,68.0,42.0,,,5.0,9.0,Roberts,Ziebach,46_109,46_137,outflow_16_20_South Dakota.csv
 46,129,46,137,South Dakota,Walworth County,5351.0,44.0,4348.0,294.0,994.0,295.0,465.0,198.0,297.0,103.0,232.0,223.0,9.0,12.0,South Dakota,Ziebach County,2897.0,121.0,2646.0,37.0,251.0,123.0,22.0,22.0,161.0,111.0,68.0,42.0,,,12.0,21.0,Walworth,Ziebach,46_129,46_137,outflow_16_20_South Dakota.csv
 48,029,46,137,Texas,Bexar County,1954769.0,1129.0,1639453.0,7254.0,301109.0,6755.0,209319.0,6129.0,47504.0,3434.0,44286.0,2830.0,14207.0,1609.0,South Dakota,Ziebach County,2897.0,121.0,2646.0,37.0,251.0,123.0,22.0,22.0,161.0,111.0,68.0,42.0,,,22.0,29.0,Bexar,Ziebach,48_029,46_137,outflow_16_20_South Dakota.csv
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_South Dakota.csv
 1Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_South Dakota.csv
 "2Includes Puerto Rico, U.S. Island Areas, and Foreign Countries.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_South Dakota.csv
 Blank cells represent estimates that are not available.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_South Dakota.csv
-MOE - Margin of error based on 90% confidence interval.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_South Dakota.csv
 The Census Bureau reviewed this data product for unauthorized disclosure of confidential information and approved the disclosure avoidance practices applied to this release. CBDRB-FY23-027.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_South Dakota.csv
-"Source: U.S. Census Bureau, 2016-2020 American Community Survey, 5-year estimates. For more information, see https://census.gov/acs.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_South Dakota.csv

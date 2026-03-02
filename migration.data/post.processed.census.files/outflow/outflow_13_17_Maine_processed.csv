@@ -1318,9 +1318,6 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 55,025,23,031,Wisconsin,Dane County,516457.0,448.0,413161.0,3140.0,98218.0,3124.0,65493.0,2821.0,15785.0,1102.0,16940.0,1314.0,5078.0,702.0,Maine,York County,196971.0,1645.0,174255.0,1746.0,22716.0,1817.0,13001.0,1389.0,3553.0,513.0,6162.0,748.0,,,6.0,8.0,Dane,York,55_025,23_031,outflow_13_17_Maine.csv
 55,105,23,031,Wisconsin,Rock County,159401.0,241.0,136318.0,1432.0,22793.0,1373.0,16173.0,1194.0,3106.0,474.0,3514.0,564.0,290.0,100.0,Maine,York County,196971.0,1645.0,174255.0,1746.0,22716.0,1817.0,13001.0,1389.0,3553.0,513.0,6162.0,748.0,,,101.0,153.0,Rock,York,55_105,23_031,outflow_13_17_Maine.csv
 56,009,23,031,Wyoming,Converse County,13841.0,153.0,11862.0,472.0,1967.0,482.0,971.0,434.0,626.0,287.0,370.0,152.0,12.0,19.0,Maine,York County,196971.0,1645.0,174255.0,1746.0,22716.0,1817.0,13001.0,1389.0,3553.0,513.0,6162.0,748.0,,,33.0,52.0,Converse,York,56_009,23_031,outflow_13_17_Maine.csv
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Maine.csv
 1Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Maine.csv
 "2Includes Puerto Rico, U.S. Island Areas, and Foreign Countries.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Maine.csv
 Blank cells represent estimates that are not available.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Maine.csv
-MOE - Margin of error based on 90% confidence interval.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Maine.csv
-"Source: U.S. Census Bureau, 2013-2017 American Community Survey. For more information, see https://census.gov/acs.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Maine.csv

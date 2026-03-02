@@ -1734,9 +1734,6 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 53,033,32,510,Washington,King County,2093417.0,1032.0,1696257.0,6306.0,364731.0,6203.0,249040.0,5189.0,40308.0,2037.0,75383.0,3217.0,32429.0,2031.0,Nevada,Carson City,52164.0,1083.0,42843.0,1015.0,9321.0,949.0,4842.0,796.0,2269.0,401.0,2210.0,616.0,,,19.0,25.0,King,Carson City,53_033,32_510,outflow_13_17_Nevada.csv
 53,061,32,510,Washington,Snohomish County,762758.0,625.0,641189.0,4154.0,116625.0,4095.0,70268.0,3543.0,27652.0,1868.0,18705.0,1903.0,4944.0,721.0,Nevada,Carson City,52164.0,1083.0,42843.0,1015.0,9321.0,949.0,4842.0,796.0,2269.0,401.0,2210.0,616.0,,,30.0,34.0,Snohomish,Carson City,53_061,32_510,outflow_13_17_Nevada.csv
 53,063,32,510,Washington,Spokane County,485227.0,433.0,396104.0,3065.0,87044.0,3146.0,55103.0,2564.0,15466.0,1461.0,16475.0,1469.0,2079.0,538.0,Nevada,Carson City,52164.0,1083.0,42843.0,1015.0,9321.0,949.0,4842.0,796.0,2269.0,401.0,2210.0,616.0,,,18.0,27.0,Spokane,Carson City,53_063,32_510,outflow_13_17_Nevada.csv
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Nevada.csv
 1Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Nevada.csv
 "2Includes Puerto Rico, U.S. Island Areas, and Foreign Countries.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Nevada.csv
 Blank cells represent estimates that are not available.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Nevada.csv
-MOE - Margin of error based on 90% confidence interval.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Nevada.csv
-"Source: U.S. Census Bureau, 2013-2017 American Community Survey. For more information, see https://census.gov/acs.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Nevada.csv

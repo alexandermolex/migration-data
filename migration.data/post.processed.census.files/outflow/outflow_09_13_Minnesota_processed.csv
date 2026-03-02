@@ -6367,9 +6367,5 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 46,099,27,173,South Dakota,Minnehaha County,170757.0,260.0,142457.0,1673.0,27644.0,1635.0,17447.0,1289.0,5033.0,704.0,5164.0,810.0,656.0,203.0,Minnesota,Yellow Medicine County,10186.0,292.0,8740.0,214.0,1446.0,257.0,710.0,165.0,548.0,129.0,188.0,101.0,,,4.0,10.0,Minnehaha,Yellow Medicine,46_099,27_173,outflow_09_13_Minnesota.csv
 55,031,27,173,Wisconsin,Douglas County,43364.0,106.0,37285.0,592.0,6012.0,576.0,3323.0,499.0,1054.0,240.0,1635.0,298.0,67.0,34.0,Minnesota,Yellow Medicine County,10186.0,292.0,8740.0,214.0,1446.0,257.0,710.0,165.0,548.0,129.0,188.0,101.0,,,17.0,21.0,Douglas,Yellow Medicine,55_031,27_173,outflow_09_13_Minnesota.csv
 55,109,27,173,Wisconsin,St. Croix County,83873.0,189.0,73235.0,1074.0,10306.0,1058.0,5170.0,1002.0,2034.0,464.0,3102.0,519.0,332.0,155.0,Minnesota,Yellow Medicine County,10186.0,292.0,8740.0,214.0,1446.0,257.0,710.0,165.0,548.0,129.0,188.0,101.0,,,9.0,14.0,St. Croix,Yellow Medicine,55_109,27_173,outflow_09_13_Minnesota.csv
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_Minnesota.csv
 1Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_Minnesota.csv
-"2Incudes Puerto Rico, U.S. Island Areas, and Foreign Countries",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_Minnesota.csv
 Blank cells represent estimates that are not available,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_Minnesota.csv
-MOE - Margin of error based on 90% confidence interval,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_Minnesota.csv
-"Source: U.S. Census Bureau, 2009-2013 American Community Survey",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_Minnesota.csv

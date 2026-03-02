@@ -6094,9 +6094,5 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 19,197,41,019,Iowa,Wright County,13007.0,34.0,11871.0,197.0,1087.0,186.0,561.0,151.0,296.0,115.0,230.0,95.0,49.0,41.0,Oregon,Douglas County,105487.0,1249.0,87638.0,1495.0,17849.0,1398.0,12234.0,1327.0,3142.0,597.0,2473.0,457.0,,,13.0,20.0,Wright,Douglas,19_197,41_019,inflow_09_13_Iowa.csv,2009,2013
 19,197,CAM,000,Iowa,Wright County,13007.0,34.0,11871.0,197.0,1087.0,186.0,561.0,151.0,296.0,115.0,230.0,95.0,49.0,41.0,Central America,-,,,,,,,,,,,,,,,26.0,37.0,Wright,,19_197,Central America,inflow_09_13_Iowa.csv,2009,2013
 19,197,EUR,000,Iowa,Wright County,13007.0,34.0,11871.0,197.0,1087.0,186.0,561.0,151.0,296.0,115.0,230.0,95.0,49.0,41.0,Europe,-,,,,,,,,,,,,,,,23.0,24.0,Wright,,19_197,Europe,inflow_09_13_Iowa.csv,2009,2013
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_Iowa.csv,2009,2013
-"1Incudes Puerto Rico, U.S. Island Areas, and Foreign Countries",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_Iowa.csv,2009,2013
 2Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_Iowa.csv,2009,2013
 Blank cells represent estimates that are not available,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_Iowa.csv,2009,2013
-MOE - Margin of error based on 90% confidence interval,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_Iowa.csv,2009,2013
-"Source: U.S. Census Bureau, 2009-2013 American Community Survey",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_Iowa.csv,2009,2013

@@ -1342,9 +1342,5 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 53,035,23,031,Washington,Kitsap County,249412.0,330.0,205920.0,2122.0,41370.0,2030.0,24518.0,1837.0,5345.0,715.0,11507.0,1039.0,2122.0,477.0,Maine,York County,195377.0,1536.0,171586.0,1467.0,23791.0,1348.0,13723.0,1151.0,3985.0,566.0,6083.0,645.0,,,21.0,33.0,Kitsap,York,53_035,23_031,outflow_09_13_Maine.csv
 53,077,23,031,Washington,Yakima County,240916.0,423.0,202814.0,2519.0,37438.0,2495.0,29324.0,2478.0,4409.0,807.0,3705.0,771.0,664.0,259.0,Maine,York County,195377.0,1536.0,171586.0,1467.0,23791.0,1348.0,13723.0,1151.0,3985.0,566.0,6083.0,645.0,,,71.0,124.0,Yakima,York,53_077,23_031,outflow_09_13_Maine.csv
 55,105,23,031,Wisconsin,Rock County,158405.0,230.0,135751.0,1469.0,22373.0,1451.0,15738.0,1371.0,2785.0,460.0,3850.0,654.0,281.0,106.0,Maine,York County,195377.0,1536.0,171586.0,1467.0,23791.0,1348.0,13723.0,1151.0,3985.0,566.0,6083.0,645.0,,,74.0,113.0,Rock,York,55_105,23_031,outflow_09_13_Maine.csv
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_Maine.csv
 1Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_Maine.csv
-"2Incudes Puerto Rico, U.S. Island Areas, and Foreign Countries",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_Maine.csv
 Blank cells represent estimates that are not available,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_Maine.csv
-MOE - Margin of error based on 90% confidence interval,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_Maine.csv
-"Source: U.S. Census Bureau, 2009-2013 American Community Survey",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_Maine.csv

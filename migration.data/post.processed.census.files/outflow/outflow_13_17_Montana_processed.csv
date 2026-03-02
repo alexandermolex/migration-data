@@ -2181,9 +2181,6 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 56,037,30,111,Wyoming,Sweetwater County,43782.0,169.0,35354.0,963.0,8367.0,940.0,5423.0,796.0,799.0,277.0,2145.0,570.0,61.0,48.0,Montana,Yellowstone County,153595.0,1242.0,129355.0,1777.0,24240.0,1567.0,15890.0,1445.0,3435.0,502.0,4915.0,656.0,,,10.0,17.0,Sweetwater,Yellowstone,56_037,30_111,outflow_13_17_Montana.csv
 56,039,30,111,Wyoming,Teton County,22637.0,173.0,18569.0,773.0,3775.0,752.0,1515.0,457.0,598.0,274.0,1662.0,473.0,293.0,220.0,Montana,Yellowstone County,153595.0,1242.0,129355.0,1777.0,24240.0,1567.0,15890.0,1445.0,3435.0,502.0,4915.0,656.0,,,7.0,17.0,Teton,Yellowstone,56_039,30_111,outflow_13_17_Montana.csv
 56,043,30,111,Wyoming,Washakie County,8167.0,45.0,7072.0,275.0,1086.0,254.0,702.0,203.0,268.0,106.0,116.0,93.0,9.0,15.0,Montana,Yellowstone County,153595.0,1242.0,129355.0,1777.0,24240.0,1567.0,15890.0,1445.0,3435.0,502.0,4915.0,656.0,,,5.0,9.0,Washakie,Yellowstone,56_043,30_111,outflow_13_17_Montana.csv
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Montana.csv
 1Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Montana.csv
 "2Includes Puerto Rico, U.S. Island Areas, and Foreign Countries.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Montana.csv
 Blank cells represent estimates that are not available.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Montana.csv
-MOE - Margin of error based on 90% confidence interval.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Montana.csv
-"Source: U.S. Census Bureau, 2013-2017 American Community Survey. For more information, see https://census.gov/acs.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Montana.csv

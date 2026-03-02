@@ -4485,10 +4485,7 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 29,187,01,133,Missouri,St. Francois County,65941.0,195.0,54808.0,1155.0,11025.0,1153.0,6692.0,1027.0,3263.0,407.0,1070.0,390.0,108.0,98.0,Alabama,Winston County,23641.0,566.0,20992.0,442.0,2649.0,565.0,1329.0,316.0,1184.0,449.0,136.0,85.0,,,20.0,33.0,St. Francois,Winston,29_187,01_133,outflow_16_20_Alabama.csv
 47,065,01,133,Tennessee,Hamilton County,360198.0,612.0,307237.0,2378.0,52043.0,2304.0,30719.0,1907.0,8637.0,1122.0,12687.0,1235.0,918.0,279.0,Alabama,Winston County,23641.0,566.0,20992.0,442.0,2649.0,565.0,1329.0,316.0,1184.0,449.0,136.0,85.0,,,11.0,17.0,Hamilton,Winston,47_065,01_133,outflow_16_20_Alabama.csv
 48,439,01,133,Texas,Tarrant County,2051551.0,1393.0,1738578.0,7453.0,300087.0,7122.0,191071.0,6650.0,63444.0,3783.0,45572.0,2695.0,12886.0,1828.0,Alabama,Winston County,23641.0,566.0,20992.0,442.0,2649.0,565.0,1329.0,316.0,1184.0,449.0,136.0,85.0,,,50.0,76.0,Tarrant,Winston,48_439,01_133,outflow_16_20_Alabama.csv
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Alabama.csv
 1Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Alabama.csv
 "2Includes Puerto Rico, U.S. Island Areas, and Foreign Countries.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Alabama.csv
 Blank cells represent estimates that are not available.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Alabama.csv
-MOE - Margin of error based on 90% confidence interval.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Alabama.csv
 The Census Bureau reviewed this data product for unauthorized disclosure of confidential information and approved the disclosure avoidance practices applied to this release. CBDRB-FY23-027.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Alabama.csv
-"Source: U.S. Census Bureau, 2016-2020 American Community Survey, 5-year estimates. For more information, see https://census.gov/acs.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Alabama.csv

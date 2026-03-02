@@ -4281,9 +4281,6 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 45,079,05,149,South Carolina,Richland County,400360.0,483.0,310600.0,3273.0,86958.0,3301.0,39589.0,2326.0,20412.0,1469.0,26957.0,1286.0,2802.0,673.0,Arkansas,Yell County,21500.0,710.0,18634.0,477.0,2866.0,652.0,1361.0,340.0,1387.0,538.0,118.0,83.0,,,19.0,26.0,Richland,Yell,45_079,05_149,outflow_13_17_Arkansas.csv
 47,183,05,149,Tennessee,Weakley County,33397.0,112.0,28448.0,512.0,4825.0,493.0,2500.0,400.0,1705.0,336.0,620.0,188.0,124.0,72.0,Arkansas,Yell County,21500.0,710.0,18634.0,477.0,2866.0,652.0,1361.0,340.0,1387.0,538.0,118.0,83.0,,,56.0,77.0,Weakley,Yell,47_183,05_149,outflow_13_17_Arkansas.csv
 48,061,05,149,Texas,Cameron County,414137.0,681.0,375977.0,2695.0,35333.0,2634.0,27511.0,2396.0,5523.0,930.0,2299.0,593.0,2827.0,610.0,Arkansas,Yell County,21500.0,710.0,18634.0,477.0,2866.0,652.0,1361.0,340.0,1387.0,538.0,118.0,83.0,,,10.0,22.0,Cameron,Yell,48_061,05_149,outflow_13_17_Arkansas.csv
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Arkansas.csv
 1Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Arkansas.csv
 "2Includes Puerto Rico, U.S. Island Areas, and Foreign Countries.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Arkansas.csv
 Blank cells represent estimates that are not available.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Arkansas.csv
-MOE - Margin of error based on 90% confidence interval.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Arkansas.csv
-"Source: U.S. Census Bureau, 2013-2017 American Community Survey. For more information, see https://census.gov/acs.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Arkansas.csv

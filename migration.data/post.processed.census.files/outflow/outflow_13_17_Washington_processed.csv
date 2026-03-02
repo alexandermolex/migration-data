@@ -4850,9 +4850,6 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 56,001,53,077,Wyoming,Albany County,37607.0,102.0,26185.0,710.0,11094.0,743.0,6260.0,696.0,1772.0,297.0,3062.0,441.0,328.0,127.0,Washington,Yakima County,244372.0,1368.0,210377.0,1879.0,33995.0,1992.0,25385.0,1759.0,5109.0,753.0,3501.0,628.0,,,24.0,39.0,Albany,Yakima,56_001,53_077,outflow_13_17_Washington.csv
 56,013,53,077,Wyoming,Fremont County,39866.0,93.0,33164.0,645.0,6643.0,651.0,4092.0,572.0,1281.0,352.0,1270.0,308.0,59.0,36.0,Washington,Yakima County,244372.0,1368.0,210377.0,1879.0,33995.0,1992.0,25385.0,1759.0,5109.0,753.0,3501.0,628.0,,,2.0,4.0,Fremont,Yakima,56_013,53_077,outflow_13_17_Washington.csv
 56,039,53,077,Wyoming,Teton County,22637.0,173.0,18569.0,773.0,3775.0,752.0,1515.0,457.0,598.0,274.0,1662.0,473.0,293.0,220.0,Washington,Yakima County,244372.0,1368.0,210377.0,1879.0,33995.0,1992.0,25385.0,1759.0,5109.0,753.0,3501.0,628.0,,,62.0,92.0,Teton,Yakima,56_039,53_077,outflow_13_17_Washington.csv
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Washington.csv
 1Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Washington.csv
 "2Includes Puerto Rico, U.S. Island Areas, and Foreign Countries.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Washington.csv
 Blank cells represent estimates that are not available.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Washington.csv
-MOE - Margin of error based on 90% confidence interval.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Washington.csv
-"Source: U.S. Census Bureau, 2013-2017 American Community Survey. For more information, see https://census.gov/acs.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Washington.csv

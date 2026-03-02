@@ -7041,9 +7041,5 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 27,173,46,097,Minnesota,Yellow Medicine County,10170.0,24.0,8740.0,214.0,1398.0,215.0,710.0,165.0,459.0,120.0,229.0,189.0,32.0,20.0,South Dakota,Miner County,2253.0,62.0,2083.0,78.0,170.0,78.0,117.0,62.0,52.0,34.0,1.0,2.0,,,1.0,2.0,Yellow Medicine,Miner,27_173,46_097,inflow_09_13_Minnesota.csv,2009,2013
 27,173,55,027,Minnesota,Yellow Medicine County,10170.0,24.0,8740.0,214.0,1398.0,215.0,710.0,165.0,459.0,120.0,229.0,189.0,32.0,20.0,Wisconsin,Dodge County,87322.0,929.0,76677.0,826.0,10645.0,978.0,5313.0,695.0,4286.0,629.0,1046.0,310.0,,,4.0,6.0,Yellow Medicine,Dodge,27_173,55_027,inflow_09_13_Minnesota.csv,2009,2013
 27,173,ASI,000,Minnesota,Yellow Medicine County,10170.0,24.0,8740.0,214.0,1398.0,215.0,710.0,165.0,459.0,120.0,229.0,189.0,32.0,20.0,Asia,-,,,,,,,,,,,,,,,32.0,20.0,Yellow Medicine,,27_173,Asia,inflow_09_13_Minnesota.csv,2009,2013
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_Minnesota.csv,2009,2013
-"1Incudes Puerto Rico, U.S. Island Areas, and Foreign Countries",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_Minnesota.csv,2009,2013
 2Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_Minnesota.csv,2009,2013
 Blank cells represent estimates that are not available,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_Minnesota.csv,2009,2013
-MOE - Margin of error based on 90% confidence interval,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_Minnesota.csv,2009,2013
-"Source: U.S. Census Bureau, 2009-2013 American Community Survey",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_Minnesota.csv,2009,2013

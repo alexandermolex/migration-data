@@ -3072,9 +3072,5 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 54,109,54,083,West Virginia,Wyoming County,23273.0,76.0,21883.0,338.0,1390.0,332.0,806.0,244.0,435.0,233.0,149.0,87.0,,,West Virginia,Randolph County,28788.0,354.0,26333.0,416.0,2455.0,360.0,1382.0,299.0,743.0,157.0,330.0,177.0,,,5.0,9.0,Wyoming,Randolph,54_109,54_083,inflow_09_13_West Virginia.csv,2009,2013
 54,109,54,089,West Virginia,Wyoming County,23273.0,76.0,21883.0,338.0,1390.0,332.0,806.0,244.0,435.0,233.0,149.0,87.0,,,West Virginia,Summers County,12745.0,392.0,11708.0,398.0,1037.0,321.0,667.0,255.0,339.0,177.0,31.0,35.0,,,8.0,13.0,Wyoming,Summers,54_109,54_089,inflow_09_13_West Virginia.csv,2009,2013
 54,109,54,097,West Virginia,Wyoming County,23273.0,76.0,21883.0,338.0,1390.0,332.0,806.0,244.0,435.0,233.0,149.0,87.0,,,West Virginia,Upshur County,23487.0,529.0,20876.0,477.0,2611.0,350.0,1479.0,295.0,491.0,134.0,641.0,212.0,,,9.0,14.0,Wyoming,Upshur,54_109,54_097,inflow_09_13_West Virginia.csv,2009,2013
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_West Virginia.csv,2009,2013
-"1Incudes Puerto Rico, U.S. Island Areas, and Foreign Countries",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_West Virginia.csv,2009,2013
 2Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_West Virginia.csv,2009,2013
 Blank cells represent estimates that are not available,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_West Virginia.csv,2009,2013
-MOE - Margin of error based on 90% confidence interval,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_West Virginia.csv,2009,2013
-"Source: U.S. Census Bureau, 2009-2013 American Community Survey",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_West Virginia.csv,2009,2013

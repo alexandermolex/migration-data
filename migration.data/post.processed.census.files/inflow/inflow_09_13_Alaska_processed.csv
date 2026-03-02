@@ -1855,9 +1855,5 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 02,290,53,073,Alaska,Yukon-Koyukuk Census Area,5581.0,14.0,4792.0,98.0,788.0,96.0,434.0,65.0,264.0,55.0,90.0,34.0,1.0,3.0,Washington,Whatcom County,199999.0,1334.0,167753.0,1751.0,32246.0,1712.0,21990.0,1529.0,5340.0,616.0,4916.0,784.0,,,6.0,8.0,Yukon-Koyukuk Census Area,Whatcom,02_290,53_073,inflow_09_13_Alaska.csv,2009,2013
 02,290,55,139,Alaska,Yukon-Koyukuk Census Area,5581.0,14.0,4792.0,98.0,788.0,96.0,434.0,65.0,264.0,55.0,90.0,34.0,1.0,3.0,Wisconsin,Winnebago County,165808.0,1343.0,141620.0,1359.0,24188.0,1405.0,13185.0,1079.0,7711.0,717.0,3292.0,759.0,,,4.0,5.0,Yukon-Koyukuk Census Area,Winnebago,02_290,55_139,inflow_09_13_Alaska.csv,2009,2013
 02,290,ASI,000,Alaska,Yukon-Koyukuk Census Area,5581.0,14.0,4792.0,98.0,788.0,96.0,434.0,65.0,264.0,55.0,90.0,34.0,1.0,3.0,Asia,-,,,,,,,,,,,,,,,1.0,3.0,Yukon-Koyukuk Census Area,,02_290,Asia,inflow_09_13_Alaska.csv,2009,2013
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_Alaska.csv,2009,2013
-"1Incudes Puerto Rico, U.S. Island Areas, and Foreign Countries",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_Alaska.csv,2009,2013
 2Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_Alaska.csv,2009,2013
 Blank cells represent estimates that are not available,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_Alaska.csv,2009,2013
-MOE - Margin of error based on 90% confidence interval,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_Alaska.csv,2009,2013
-"Source: U.S. Census Bureau, 2009-2013 American Community Survey",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_09_13_Alaska.csv,2009,2013

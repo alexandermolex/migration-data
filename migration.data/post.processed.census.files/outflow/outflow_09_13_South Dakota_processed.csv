@@ -2152,9 +2152,5 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 46,103,46,137,South Dakota,Pennington County,101414.0,233.0,81250.0,1364.0,19592.0,1308.0,12407.0,1091.0,2950.0,588.0,4235.0,659.0,572.0,230.0,South Dakota,Ziebach County,2724.0,93.0,2444.0,72.0,280.0,94.0,111.0,50.0,165.0,77.0,4.0,8.0,,,33.0,37.0,Pennington,Ziebach,46_103,46_137,outflow_09_13_South Dakota.csv
 46,109,46,137,South Dakota,Roberts County,10038.0,45.0,8986.0,214.0,1044.0,210.0,556.0,130.0,189.0,134.0,299.0,109.0,8.0,13.0,South Dakota,Ziebach County,2724.0,93.0,2444.0,72.0,280.0,94.0,111.0,50.0,165.0,77.0,4.0,8.0,,,26.0,60.0,Roberts,Ziebach,46_109,46_137,outflow_09_13_South Dakota.csv
 46,121,46,137,South Dakota,Todd County,9495.0,82.0,8214.0,312.0,1272.0,293.0,880.0,235.0,231.0,151.0,161.0,81.0,9.0,14.0,South Dakota,Ziebach County,2724.0,93.0,2444.0,72.0,280.0,94.0,111.0,50.0,165.0,77.0,4.0,8.0,,,1.0,3.0,Todd,Ziebach,46_121,46_137,outflow_09_13_South Dakota.csv
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_South Dakota.csv
 1Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_South Dakota.csv
-"2Incudes Puerto Rico, U.S. Island Areas, and Foreign Countries",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_South Dakota.csv
 Blank cells represent estimates that are not available,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_South Dakota.csv
-MOE - Margin of error based on 90% confidence interval,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_South Dakota.csv
-"Source: U.S. Census Bureau, 2009-2013 American Community Survey",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_09_13_South Dakota.csv

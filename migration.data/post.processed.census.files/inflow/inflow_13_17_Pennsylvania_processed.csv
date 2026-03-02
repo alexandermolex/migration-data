@@ -9456,9 +9456,6 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 42,133,ISL,,Pennsylvania,York County,437359.0,432.0,379737.0,2637.0,55773.0,2495.0,38991.0,2454.0,8531.0,793.0,8251.0,982.0,1849.0,537.0,U.S. Island Areas,-,,,,,,,,,,,,,,,30.0,35.0,York,,42_133,U.S. Island Areas,inflow_13_17_Pennsylvania.csv,2013,2017
 42,133,NAM,,Pennsylvania,York County,437359.0,432.0,379737.0,2637.0,55773.0,2495.0,38991.0,2454.0,8531.0,793.0,8251.0,982.0,1849.0,537.0,Northern America,-,,,,,,,,,,,,,,,66.0,90.0,York,,42_133,Northern America,inflow_13_17_Pennsylvania.csv,2013,2017
 42,133,SAM,,Pennsylvania,York County,437359.0,432.0,379737.0,2637.0,55773.0,2495.0,38991.0,2454.0,8531.0,793.0,8251.0,982.0,1849.0,537.0,South America,-,,,,,,,,,,,,,,,54.0,50.0,York,,42_133,South America,inflow_13_17_Pennsylvania.csv,2013,2017
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Pennsylvania.csv,2013,2017
 "1Includes Puerto Rico, U.S. Island Areas, and Foreign Countries.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Pennsylvania.csv,2013,2017
 2Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Pennsylvania.csv,2013,2017
 Blank cells represent estimates that are not available.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Pennsylvania.csv,2013,2017
-MOE - Margin of error based on 90% confidence interval.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Pennsylvania.csv,2013,2017
-"Source: U.S. Census Bureau, 2013-2017 American Community Survey. For more information, see https://census.gov/acs.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Pennsylvania.csv,2013,2017

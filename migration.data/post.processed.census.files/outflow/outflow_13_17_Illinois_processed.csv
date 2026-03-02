@@ -9568,9 +9568,6 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 47,157,17,203,Tennessee,Shelby County,925064.0,959.0,775097.0,5086.0,146445.0,4814.0,112239.0,4293.0,10393.0,1107.0,23813.0,1719.0,3522.0,744.0,Illinois,Woodford County,38457.0,694.0,34301.0,577.0,4156.0,698.0,2186.0,461.0,1287.0,355.0,683.0,290.0,,,12.0,18.0,Shelby,Woodford,47_157,17_203,outflow_13_17_Illinois.csv
 48,201,17,203,Texas,Harris County,4458402.0,1933.0,3713057.0,10723.0,690355.0,11074.0,519319.0,9066.0,90464.0,4167.0,80572.0,4026.0,54990.0,3459.0,Illinois,Woodford County,38457.0,694.0,34301.0,577.0,4156.0,698.0,2186.0,461.0,1287.0,355.0,683.0,290.0,,,27.0,43.0,Harris,Woodford,48_201,17_203,outflow_13_17_Illinois.csv
 55,129,17,203,Wisconsin,Washburn County,15471.0,31.0,13769.0,224.0,1677.0,220.0,857.0,191.0,479.0,99.0,341.0,96.0,25.0,18.0,Illinois,Woodford County,38457.0,694.0,34301.0,577.0,4156.0,698.0,2186.0,461.0,1287.0,355.0,683.0,290.0,,,4.0,5.0,Washburn,Woodford,55_129,17_203,outflow_13_17_Illinois.csv
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Illinois.csv
 1Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Illinois.csv
 "2Includes Puerto Rico, U.S. Island Areas, and Foreign Countries.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Illinois.csv
 Blank cells represent estimates that are not available.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Illinois.csv
-MOE - Margin of error based on 90% confidence interval.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Illinois.csv
-"Source: U.S. Census Bureau, 2013-2017 American Community Survey. For more information, see https://census.gov/acs.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Illinois.csv

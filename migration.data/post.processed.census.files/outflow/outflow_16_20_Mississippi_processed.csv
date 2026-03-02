@@ -3870,10 +3870,7 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 47,157,28,163,Tennessee,Shelby County,925071.0,973.0,789881.0,5493.0,132487.0,5266.0,98893.0,4985.0,9155.0,1126.0,24439.0,2270.0,2703.0,586.0,Mississippi,Yazoo County,27270.0,739.0,24821.0,663.0,2449.0,491.0,1288.0,374.0,916.0,415.0,245.0,96.0,,,9.0,16.0,Shelby,Yazoo,47_157,28_163,outflow_16_20_Mississippi.csv
 48,113,28,163,Texas,Dallas County,2585369.0,1521.0,2195820.0,8925.0,366816.0,8781.0,250569.0,7818.0,71701.0,4054.0,44546.0,2526.0,22733.0,2000.0,Mississippi,Yazoo County,27270.0,739.0,24821.0,663.0,2449.0,491.0,1288.0,374.0,916.0,415.0,245.0,96.0,,,13.0,22.0,Dallas,Yazoo,48_113,28_163,outflow_16_20_Mississippi.csv
 55,027,28,163,Wisconsin,Dodge County,86873.0,149.0,76372.0,900.0,10304.0,823.0,4947.0,564.0,4517.0,532.0,840.0,221.0,197.0,137.0,Mississippi,Yazoo County,27270.0,739.0,24821.0,663.0,2449.0,491.0,1288.0,374.0,916.0,415.0,245.0,96.0,,,5.0,9.0,Dodge,Yazoo,55_027,28_163,outflow_16_20_Mississippi.csv
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Mississippi.csv
 1Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Mississippi.csv
 "2Includes Puerto Rico, U.S. Island Areas, and Foreign Countries.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Mississippi.csv
 Blank cells represent estimates that are not available.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Mississippi.csv
-MOE - Margin of error based on 90% confidence interval.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Mississippi.csv
 The Census Bureau reviewed this data product for unauthorized disclosure of confidential information and approved the disclosure avoidance practices applied to this release. CBDRB-FY23-027.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Mississippi.csv
-"Source: U.S. Census Bureau, 2016-2020 American Community Survey, 5-year estimates. For more information, see https://census.gov/acs.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_16_20_Mississippi.csv

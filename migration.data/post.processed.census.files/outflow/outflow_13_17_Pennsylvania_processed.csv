@@ -9120,9 +9120,6 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 56,021,42,133,Wyoming,Laramie County,96083.0,194.0,78564.0,1259.0,17092.0,1263.0,10025.0,1241.0,1799.0,403.0,5268.0,615.0,427.0,193.0,Pennsylvania,York County,435924.0,1669.0,379737.0,2637.0,56116.0,2579.0,38991.0,2454.0,9164.0,887.0,7961.0,907.0,71.0,99.0,3.0,7.0,Laramie,York,56_021,42_133,outflow_13_17_Pennsylvania.csv
 72,029,42,133,Puerto Rico,Canóvanas Municipio,46291.0,122.0,42517.0,892.0,3284.0,848.0,1444.0,462.0,1840.0,659.0,458.0,258.0,32.0,42.0,Pennsylvania,York County,435924.0,1669.0,379737.0,2637.0,56116.0,2579.0,38991.0,2454.0,9164.0,887.0,7961.0,907.0,71.0,99.0,58.0,98.0,Canóvanas Municipio,York,72_029,42_133,outflow_13_17_Pennsylvania.csv
 72,109,42,133,Puerto Rico,Patillas Municipio,17620.0,121.0,16699.0,368.0,713.0,302.0,540.0,280.0,173.0,123.0,208.0,196.0,,,Pennsylvania,York County,435924.0,1669.0,379737.0,2637.0,56116.0,2579.0,38991.0,2454.0,9164.0,887.0,7961.0,907.0,71.0,99.0,13.0,20.0,Patillas Municipio,York,72_109,42_133,outflow_13_17_Pennsylvania.csv
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Pennsylvania.csv
 1Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Pennsylvania.csv
 "2Includes Puerto Rico, U.S. Island Areas, and Foreign Countries.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Pennsylvania.csv
 Blank cells represent estimates that are not available.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Pennsylvania.csv
-MOE - Margin of error based on 90% confidence interval.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Pennsylvania.csv
-"Source: U.S. Census Bureau, 2012-2016 American Community Survey. For more information, see https://census.gov/acs.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,outflow_13_17_Pennsylvania.csv

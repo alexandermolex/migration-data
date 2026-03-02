@@ -8,6 +8,7 @@ class MigrationFlowProcessor:
     """
     Custom processor for Census Bureau migration flow CSV files
     Preserves FIPS codes as strings with leading zeros
+    Removes footnote rows at the bottom of files
     """
     
     def __init__(self, input_folder, output_folder=None):
@@ -132,6 +133,43 @@ class MigrationFlowProcessor:
             # If it's already a string with special codes (ASI, EUR, etc.), return as is
             return str(value)
     
+    def is_footnote_row(self, row):
+        """
+        Check if a row is a footnote row by looking for common footnote indicators
+        """
+        # Convert first few columns to string for checking
+        first_col = str(row.iloc[0]) if len(row) > 0 else ''
+        second_col = str(row.iloc[1]) if len(row) > 1 else ''
+        
+        # Check for footnote indicators
+        footnote_keywords = ['footnote', 'source', 'margin of error', 'incudes', 'moes based']
+        
+        # Check if first column contains footnote keywords (case insensitive)
+        if any(keyword in first_col.lower() for keyword in footnote_keywords):
+            return True
+            
+        # Check if first column is empty and second column has a footnote-like value
+        if (first_col == '' or first_col == 'nan' or pd.isna(row.iloc[0])) and \
+           any(keyword in second_col.lower() for keyword in footnote_keywords):
+            return True
+            
+        # Check for specific patterns in your data
+        if first_col == 'Footnotes:' or first_col == 'Footnotes':
+            return True
+            
+        # Check if the row has very few non-null values compared to header length
+        # (footnote rows typically have data only in first few columns)
+        non_null_count = row.count()
+        if non_null_count < 5:  # If most columns are empty, it's probably a footnote
+            # But make sure it's not just an empty data row
+            # Check if the first column has actual data-like content
+            if first_col and not any(keyword in first_col.lower() for keyword in footnote_keywords):
+                # If it has content but not footnote keywords, might be valid data
+                return False
+            return True
+            
+        return False
+    
     def process_file(self, file_path, output_path=None):
         """
         Process a single migration flow file
@@ -161,6 +199,17 @@ class MigrationFlowProcessor:
             
             # Assign column names
             df.columns = column_names
+            
+            # NEW: Remove footnote rows
+            initial_row_count = len(df)
+            
+            # Apply footnote filtering
+            footnote_mask = df.apply(self.is_footnote_row, axis=1)
+            df = df[~footnote_mask].copy()
+            
+            footnote_count = initial_row_count - len(df)
+            if footnote_count > 0:
+                print(f"  Removed {footnote_count} footnote rows")
             
             # Format FIPS codes to preserve leading zeros
             fips_columns = ['origin_fips_state', 'origin_fips_county', 

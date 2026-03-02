@@ -6639,9 +6639,6 @@ origin_fips_state,origin_fips_county,dest_fips_state,dest_fips_county,origin_sta
 40,153,54,041,Oklahoma,Woodward County,20977.0,96.0,17163.0,535.0,3716.0,493.0,2392.0,395.0,916.0,211.0,408.0,196.0,98.0,118.0,West Virginia,Lewis County,16303.0,471.0,13660.0,426.0,2643.0,444.0,1376.0,323.0,721.0,245.0,546.0,293.0,,,2.0,4.0,Woodward,Lewis,40_153,54_041,inflow_13_17_Oklahoma.csv,2013,2017
 40,153,ASI,,Oklahoma,Woodward County,20977.0,96.0,17163.0,535.0,3716.0,493.0,2392.0,395.0,916.0,211.0,408.0,196.0,98.0,118.0,Asia,-,,,,,,,,,,,,,,,12.0,19.0,Woodward,,40_153,Asia,inflow_13_17_Oklahoma.csv,2013,2017
 40,153,SAM,,Oklahoma,Woodward County,20977.0,96.0,17163.0,535.0,3716.0,493.0,2392.0,395.0,916.0,211.0,408.0,196.0,98.0,118.0,South America,-,,,,,,,,,,,,,,,86.0,117.0,Woodward,,40_153,South America,inflow_13_17_Oklahoma.csv,2013,2017
-Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Oklahoma.csv,2013,2017
 "1Includes Puerto Rico, U.S. Island Areas, and Foreign Countries.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Oklahoma.csv,2013,2017
 2Estimate is movers within the United States for counties or county equivalents in the United States or movers within Puerto Rico for municipios.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Oklahoma.csv,2013,2017
 Blank cells represent estimates that are not available.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Oklahoma.csv,2013,2017
-MOE - Margin of error based on 90% confidence interval.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Oklahoma.csv,2013,2017
-"Source: U.S. Census Bureau, 2013-2017 American Community Survey. For more information, see https://census.gov/acs.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inflow_13_17_Oklahoma.csv,2013,2017

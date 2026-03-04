@@ -259,8 +259,8 @@ class MigrationFlowProcessor:
             
             # Add metadata
             df['source_file'] = os.path.basename(file_path)
-            
-            year_match = re.search(r'inflow_(\d+)_(\d+)', os.path.basename(file_path))
+            #Change this for inflow/outflow
+            year_match = re.search(r'outflow_(\d+)_(\d+)', os.path.basename(file_path))
             if year_match:
                 df['year_start'] = f"20{year_match.group(1)}"
                 df['year_end'] = f"20{year_match.group(2)}"
@@ -365,6 +365,7 @@ def simple_process_with_fips(input_folder, output_folder):
             # Add metadata
             df['source_file'] = filename
             
+            #Change this to add year for outflow
             year_match = re.search(r'inflow_(\d+)_(\d+)', filename)
             if year_match:
                 df['year_start'] = f"20{year_match.group(1)}"

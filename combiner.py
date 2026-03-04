@@ -13,6 +13,7 @@ def batch_stack(state):
             # Remove footnote rows (they have text footnotes and null values in data columns)
             # Keep only rows that have valid origin_fips_state (which should be numeric)
             df = df[pd.to_numeric(df['origin_fips_state'], errors='coerce').notna()]
+            df = df.iloc[:, 1:]
             data.append(df)
     return pd.concat(data, ignore_index=True)
  
@@ -25,4 +26,9 @@ def state_list():
             states.append(str(file).split("_")[-2])
     return states
 states = state_list()
-print(states)
+states.sort()
+
+for item in states:
+    df = batch_stack(item)
+    df.to_csv(f"migration.data/post.processed.census.files/concat/{item}_full.csv")
+    print(f"{item} has been concatenated and saved")

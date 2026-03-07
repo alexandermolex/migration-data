@@ -1,4 +1,5 @@
 import pandas as pd
+import sqlite3
 import pathlib
 from pathlib import Path
 
@@ -25,6 +26,17 @@ def state_list():
             states.append(str(file).split("_")[-2])
     return states
 
+def full_stack(flow):
+    data = []
+    dir_path = Path("migration.data/post.processed.census.files/concat")
+    if dir_path.exists() and dir_path.is_dir():
+        #Change the file name to reflect where it is being processed
+        files = dir_path.glob(f'*_full_{flow}.csv')
+        for file in files:
+            df = pd.read_csv(file)
+            data.append(df)
+    return pd.concat(data, ignore_index=True)
+
 states = state_list()
 states.sort()
 
@@ -37,3 +49,12 @@ for item in states:
     else:
         df.to_csv(f"migration.data/post.processed.census.files/concat/{item}_full_outflow.csv")
     print(f"{item} has been concatenated and saved")
+
+list = ['inflow','outflow']
+conn = sqlite3.connect('Full_Migration.db')
+df = full_stack(list[0])
+df.to_sql('Inflow', conn, if_exists='replace', index=False)
+df = full_stack(list[1])
+df.to_sql('Outflow', conn, if_exists='replace', index=False)
+conn.close()
+
